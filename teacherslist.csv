@@ -1,0 +1,1449 @@
+"(SEFIAP2) TEST";2;"Premier cours de test";SEFIAP2-TESTSEF3;grid;berrando;9
+"(SEFIAP2) TEST";2;"Premier cours de test";SEFIAP2-TESTSEF3;grid;nrandria;9
+"(SEFIAP2) TEST";7;"Test Brice";SEFIAP2-TESTBR;topics;berrando;7
+"(SEFIAP2) TEST";8;"Autre test";SEFIAP2-AUTRETEST;topics;berrando;11
+"(SEFIAP2) TEST";8;"Autre test";SEFIAP2-AUTRETEST;topics;selmraba;11
+AUTRES;9;"Cours de test Marc";ZAUTRES-DEFAUT3;topics;mlemaire;8
+"(SEFIAP3) SUPPORTS";11;"Tutoriels pour les enseignants";SEFIAP3-TUTOPRO;topics;berrando;8
+"(SEFIAP3) SUPPORTS";11;"Tutoriels pour les enseignants";SEFIAP3-TUTOPRO;topics;tmarchand;8
+"(SEFIAP3) SUPPORTS";12;"Tutoriels pour les étudiants";SEFIAP3-TUTOETU;topics;berrando;4
+"(SEFIAP3) SUPPORTS";12;"Tutoriels pour les étudiants";SEFIAP3-TUTOETU;topics;tmarchand;4
+"(SEFIAP3) SUPPORTS";12;"Tutoriels pour les étudiants";SEFIAP3-TUTOETU;topics;cabidib;4
+"(SEFIAP2) TEST";13;"Cours de Test Juliette";SEFIAP2-TESTJL;topics;htrankie;9
+"(SEFIAP2) TEST";13;"Cours de Test Juliette";SEFIAP2-TESTJL;topics;cabidib;9
+"(SEFIAP2) TEST";13;"Cours de Test Juliette";SEFIAP2-TESTJL;topics;nandriam;9
+AUTRES;25;"Modules par défaut";ZAUTRES-DEFAUT;topcoll;berrando;7
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;lecomte;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;raulet;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;dpoulain1;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;neffati;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;dujardin;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;rpresa;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;wilkie;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";27;"Projet tutoré M1207 [EC]";7B03A1-7BCB1PTU;topics;verhe;5
+"(SEFIAP2) TEST";30;COURS-TEST-SEFIAP1;SEFIAP2-TESTSEF;topics;nrandria;3
+"(SEFIAP2) TEST";30;COURS-TEST-SEFIAP1;SEFIAP2-TESTSEF;topics;berrando;3
+"(SEFIAP2) TEST";30;COURS-TEST-SEFIAP1;SEFIAP2-TESTSEF;topics;tmarchand;3
+AUTRES;37;"Ressources vidéos";ZAUTRES-RESVIDEO;topics;berrando;11
+"(2F17H2) Master GIF MARCHES FINANCIERS AUDIT ET CONTROLE AP 2";42;"Anglais [UE]";2F17H2-2FIX3;topics;cpeuduva;5
+"(SEFIAP2) TEST";50;"Cours UCP";SEFIAP2-COURSUCP;topics;cabidib;5
+"(SEFIAP2) TEST";50;"Cours UCP";SEFIAP2-COURSUCP;topics;lcazeaux;5
+"(SEFIAP2) TEST";50;"Cours UCP";SEFIAP2-COURSUCP;topics;lbouillet;5
+"(SEFIAP2) TEST";50;"Cours UCP";SEFIAP2-COURSUCP;topics;jsimione;5
+"(SEFIAP2) TEST";50;"Cours UCP";SEFIAP2-COURSUCP;topics;mbigouri;5
+"(SEFIAP2) TEST";50;"Cours UCP";SEFIAP2-COURSUCP;topics;jpenchen;5
+"(SEFIAP2) TEST";51;"Cours UCP prise en mains";SEFIAP2-PRMAIN;topics;cabidib;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";54;"Direction des études";7B03A1-72014E;topics;lecomte;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";55;"Anglais M1301 [EC]";7B03A1-7BCC1ANG;weeks;lecomte;14
+"(7B03A1) DUT GEII NEUVILLE FI 1";55;"Anglais M1301 [EC]";7B03A1-7BCC1ANG;weeks;cellwood;14
+"(7B03A2) DUT GEII NEUVILLE FI 2";56;"Anglais [EC]";7B03A2-7BCC3LVA;weeks;lecomte;6
+"(5V08C2) Master STPE ÉCO-CONSTRUCTION 2";61;"Responsabilité sociétale des enterprises et des organisation [CM]";5V08C2-5VBRES3M;topics;jpissarr;4
+"(5V08C2) Master STPE ÉCO-CONSTRUCTION 2";62;"Conception de l'éco-construction: l'éco-construction au trav [CM]";5V08C2-5VBCEC3M;topics;jpissarr;9
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;mizrahi;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;alili;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;dehy;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;harge;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;dmanuel;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;thizyp;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;iftimo;17
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";65;"Algèbre linéaire [CM] ";5B01A1-5BDALG1M;weeks;martirod;17
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";66;"Production audiovisuelle - Semestre 1";7B12A1-7BFB1PRA;topics;vgruyer;9
+"(2V01A1) Master ÉCONOMIE ANALYSE ÉCONOMIQUE 1";67;"UE Marchés financiers [UE]";2V01A1-2FUA31;topics;aheinen;2
+"(2V01A1) Master ÉCONOMIE ANALYSE ÉCONOMIQUE 1";67;"UE Marchés financiers [UE]";2V01A1-2FUA31;topics;sravoisi;2
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";68;"CM Structure et bases fonctionnelles des molécules du vivant [CM]";5B01C1-5BIMOL1M;topics;cpicot2;5
+"(2B02B3) Licence ÉCONOMIE, FINANCE + DU ECE 3";69;"Econométrie CM et TD [UE]";2B02B3-2EIC5;topics;aheinen;6
+"(2B02B3) Licence ÉCONOMIE, FINANCE + DU ECE 3";69;"Econométrie CM et TD [UE]";2B02B3-2EIC5;topics;mboucher;6
+"(2B02B3) Licence ÉCONOMIE, FINANCE + DU ECE 3";69;"Econométrie CM et TD [UE]";2B02B3-2EIC5;topics;aclement;6
+"(2V02D2) Master FINANCE GESTION DES RISQUES FINANCIERS 2";70;"Introduction aux séries temporelles [UE]";2V02D2-2FJG3;topics;aheinen;1
+"(2V02D2) Master FINANCE GESTION DES RISQUES FINANCIERS 2";70;"Introduction aux séries temporelles [UE]";2V02D2-2FJG3;topics;rammant;1
+"(2V02D2) Master FINANCE GESTION DES RISQUES FINANCIERS 2";70;"Introduction aux séries temporelles [UE]";2V02D2-2FJG3;topics;npotaill;1
+"(2V01C2) Master ÉCONOMIE INGÉNIERIE ÉCONOMIQUE 2";71;"Econométrie des séries temporelles approfondie [UE]";2V01C2-2FCA3;topics;aheinen;1
+"(2V01C2) Master ÉCONOMIE INGÉNIERIE ÉCONOMIQUE 2";71;"Econométrie des séries temporelles approfondie [UE]";2V01C2-2FCA3;topics;sravoisi;1
+"(5V08C2) Master STPE ÉCO-CONSTRUCTION 2";72;"Eco-matériaux [CM]";5V08C2-5VBECM3M;topics;jpissarr;6
+"(5V08C2) Master STPE ÉCO-CONSTRUCTION 2";73;"Bases techniques et phases d'un projet de construction [CM]";5V08C2-5VBBTP3M;topics;jpissarr;11
+"15 : BROUILLONS";74;"Les Groupes et les Groupements";WBROU-GROUP;topics;nandriam;4
+"15 : BROUILLONS";74;"Les Groupes et les Groupements";WBROU-GROUP;topics;cpers;4
+"(5B13A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";75;"CM Biologie du développement [CM]";5B13A3-5BJDEV6M;topics;mregentk;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";76;"CM Biologie et physiologie végétale [CM]";5B01C1-5BIPHV2M;topics;mregentk;7
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";76;"CM Biologie et physiologie végétale [CM]";5B01C1-5BIPHV2M;topics;hgoudjil;7
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";77;"CM Diversité du vivant [CM]";5B01C1-5BIDVI1M;topics;mregentk;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";77;"CM Diversité du vivant [CM]";5B01C1-5BIDVI1M;topics;mpotage;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";78;"CM Biologie et physiologie animale [CM]";5B01C1-5BIPHA2M;topics;mregentk;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";78;"CM Biologie et physiologie animale [CM]";5B01C1-5BIPHA2M;topics;hgoudjil;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";78;"CM Biologie et physiologie animale [CM]";5B01C1-5BIPHA2M;topics;darbeida;5
+"15 : BROUILLONS";80;CompNum;;weeks;manuelia;4
+"(72014V) Tutorat IUT";81;"Test de positionnement IUT";72014V-72014E;topics;nkhakneg;2
+"(72014V) Tutorat IUT";81;"Test de positionnement IUT";72014V-72014E;topics;vigier;2
+"(72014V) Tutorat IUT";81;"Test de positionnement IUT";72014V-72014E;topics;nandriam;2
+"(72014V) Tutorat IUT";81;"Test de positionnement IUT";72014V-72014E;topics;btaieb;2
+"(7B03A1) DUT GEII NEUVILLE FI 1";82;"Adaptation - méthodologie pour la réussite universitaire [EC]";7B03A1-7BCB1MRU;topics;verhe;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";82;"Adaptation - méthodologie pour la réussite universitaire [EC]";7B03A1-7BCB1MRU;topics;lecomte;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";82;"Adaptation - méthodologie pour la réussite universitaire [EC]";7B03A1-7BCB1MRU;topics;dpoulain1;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";82;"Adaptation - méthodologie pour la réussite universitaire [EC]";7B03A1-7BCB1MRU;topics;mcordier;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";83;"Outils logiciels M1201 [EC]";7B03A1-7BCB1OUT;topics;verhe;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";83;"Outils logiciels M1201 [EC]";7B03A1-7BCB1OUT;topics;griesmar;6
+"(7E32B3) LP SYSTEMES AUTOMATISES ET RESEAUX INDUSTRIELS AP 3";84;"Mathématiques appliquées [UE]";7E32B3-7ENA0MAT;topics;verhe;7
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;dntt;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;htrankie;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;melnyka;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;amelnyk;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;shanoune;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;rbraud;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;ibriquel;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;chattya;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;jen;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;tliu;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;nmarrier;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;cweidman;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;mlemaire;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;nbeausse;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;laroque;12
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";85;"TP Introduction à l'informatique [TP]";5B01A1-5BDINF1P;topics;bourdon;12
+"(7B03A1) DUT GEII NEUVILLE FI 1";86;"Mathématiques M1302 [EC]";7B03A1-7BCC1MAT;topics;verhe;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";86;"Mathématiques M1302 [EC]";7B03A1-7BCC1MAT;topics;mcordier;6
+"(7B03A2) DUT GEII NEUVILLE FI 2";87;"Mathématiques [EC]";7B03A2-7BCC3MAT;topics;verhe;6
+"(7B03B2) DUT GEII NEUVILLE APPR 2";88;"Mathématiques M3302 [EC]";7B03B2-7BDC3MAT;topics;verhe;11
+"(AV06A1) Master MEEF LETTRES CERGY 1";93;"S1 - EC111 : Connaissance du métier 1 - Valérie CAILLET";AV06A1-AVBA1CDM;topics;vcaillet;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";93;"S1 - EC111 : Connaissance du métier 1 - Valérie CAILLET";AV06A1-AVBA1CDM;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";94;"S1 - EC112 : Connaissance du métier de professeur des lettres : histoire et épistémologie de la discipline « français » - Marie-Laure ELALOUF";AV06A1-AVBPEX2M5;topics;elalouf;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";94;"S1 - EC112 : Connaissance du métier de professeur des lettres : histoire et épistémologie de la discipline « français » - Marie-Laure ELALOUF";AV06A1-AVBPEX2M5;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;obelin;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;mbesnard;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;gmerlin;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;abach;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;hfournier;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;bgerlaud;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";95;"S1-S2 - EC212 - Construction d'expériences du métier et analyse des pratiques de stage - Marielle BESNARD";AV06A1-AVBCAM2D;topics;sfotre;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";96;"S1 - EC121 : Méthodologie de la dissertation - Pierre-Henri KLEIBER";AV06A1-AVBPEX2M4;topics;pkleiber;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";96;"S1 - EC121 : Méthodologie de la dissertation - Pierre-Henri KLEIBER";AV06A1-AVBPEX2M4;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";97;"S1 - EC121 : Théorie et critique littéraire - Corinne BLANCHAUD";AV06A1-AVBPEX2M3;topics;blanchaud;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";97;"S1 - EC121 : Théorie et critique littéraire - Corinne BLANCHAUD";AV06A1-AVBPEX2M3;topics;obelin;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";98;"S1 - EC121 : Roman - Pierre-Louis FORT";AV06A1-AVBPEX2M2;topics;pfort;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";98;"S1 - EC121 : Roman - Pierre-Louis FORT";AV06A1-AVBPEX2M2;topics;obelin;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";99;"S1 - EC121 : Théâtre - Gaëtane POPESCO";AV06A1-AVBTHE2M;topics;gpopesco;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";99;"S1 - EC121 : Théâtre - Gaëtane POPESCO";AV06A1-AVBTHE2M;topics;obelin;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";100;"S1 - EC121 : Essai et écrits du for privé - Florence FERRAN";AV06A1-AVBPEX2M1;topics;fferran;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";100;"S1 - EC121 : Essai et écrits du for privé - Florence FERRAN";AV06A1-AVBPEX2M1;topics;obelin;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";101;"S1 - EC121 : Poésie - Olivier BELIN";AV06A1-AVBPEX2M;topics;obelin;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";102;"S1 - EC131 : Histoire de la langue - Olivier BERTRAND";AV06A1-AVBHDL2M;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";102;"S1 - EC131 : Histoire de la langue - Olivier BERTRAND";AV06A1-AVBHDL2M;topics;obertran;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";103;"S1 - EC131 : Français moderne - Marie-Madeleine BERTUCCI";AV06A1-AVBFRM2M2;topics;mbertucci;10
+"(AV06A1) Master MEEF LETTRES CERGY 1";104;"S1 - EC131 : Didactique de la grammaire - écrit - Marie-Laure ELALOUF";AV06A1-AVBGED2M1;topics;obelin;10
+"(AV06A1) Master MEEF LETTRES CERGY 1";104;"S1 - EC131 : Didactique de la grammaire - écrit - Marie-Laure ELALOUF";AV06A1-AVBGED2M1;topics;elalouf;10
+"(AV06A1) Master MEEF LETTRES CERGY 1";105;"S2 - EC242 : Français moderne : Lexique, Morphosyntaxe et Stylistique - Marie-Madeleine BERTUCCI";AV06A1-AVBFRM2M;topics;obelin;13
+"(AV06A1) Master MEEF LETTRES CERGY 1";105;"S2 - EC242 : Français moderne : Lexique, Morphosyntaxe et Stylistique - Marie-Madeleine BERTUCCI";AV06A1-AVBFRM2M;topics;mbertucci;13
+"(AV06A1) Master MEEF LETTRES CERGY 1";106;"S1 - EC141 : Langue vivante Anglais - Claire Carles-Huguet";AV06A1-AVBANG1D;topics;obelin;10
+"(AV06A1) Master MEEF LETTRES CERGY 1";106;"S1 - EC141 : Langue vivante Anglais - Claire Carles-Huguet";AV06A1-AVBANG1D;topics;chuguet;10
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;obelin;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;blanchaud;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;ndenizot;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;fferran;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;pfort;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;pkleiber;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";107;"S1 - EC151 : Séminaire de recherche littérature";AV06A1-AVBREC1M;topics;gpopesco;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";108;"S2 – EC231 - Méthode et pratique de la composition française - Olivier BELIN et Pierre-Henri KLEIBER";AV06A1-AVBMCF2M;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";108;"S2 – EC231 - Méthode et pratique de la composition française - Olivier BELIN et Pierre-Henri KLEIBER";AV06A1-AVBMCF2M;topics;pkleiber;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";109;"S2 – EC222 - Usage du numérique dans l’enseignement du français";AV06A1-AVBNEF2D;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";109;"S2 – EC222 - Usage du numérique dans l’enseignement du français";AV06A1-AVBNEF2D;topics;abach;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";110;"S2 – EC221 Usage du numérique en milieu scolaire - référentiel A du C2i2e ";AV06A1-AVBUDN1D;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";110;"S2 – EC221 Usage du numérique en milieu scolaire - référentiel A du C2i2e ";AV06A1-AVBUDN1D;topics;abach;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";111;"S2 – EC252 Langue et littérature française - Olivier BERTRAND";AV06A1-AVBLLF2M;topics;obelin;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";111;"S2 – EC252 Langue et littérature française - Olivier BERTRAND";AV06A1-AVBLLF2M;topics;obertran;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";112;"S2 – EC261 Séminaire de recherche linguistique - Marie-Madeleine BERTUCCI";AV06A1-AVBSDR2M;topics;mbertucci;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";113;"S2 – EC254 - FLE/FLS - Cécile BRULEY";AV06A1-AVBFLE2M;topics;obelin;13
+"(AV06A1) Master MEEF LETTRES CERGY 1";113;"S2 – EC254 - FLE/FLS - Cécile BRULEY";AV06A1-AVBFLE2M;topics;cbruleym;13
+"(AV06A1) Master MEEF LETTRES CERGY 1";113;"S2 – EC254 - FLE/FLS - Cécile BRULEY";AV06A1-AVBFLE2M;topics;mbertucci;13
+"(AV06A1) Master MEEF LETTRES CERGY 1";114;"S2 – EC245 - Grammaire et didactique de la grammaire pour la leçon orale - Marie-Laure ELALOUF";AV06A1-AVBGED2M;topics;obelin;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";114;"S2 – EC245 - Grammaire et didactique de la grammaire pour la leçon orale - Marie-Laure ELALOUF";AV06A1-AVBGED2M;topics;elalouf;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";114;"S2 – EC245 - Grammaire et didactique de la grammaire pour la leçon orale - Marie-Laure ELALOUF";AV06A1-AVBGED2M;topics;fravez;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";115;"S2 – EC233 - Littérature et didactique des lettres pour la leçon - Nathalie DENIZOT";AV06A1-AVBLIT2M;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";115;"S2 – EC233 - Littérature et didactique des lettres pour la leçon - Nathalie DENIZOT";AV06A1-AVBLIT2M;topics;ndenizot;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";116;"S2 – EC241 - Histoire de la langue - Olivier BERTRAND";AV06A1-A2014E51;topics;obelin;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";116;"S2 – EC241 - Histoire de la langue - Olivier BERTRAND";AV06A1-A2014E51;topics;obertran;6
+"(AV06A1) Master MEEF LETTRES CERGY 1";117;"S2 – EC243 Grammaire et didactique de la grammaire pour l’écrit - Jacques DAVID et Marie-Laure ELALOUF";AV06A1-A2014E49;topics;obelin;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";117;"S2 – EC243 Grammaire et didactique de la grammaire pour l’écrit - Jacques DAVID et Marie-Laure ELALOUF";AV06A1-A2014E49;topics;jdavid;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";117;"S2 – EC243 Grammaire et didactique de la grammaire pour l’écrit - Jacques DAVID et Marie-Laure ELALOUF";AV06A1-A2014E49;topics;elalouf;8
+"(AV06A1) Master MEEF LETTRES CERGY 1";119;"S2 – EC232 - Pratique de l’explication de texte orale - Pierre-Louis FORT et Gaëtane POPESCO";AV06A1-A2014E52;topics;obelin;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";119;"S2 – EC232 - Pratique de l’explication de texte orale - Pierre-Louis FORT et Gaëtane POPESCO";AV06A1-A2014E52;topics;pfort;7
+"(AV06A1) Master MEEF LETTRES CERGY 1";119;"S2 – EC232 - Pratique de l’explication de texte orale - Pierre-Louis FORT et Gaëtane POPESCO";AV06A1-A2014E52;topics;gpopesco;7
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";120;"Expression Communication Ecrite & Orale - M1106 [EC]";7B12A1-7BFA1COE;topics;jmeyer;5
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";121;"Expression, communication écrite et orale M3106 [EC]";7B12A2-7BFA3CEO;topics;jmeyer;5
+"(7B01C1) DUT TECHNIQUES DE COMMERCIALISATION SARCELLES FI 1";122;"Développement des Compétences Relationnelles - M2303 [EC]";7B01C1-7BGC2DCR;topics;jmeyer;5
+"(7B01C1) DUT TECHNIQUES DE COMMERCIALISATION SARCELLES FI 1";123;"Séminaire de rentrée_Conception d\'un diaporama";7B01C1-72015E2;topics;jmeyer;1
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";124;"PPP - M1108 [EC]";7B12A1-7BFA1PPP;topics;jmeyer;5
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";125;"PPP - M2108 [EC]";7B12A1-7BFA2PPP;topics;jmeyer;4
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";127;"PPP M3108 [EC]";7B12A2-7BFA3PPP;topics;jmeyer;5
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";128;"Développement des compétences relationnelles";7B12A1-72015E3;topics;jmeyer;5
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";129;"Développement des compétences relationnelles";7B12A2-72015E4;topics;jmeyer;5
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";130;"Recherches contemporaines en information-communication M4103 [EC]";7B12A2-7BFA4RIC;topics;jmeyer;5
+"(7B05A2) DUT GESTION LOGISTIQUE ET TRANSPORT APPR 2";131;"(7BMB3TEQ)Techniques quantitatives";7B05A2-7BMB3TEQ;topics;vigier;4
+"(7B05A2) DUT GESTION LOGISTIQUE ET TRANSPORT APPR 2";132;"Techniques quantitatives et recherche opérationnelle M3207 [EC]";7B05A2-7BAB3TQR;topics;vigier;6
+"(82015V) ";133;"Cours de test Informatique et Langage C";82015V-82015E5;topics;htrankie;11
+"(82015V) ";133;"Cours de test Informatique et Langage C";82015V-82015E5;topics;dntt;11
+"(4B03A3) Licence HISTOIRE 3";134;"Défense et sécurité nationales [UE]";4B03A3-4BCDEF6M;topics;pernot;5
+"(4B03A3) Licence HISTOIRE 3";134;"Défense et sécurité nationales [UE]";4B03A3-4BCDEF6M;topics;gsaunier;5
+"(4F23A1) Master HISTOIRE ET CIVILISATION PARCOURS HISTOIRE 1";135;"2HA2-Histoire des mondes médiévaux et modernes [UE]";4F23A1-4FHHMM2M;topics;pernot;6
+"(4F23A1) Master HISTOIRE ET CIVILISATION PARCOURS HISTOIRE 1";136;"1HA2 - Histoire des mondes médiévaux et modernes [UE]";4F23A1-4FHA1HMM;topics;pernot;6
+"(4F24A2) Master HISTOIRE ET CIVILISATION PARCOURS HISTOIRE 2";137;"3HA2-Histoire des mondes médiévaux et modernes [UE]";4F24A2-4FHHMM3T2;topics;pernot;6
+"(4F24A2) Master HISTOIRE ET CIVILISATION PARCOURS HISTOIRE 2";138;"4HA3-Histoire des mondes médiévaux et modernes [UE]";4F24A2-4FHHMM3T4;topics;pernot;6
+"(4F24A2) Master HISTOIRE ET CIVILISATION PARCOURS HISTOIRE 2";139;"CM Histoire des mondes médiévaux et modernes - Séminaire [UE]";4F24A2-4FHHMM3M;topics;pernot;6
+"(AV05A2) Master MEEF HISTOIRE-GÉOGRAPHIE CERGY 2";140;"Connaissance du métier de professeur d'histoire, de géogr [EC]";AV05A2-AVBPHG3D;topics;pernot;8
+"(AV05A2) Master MEEF HISTOIRE-GÉOGRAPHIE CERGY 2";140;"Connaissance du métier de professeur d'histoire, de géogr [EC]";AV05A2-AVBPHG3D;topics;gsaunier;8
+"BIBLIOTHEQUE UNIVERSITAIRE";141;"Aide à la recherche documentaire ";UBIB11-UBIBLIO;topics;cantiniau;14
+"BIBLIOTHEQUE UNIVERSITAIRE";141;"Aide à la recherche documentaire ";UBIB11-UBIBLIO;topics;maillol;14
+"BIBLIOTHEQUE UNIVERSITAIRE";141;"Aide à la recherche documentaire ";UBIB11-UBIBLIO;topics;benkimou;14
+"BIBLIOTHEQUE UNIVERSITAIRE";141;"Aide à la recherche documentaire ";UBIB11-UBIBLIO;topics;vgoyat;14
+"BIBLIOTHEQUE UNIVERSITAIRE";141;"Aide à la recherche documentaire ";UBIB11-UBIBLIO;topics;cdemeude;14
+"(5B03A3) Licence INFORMATIQUE 3";142;"CM Réseaux [CM]";5B03A3-5BHRES5M;topics;dntt;19
+"(5B03A3) Licence INFORMATIQUE 3";142;"CM Réseaux [CM]";5B03A3-5BHRES5M;topics;mlemaire;19
+"(5B03A2) Licence INFORMATIQUE 2";143;"CM Programmation système [CM]";5B03A2-5BDPRS4M;topics;dntt;11
+"(5B03A2) Licence INFORMATIQUE 2";143;"CM Programmation système [CM]";5B03A2-5BDPRS4M;topics;ibriquel;11
+"(5B03A2) Licence INFORMATIQUE 2";143;"CM Programmation système [CM]";5B03A2-5BDPRS4M;topics;laroque;11
+"(5B03A3) Licence INFORMATIQUE 3";144;"CM Administration système [CM]";5B03A3-5BHADS5M;topics;dntt;9
+"(5B03A3) Licence INFORMATIQUE 3";144;"CM Administration système [CM]";5B03A3-5BHADS5M;topics;laroque;9
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";145;"td architecture des  réseaux [TD]";5W06A3-5EGARC0D;topics;dntt;5
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";146;"UE chiffrement et  authentification [TD]";5W06A3-5EGAUT0D;topics;dntt;7
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";146;"UE chiffrement et  authentification [TD]";5W06A3-5EGAUT0D;topics;ibriquel;7
+"15 : BROUILLONS";147;"test document partagé";;topics;laroque;9
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";149;"Culture générale - volet civilisationniste [CM]";3B02A2-3BUCGC3M;topics;ppacini;7
+"(SEFIAP2) TEST";153;"Test pour SP";SEFIAP2-TESTSP;topics;berrando;20
+"(4B03A2) Licence HISTOIRE 2";155;"CM Histoire moderne [CM]";4B03A2-4BCHMO3M;topics;pernot;1
+"(4B03A3) Licence HISTOIRE 3";156;"Paléographie [UE]";4B03A3-4BCPAM6D;topics;pernot;5
+"(4B03A3) Licence HISTOIRE 3";157;"EC6 Module 'Défense et sécurité nationales' [UE]";4B03A3-4BCDEF5M;topics;pernot;5
+"(4V02A1) Master EEI PROJETS EUROPÉENS 1";158;"Histoire de l'Europe et des relations internationales [UE]";4V02A1-4VIHRI1M;topics;pernot;5
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";159;"EC Traduction [TD]";3B01E2-3BVTRA3D;topics;ppacini;7
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";160;"Culture générale - volet civilisationniste [CM]";3B01C2-3BUCGC3M;topics;ppacini;7
+"(4B01A1) Licence LETTRES 1";161;"EC2 Langue française : Grammaire de la phrase simple [UE]";4B01A1-4BAGPS1D;topics;manuelia;5
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";163;"EC Ecriture d'invention et écriture pro anglais / français [TD]";3B01C3-3BUEIP5D;topics;ppacini;7
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";164;"EC Ecriture d'invention et écriture pro anglais / français [TD]";3B01A3-3BUEIP5D;topics;ppacini;7
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";165;"EC Ecriture d'invention et écriture pro anglais / français [TD]";3B02A3-3BUEIP5D;topics;ppacini;7
+"(4B01A2) Licence LETTRES 2";167;"EC1 Littérature française du XVIII ème [TD]";4B01A2-4BALFX3D;topics;gpopesco;5
+"(4B01A2) Licence LETTRES 2";167;"EC1 Littérature française du XVIII ème [TD]";4B01A2-4BALFX3D;topics;fferran;5
+"(4B01C3) Licence LETTRES PARCOURS LETTRES ET ENSEIGNEMENT FRANÇAIS 3";168;"EC1 Littérature française du XVIème [UE]";4B01C3-4BALFX5D;topics;gpopesco;5
+"15 : BROUILLONS";169;"Ecouter des musiques en classe";;topics;rguerault;7
+"(AV01B2) Master PROFESSEUR DES ÉCOLES CERGY 2";170;"Maîtriser les savoirs disciplinaires et didactiques arts [UE]";AV01B2-AVAMSA3D;topics;rguerault;11
+"(4B04A2) Licence LETTRES MODERNES 2";171;"EC2 Informatique : compétences numériques et aide à  la prép [UE]";4B04A2-4BAC2I3D;weeks;manuelia;14
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;dareias;8
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;guego;8
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;vjeudy;8
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;rkhanfoura;8
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;cperes1;8
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;remy;8
+"(AMEEFMPS) Master MEEF, MATHÉMATIQUES, PHYSIQUE-CHIMIE, SVT 2";172;"UE interdisciplinarité";AMEEFMPS-A2014E31;topics;volte;8
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";173;"M33E01 Ecologie et surveillance des milieux naturels GB GE [EC]";7B09B2-7BPC3ECO;topics;dareias;7
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";173;"M33E01 Ecologie et surveillance des milieux naturels GB GE [EC]";7B09B2-7BPC3ECO;topics;mloubiat;7
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";174;"M32E03 Pédologie BG GE [EC]";7B09B2-7BPB3PED;topics;dareias;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";175;"M32E01 Gestion des déchets GB-GE [EC]";7B09B2-7BPB3GES;topics;dareias;6
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";175;"M32E01 Gestion des déchets GB-GE [EC]";7B09B2-7BPB3GES;topics;aferry;6
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";175;"M32E01 Gestion des déchets GB-GE [EC]";7B09B2-7BPB3GES;topics;clement;6
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";176;"M41E02 Bases d'écotoxicologie et risques [EC]";7B09B2-7BPA4BER;topics;dareias;3
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";176;"M41E02 Bases d'écotoxicologie et risques [EC]";7B09B2-7BPA4BER;topics;mloubiat;3
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";177;"M42E01 Géologie UE 42 GB GE [EC]";7B09B2-7BPB4GEO;topics;dareias;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";178;"Projet Tutoré - M1404 [EC]";7B09A1-7BKD1PTU;topics;gmayot;2
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";178;"Projet Tutoré - M1404 [EC]";7B09A1-7BKD1PTU;topics;dareias;2
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";178;"Projet Tutoré - M1404 [EC]";7B09A1-7BKD1PTU;topics;aferry;2
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";179;"Sciences de la Terre - M23E03 [EC]";7B09B1-7BPC2STE;topics;dareias;5
+"(AV01B1) Master PROFESSEUR DES ÉCOLES CERGY 1";180;"Éducation musicale [TD]";AV01B1-AVAEMU2D;topics;rguerault;10
+"(4B04A2) Licence LETTRES MODERNES 2";181;"EC2 Poésie [CM]";4B04A2-4BAPOE4M;topics;obelin;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";182;"(5F57B1-5PVC2OBG) [UE] UE Oral 2 biologie / géologie";5F57B1-5PVC2OBG;topics;cbreban;6
+"(7B11A2) DUT GÉNIE CIVIL - CONSTRUCTION DURABLE FI 2";183;"Géotechnique pour le technicien M3102 GC-CD UE31 [EC]";7B11A2-7BBA3GTE;topics;gervreau;6
+"(7B11A2) DUT GÉNIE CIVIL - CONSTRUCTION DURABLE FI 2";184;"Base de la géotechnique M3101 GC-CD UE 31 [EC]";7B11A2-7BBA3BGE;topics;gervreau;6
+"(7B11A2) DUT GÉNIE CIVIL - CONSTRUCTION DURABLE FI 2";185;"Mécanique des sols AT01 UE41 P GC-CD FI [UE]";7B11A2-7BBA4MEC;topics;gervreau;4
+"(7B11B2) DUT GENIE CIVIL - CONSTRUCTION DURABLE APPR 2";186;"Bases de la géotechnique M3101 GC-CD FA [EC]";7B11B2-7BQA3BGE;topics;gervreau;6
+"(7B11B2) DUT GENIE CIVIL - CONSTRUCTION DURABLE APPR 2";187;"Géotechnique pour le technicien M3102 GC-CD FA [EC]";7B11B2-7BQA4GEO;topics;gervreau;6
+"(7E31B3) LP INFRASTRUCTURES ROUTIERES ET AMENAGEMENTS URBAINS AP 3";188;"Géotechnique/terrassements/matériels chaussées [UE]";7E31B3-7ESD0GTC;topics;gervreau;6
+"(7E30B3) LP INFRASTRUCTURES FERROVIAIRES AP 3";189;"Ouvrages d'art et ouvrages en terre [EC]";7E30B3-7ELC0OAT;topics;gervreau;6
+"(7E23B3) LP GESTION TECHNIQUE DU PATRIMOINE IMMOBILIER AP 3";190;"Comportement des structures de batiment [EC]";7E23B3-7EGA0CSB;topics;gervreau;6
+"(SEFIAP1) C2i Niveau 1";191;"Compétences numériques";SEFIAP1-COMPNUM;topics;cabidib;12
+"(SEFIAP1) C2i Niveau 1";191;"Compétences numériques";SEFIAP1-COMPNUM;topics;tmarchand;12
+"(SEFIAP1) C2i Niveau 1";191;"Compétences numériques";SEFIAP1-COMPNUM;topics;rezguig;12
+"(SEFIAP1) C2i Niveau 1";191;"Compétences numériques";SEFIAP1-COMPNUM;topics;clootsj;12
+"(SEFIAP1) C2i Niveau 1";191;"Compétences numériques";SEFIAP1-COMPNUM;topics;jemoa1;12
+"(SEFIAP1) C2i Niveau 1";191;"Compétences numériques";SEFIAP1-COMPNUM;topics;elghalim;12
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";192;"M41E03 Réhabilitation de site UE41 GB GE [EC]";7B09B2-7BPA4RES;topics;mloubiat;4
+"(7W02A3) LP BIOLOGIE DE LA CELLULE EUCARYOTE";193;"Hygiène et sécurité [UE]";7W02A3-7EYC0HES;topics;mloubiat;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";194;"*** Connexion de test ***";;topics;htrankie;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;gmerlin;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;obelin;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;htrankie;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;obertran;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;abach;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;sfotre;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;bgerlaud;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;mbertucci;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;pkleiber;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;fravez;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;gpopesco;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;jdavid;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;mbesnard;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;ndenizot;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;pfort;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;cbruleym;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;hailletp;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;chuguet;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;elalouf;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;vcaillet;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;pmoinard1;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;blanchaud;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;dtoilliez;4
+"(AV06A1) Master MEEF LETTRES CERGY 1";195;"ESPACE COMMUN - MASTER MEEF PLC LETTRES M1";ESP-COMM;topics;dvilledi;4
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";196;"Production audiovisuelle Semestre 3";7B12A2-7BFB3PAU;topics;vgruyer;8
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;vgruyer;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;cmarinic;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;xleroux;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;aruel;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;elalaoui;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;anedjarg;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;jlonghi1;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;roch;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;jmeyer;14
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";197;"Projet tutoré M3110 [EC]";7B12A2-7BFA3PTU;topics;shayer;14
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";198;"Projet Tutoré - M2110 [EC]";7B12A1-7BFA2PTU;topics;vgruyer;6
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";198;"Projet Tutoré - M2110 [EC]";7B12A1-7BFA2PTU;topics;xleroux;6
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";198;"Projet Tutoré - M2110 [EC]";7B12A1-7BFA2PTU;topics;cmarinic;6
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";199;"Gestion de projet M3107 [EC]";7B12A2-7BFA3GEP;topics;vgruyer;8
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";200;"Gestion de Projet -M1107 [EC]";7B12A1-7BFA1GDP;topics;vgruyer;10
+"(BC01A1) DIPLÔME SCIENCES PO 1";201;"History of political ideas [CM]";BC01A1-BC1HPIM;topics;delattre;13
+"(BC01A1) DIPLÔME SCIENCES PO 1";201;"History of political ideas [CM]";BC01A1-BC1HPIM;topics;akahan;13
+"(BC01A1) DIPLÔME SCIENCES PO 1";201;"History of political ideas [CM]";BC01A1-BC1HPIM;topics;marshall;13
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";202;"TP Reproduction et développement animal [TP]";5B13B2-5BIREP4P;topics;guego;6
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";203;"CM Biologie animale 1 [CM]";5B13B2-5BIBIA3M;topics;guego;6
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";203;"CM Biologie animale 1 [CM]";5B13B2-5BIBIA3M;topics;mpotage;6
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";203;"CM Biologie animale 1 [CM]";5B13B2-5BIBIA3M;topics;mricou;6
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";204;"CM Biologie animale 2 [CM]";5B13B2-5BIBIA4M;topics;guego;6
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";205;"CM Biologie de la reproduction et du développement animal 1 [CM]";5B13B2-5BIREP4M;topics;guego;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;guego;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;breton;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;darbeida;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;thiebot;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;pastoriza;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;discala;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;mricou;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";206;"UE Sciences de la vie 1 [UE]";AV11A1-AVBSV11M;topics;mpotage;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;guego;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;mpotage;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;mregentk;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;mricou;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;darbeida;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;breton;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;discala;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;pastoriza;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";207;"UE Sciences de la vie 2 [UE]";AV11A1-AVBSV21M;topics;thiebot;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";208;"UE Géologie interne [UE]";AV11A1-AVBGIN1M;topics;guego;14
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";208;"UE Géologie interne [UE]";AV11A1-AVBGIN1M;topics;lalleman;14
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";208;"UE Géologie interne [UE]";AV11A1-AVBGIN1M;topics;cbreban;14
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";208;"UE Géologie interne [UE]";AV11A1-AVBGIN1M;topics;leturmy;14
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";208;"UE Géologie interne [UE]";AV11A1-AVBGIN1M;topics;gmohn;14
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";209;"UE Géologie externe [UE]";AV11A1-AVBGEX1M;topics;guego;9
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";209;"UE Géologie externe [UE]";AV11A1-AVBGEX1M;topics;lalleman;9
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";209;"UE Géologie externe [UE]";AV11A1-AVBGEX1M;topics;cbreban;9
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";209;"UE Géologie externe [UE]";AV11A1-AVBGEX1M;topics;leturmy;9
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";209;"UE Géologie externe [UE]";AV11A1-AVBGEX1M;topics;gmohn;9
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";210;"UE Approfondissements et méthodologie écrits [UE]";AV11A1-AVBADM1M;topics;guego;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";210;"UE Approfondissements et méthodologie écrits [UE]";AV11A1-AVBADM1M;topics;mregentk;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";210;"UE Approfondissements et méthodologie écrits [UE]";AV11A1-AVBADM1M;topics;cbreban;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";210;"UE Approfondissements et méthodologie écrits [UE]";AV11A1-AVBADM1M;topics;cperes1;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";210;"UE Approfondissements et méthodologie écrits [UE]";AV11A1-AVBADM1M;topics;mricou;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";210;"UE Approfondissements et méthodologie écrits [UE]";AV11A1-AVBADM1M;topics;mpotage;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";211;"UE Découverte du système éducatif / stage 1 [UE]";AV11A1-AVBB1SMS;topics;guego;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";212;"UE Stage de terrain 1 [UE]";AV11A1-AVBA2SAS;topics;guego;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";212;"UE Stage de terrain 1 [UE]";AV11A1-AVBA2SAS;topics;gmohn;5
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";213;"UE Biologie de la reproduction et du développement animal 2 [UE]";5B13B3-5BIF5;topics;guego;6
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";213;"UE Biologie de la reproduction et du développement animal 2 [UE]";5B13B3-5BIF5;topics;darbeida;6
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";214;"UE Ecologie [UE]";5B13B3-5BIG5;topics;guego;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";214;"UE Ecologie [UE]";5B13B3-5BIG5;topics;mpotage;7
+"(5F39D1) Master SCIENCES ENVIRONNEMENT MILIEUX URBAINS INDUSTRIELS 1";215;"EC1 Ecotoxicologie et pollution des éco-systèmes [EC]";5F39D1-5PLB1EPE;topics;guego;6
+"(5F39D1) Master SCIENCES ENVIRONNEMENT MILIEUX URBAINS INDUSTRIELS 1";215;"EC1 Ecotoxicologie et pollution des éco-systèmes [EC]";5F39D1-5PLB1EPE;topics;dseyer;6
+"(5F39D1) Master SCIENCES ENVIRONNEMENT MILIEUX URBAINS INDUSTRIELS 1";215;"EC1 Ecotoxicologie et pollution des éco-systèmes [EC]";5F39D1-5PLB1EPE;topics;mpotage;6
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";216;"CM Ecophysiologie animale [CM]";5B13B3-5BIEPH6M;topics;guego;6
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";216;"CM Ecophysiologie animale [CM]";5B13B3-5BIEPH6M;topics;lalleman;6
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";217;"CM Mécanismes de l'évolution [CM]";5B13B3-5BIEVO6M;topics;guego;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";217;"CM Mécanismes de l'évolution [CM]";5B13B3-5BIEVO6M;topics;mricou;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";217;"CM Mécanismes de l'évolution [CM]";5B13B3-5BIEVO6M;topics;luchetta;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";218;"UE Ecole de terrain [UE]";5B13B3-5BITER6D;topics;guego;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";218;"UE Ecole de terrain [UE]";5B13B3-5BITER6D;topics;lalleman;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";218;"UE Ecole de terrain [UE]";5B13B3-5BITER6D;topics;leturmy;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";218;"UE Ecole de terrain [UE]";5B13B3-5BITER6D;topics;gmohn;7
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";219;"(5F57B1-5PVB2ORG) [UE] UE Oral 1 géologie";5F57B1-5PVB2ORG;topics;guego;5
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";219;"(5F57B1-5PVB2ORG) [UE] UE Oral 1 géologie";5F57B1-5PVB2ORG;topics;cbreban;5
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";219;"(5F57B1-5PVB2ORG) [UE] UE Oral 1 géologie";5F57B1-5PVB2ORG;topics;lalleman;5
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";219;"(5F57B1-5PVB2ORG) [UE] UE Oral 1 géologie";5F57B1-5PVB2ORG;topics;cperes1;5
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";219;"(5F57B1-5PVB2ORG) [UE] UE Oral 1 géologie";5F57B1-5PVB2ORG;topics;ncluzel;5
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";219;"(5F57B1-5PVB2ORG) [UE] UE Oral 1 géologie";5F57B1-5PVB2ORG;topics;gmohn;5
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;guego;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;cperes1;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;mregentk;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;cbreban;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;mricou;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;mpotage;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";220;"(5F57B1-5PVA2ORB) [UE] UE Oral 1 biologie";5F57B1-5PVA2ORB;topics;ncluzel;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";221;"UE Approfondissements et méthodologie oraux";5F57B1-52014E55;topics;guego;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";221;"UE Approfondissements et méthodologie oraux";5F57B1-52014E55;topics;cbreban;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";221;"UE Approfondissements et méthodologie oraux";5F57B1-52014E55;topics;cperes1;6
+"(5F57B1) Master MEEF SECOND DEGRÉ SCIENCES DE LA VIE ET DE LA TERRE 1";221;"UE Approfondissements et méthodologie oraux";5F57B1-52014E55;topics;ncluzel;6
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";222;"Conférences disciplinaires [UE]";AV11A2-AVBIE3;topics;guego;3
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";222;"Conférences disciplinaires [UE]";AV11A2-AVBIE3;topics;gmohn;3
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";223;"EC Anthropologie et sociologie de la culture et du tourisme [CM]";3B01A3-3BUSCT5M;topics;sfilabak;12
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";224;"CM Biologie animale 1 [CM]";5B11B2-5BIBIA3M;topics;guego;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";225;"Construction d'expérience du métier et analyse pratiques de [CM]";AV11A2-AVBCAP3M;topics;guego;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";225;"Construction d'expérience du métier et analyse pratiques de [CM]";AV11A2-AVBCAP3M;topics;ncluzel;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";225;"Construction d'expérience du métier et analyse pratiques de [CM]";AV11A2-AVBCAP3M;topics;cbreban;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";225;"Construction d'expérience du métier et analyse pratiques de [CM]";AV11A2-AVBCAP3M;topics;cperes1;5
+"(5F39C1) Master GÉNIE CIVIL ET INFRASTRUCTURES 1";226;"Résistance des Matériaux 1et 2 [EC]";5F39C1-5PRB1REM;topics;scodet;10
+"(5F39C1) Master GÉNIE CIVIL ET INFRASTRUCTURES 1";226;"Résistance des Matériaux 1et 2 [EC]";5F39C1-5PRB1REM;topics;apierre;10
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";227;"Résistance des matériaux 1 [EC]";5V04C1-5VGB1RES;topics;scodet;7
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";228;"DAO [TP]";5W07A3-5EBDAO0P;topics;scodet;6
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";229;"CAO [TP]";5W07A3-5EBCAO0P;topics;scodet;8
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";230;"Informatique [UE]";5W07A3-5EBINF0P;topics;scodet;4
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";231;"Méthode et préparation de chantier [EC]";5V04C1-5VGA1MPC;topics;scodet;6
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";232;"Technologie du bâtiment [EC]";5V04C1-5VGC1TEB;topics;scodet;9
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";233;"BE Béton armé [TP]";5V04B1-5VGBET2P;topics;scodet;5
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";233;"BE Béton armé [TP]";5V04B1-5VGBET2P;topics;abordy;5
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";234;"Gestion de travaux assistée par ordinateur [TP]";5V04B1-5VGGTA2P;topics;scodet;5
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";234;"Gestion de travaux assistée par ordinateur [TP]";5V04B1-5VGGTA2P;topics;soualhih;5
+"(5B06A3) Licence GÉNIE CIVIL 3";235;"UE Technologie de construction [UE]";5B06A3-5BFA5;topics;scodet;10
+"(5V04B2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DU BÂTIMENT 2";236;"Dynamique [EC]";5V04B2-5VGB3DYN;topics;scodet;7
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";237;"Structures métalliques et mixtes [EC]";5V04C2-5VGC3SMM;topics;scodet;6
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";237;"Structures métalliques et mixtes [EC]";5V04C2-5VGC3SMM;topics;ppliya;6
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;cabidib;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;rimbaud;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;vedrenne;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;remy;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;petit;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;pinet;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;momeni;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;lmorin2;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;sleblanc;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;uziel;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;griesmar;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;ddebec1;7
+AUTRES;238;"Préparation au concours Agrégation Interne de Sciences Physiques";ZAUTRES-PREPAAG;topics;cordier;7
+"15 : BROUILLONS";239;"projets tuteurés";;topics;raulet;15
+"(5E35A3) LP BUREAU D'ETUDES ET CONCEPTION TECHNIQUE FI 3";240;"Technologie du Bâtiment [CM]";5E35A3-5EBTEB0M;topics;jhauteco;7
+"(4B03A1) Licence HISTOIRE 1";241;"EC2 Compétences numériques C2i [TD]";4B03A1-4BCNUM2D;topics;lcazeaux;12
+"(4B03A1) Licence HISTOIRE 1";241;"EC2 Compétences numériques C2i [TD]";4B03A1-4BCNUM2D;topics;fberland;12
+"(4B03A1) Licence HISTOIRE 1";241;"EC2 Compétences numériques C2i [TD]";4B03A1-4BCNUM2D;topics;eberard;12
+"(4B03A1) Licence HISTOIRE 1";241;"EC2 Compétences numériques C2i [TD]";4B03A1-4BCNUM2D;topics;ehaddad;12
+"(5E35B3) LP BUREAU D'ETUDES ET CONCEPTION TECHNIQUE AP 3";242;"Organisation de chantier - Etudes de prix [CM]";5E35B3-5EBOGP0M;topics;jhauteco;6
+"(7B03A2) DUT GEII NEUVILLE FI 2";243;"Projet tuteuré [EC]";7B03A2-7BCB3PTU;topics;raulet;18
+"(7B03A2) DUT GEII NEUVILLE FI 2";243;"Projet tuteuré [EC]";7B03A2-7BCB3PTU;topics;decarval;18
+"(7B03A2) DUT GEII NEUVILLE FI 2";243;"Projet tuteuré [EC]";7B03A2-7BCB3PTU;topics;dujardin;18
+"(7B03A2) DUT GEII NEUVILLE FI 2";243;"Projet tuteuré [EC]";7B03A2-7BCB3PTU;topics;rpresa;18
+"(7B03A2) DUT GEII NEUVILLE FI 2";243;"Projet tuteuré [EC]";7B03A2-7BCB3PTU;topics;oromain;18
+"(7B03A2) DUT GEII NEUVILLE FI 2";243;"Projet tuteuré [EC]";7B03A2-7BCB3PTU;topics;broucari;18
+"(7B03C1) DUT GEII SARCELLES FI 1";244;"Informatique M1103 [EC]";7B03C1-7BCA1INF;topics;yledirai;5
+"(7B03C1) DUT GEII SARCELLES FI 1";244;"Informatique M1103 [EC]";7B03C1-7BCA1INF;topics;mleroy4;5
+"(7B03C1) DUT GEII SARCELLES FI 1";244;"Informatique M1103 [EC]";7B03C1-7BCA1INF;topics;caplain;5
+"(7B03C1) DUT GEII SARCELLES FI 1";245;"Systèmes électroniques M1104 [EC]";7B03C1-7BCA1SEL;topics;yledirai;2
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";246;"TD Techniques et applications en biologie moléculaire [TD]";5B11B3-5BITAB5D;topics;pastoriza;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";247;"TP Techniques et applications en biologie moléculaire [TP]";5B11B3-5BITAB5P;topics;pastoriza;5
+"(7B03B2) DUT GEII NEUVILLE APPR 2";248;"Anglais M3301 [EC]";7B03B2-7BDC3ANG;topics;lecomte;5
+"(8C01A1) CERTIFICAT INFORMATIQUE ET INTERNET NIVEAU 1";249;"Préparation au C2I - NIV 1";C2I-NIV1;topics;tmarchand;7
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";250;"UE Stage en entreprise [UE]";5B13B3-5BISTA6D;topics;mricou;5
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";251;"CM Evolution génétique des populations";5B13B2-5BIPOP3M;topics;mricou;4
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";252;"CM Croissance et développement des végétaux [CM]";5B13B3-5BICRO6M;topics;mricou;11
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";253;"CM Organisation fonctionnelle des cellules [CM]";5B01C1-5BICEL1M;topics;mricou;3
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";253;"CM Organisation fonctionnelle des cellules [CM]";5B01C1-5BICEL1M;topics;nbouarro;3
+"(5B02A3) Licence MATHÉMATIQUES 3";254;"Expérience du travail collaboratif [UE]";5B02A3-5BDETC5D;topics;mizrahi;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";255;"CM Calculus [CM]";5B01A1-5BDCAL2M;weeks;mizrahi;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";255;"CM Calculus [CM]";5B01A1-5BDCAL2M;weeks;iftimo;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";255;"CM Calculus [CM]";5B01A1-5BDCAL2M;weeks;tjecko;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";255;"CM Calculus [CM]";5B01A1-5BDCAL2M;weeks;dmanuel;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";255;"CM Calculus [CM]";5B01A1-5BDCAL2M;weeks;daveau;18
+"(5B02A3) Licence MATHÉMATIQUES 3";256;"UE Stage [UE]";5B02A3-5BDSTA6P;topics;mizrahi;11
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;mizrahi;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;elocherb;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;tardivev;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;lbrunea1;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;daveau;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;ashiriky;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;pgraveja;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;logak;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;tdaude;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;volte;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;phodara;8
+"(5B02A3) Licence MATHÉMATIQUES 3";257;"UE Projet numérique tuteuré [UE]";5B02A3-5BDE6;topics;nachef;8
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;mizrahi;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;lbrunea1;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;iftimo;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;tdaude;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;daveau;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;martirod;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;tardivev;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;delcourt;18
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";258;"CM Suites [CM]";5B01A1-5BDSUI2M;weeks;nachef;18
+"(5B14A3) Licence GÉNIE CIVIL 3";259;"CM Matériaux de construction 1 [CM]";5B14A3-5BFMCO5M;topics;bodet;5
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";260;"Algèbre géométrie connaissances scientifiques et didactiq [CM]";AV07A1-AVBALG1M;topics;volte;11
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";261;"Bases de Physique - M1102 [EC]";7B09A1-7BKA1BDP;topics;momeni;4
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";262;"Outils Informatiques - M1103 [EC]";7B09A1-7BKA1OIN;topics;momeni;11
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";262;"Outils Informatiques - M1103 [EC]";7B09A1-7BKA1OIN;topics;claghlam;11
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;bmaillot;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;lalleman;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;psouloum;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;cbreban;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;abonnely1;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;tharle;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;rrobert;8
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";263;"CM Introduction aux géosciences [CM]";5B01B1-5BAGSC1M;topics;leturmy;8
+"(5B11A2) Licence SCIENCES DE LA VIE 2";264;"CM Mathématiques 2 [CM]";5B11A2-5BJMAT3M;topics;volte;7
+"(AV09A1) Master MEEF PHYSIQUE-CHIMIE NEUVILLE 1";266;Physique-Chimie;AV09A1-AVBF1PHY;topics;remy;7
+"(7B03A2) DUT GEII NEUVILLE FI 2";267;"Énergie [EC]";7B03A2-7BCA3ENE;topics;decarval;5
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;fjamet1;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;croyer;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;cdorison;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;dbutlen;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;hlabat;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;jdavid;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;pmasselot;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;eboujut;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;cdemarcy;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;mbishop;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;crousseaup;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";268;Autres;AV26B2-A2015E10;topics;pchampain2;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";269;"Productions scientifiques des étudiants";AV26B2-A2015E11;topics;fjamet1;4
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";270;"Infographie - M1204 [EC]";7B12A1-7BFB1INF;weeks;xleroux;2
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";271;"Esthétique et Expression Artistique - M1104 [EC]";7B12A1-7BFA1EEA;weeks;xleroux;5
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";272;"Esthétique et expression artistique M3104 [EC]";7B12A2-7BFA3EEA;weeks;xleroux;5
+"(7W09A3) LP CHARGÉ DE COMMUNICATION DE PROXIMITÉ ET DES MÉDIAS NUMÉRI";273;Infographie;7W09A3-72015E12;topics;xleroux;1
+"(SEFIAP4) FORMATION";274;"Innover hors de la salle";SEFIAP4-INOVHOR;topics;berrando;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";275;"Analyse de situations professionnelles - Oral 2 'le dossier' [UE]";AV11A1-AVBIE2;topics;guego;3
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";275;"Analyse de situations professionnelles - Oral 2 'le dossier' [UE]";AV11A1-AVBIE2;topics;cbreban;3
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";275;"Analyse de situations professionnelles - Oral 2 'le dossier' [UE]";AV11A1-AVBIE2;topics;cperes1;3
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";275;"Analyse de situations professionnelles - Oral 2 'le dossier' [UE]";AV11A1-AVBIE2;topics;lalleman;3
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";275;"Analyse de situations professionnelles - Oral 2 'le dossier' [UE]";AV11A1-AVBIE2;topics;gmohn;3
+"(4B01A1) Licence LETTRES 1";276;"EC3 Littérature et image [UE]";4B01A1-4BALII1D;weeks;fferran;5
+"(4B01A2) Licence LETTRES 2";277;"EC1 Histoire littéraire : XVIIIème/XIXème [CM]";4B01A2-4BAHLX3M;topics;fferran;5
+"(3B01A2) Licence LEA ANGLAIS-ALLEMAND 2";278;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01A2-3BVGUS3M;topics;sfilabak;13
+"(3B01A2) Licence LEA ANGLAIS-ALLEMAND 2";278;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01A2-3BVGUS3M;topics;arrizaba;13
+"(3B01A2) Licence LEA ANGLAIS-ALLEMAND 2";278;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01A2-3BVGUS3M;topics;asufaru;13
+"(3B01A2) Licence LEA ANGLAIS-ALLEMAND 2";278;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01A2-3BVGUS3M;topics;bschmitt;13
+"(5B07A3) Licence ÉLECTRONIQUE, ÉNERGIE ÉLECTRIQUE, AUTOMATIQUE 3";279;"CM Mathématiques pour l'ingénieur 1 [CM]";5B07A3-5BGMAT5M;topics;mizrahi;5
+"(5B06A3) Licence GÉNIE CIVIL 3";280;"CM Mathématiques pour l'ingénieur [CM]";5B06A3-5BFMAT5M;topics;mizrahi;5
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";281;"Organisation de l'entreprise et relations sociales M1204 [EC]";7B05A1-7BAB1ORG;topics;quintall;5
+"(5B12A3) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 3";282;"TD Tectonique, cartographie et SIG [TD]";5B12A3-5BCTEC5D;topics;leturmy;3
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";283;"CM Tectonique et cartographie [CM]";5B13B2-5BITEC3M;topics;leturmy;5
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";284;"CM Environnement sédimentaire et diagenèse [CM]";5B13B3-5BIENV6M;topics;leturmy;5
+"(4B04A2) Licence LETTRES MODERNES 2";285;"Analyse du discours journalistique [TD]";4B04A2-4BAADJ3D;topics;lradutg;7
+"(5B12A2) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 2";286;"TD Tectonique et cartographie [TD]";5B12A2-5BCTEC3D;topics;leturmy;5
+"(5B12A2) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 2";287;"TD Géologie de la surface [TD]";5B12A2-5BCSUR4D;topics;leturmy;5
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";288;"Techniques quantitatives et recherche opérationnelle M3207 [EC]";7B05X2-7BAB3TQR;topics;vigier;11
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";289;"Statistique descriptive M1206 [EC]";7B05A1-7BAB1STA;weeks;quoy;13
+"(3F14A1) Master HISTOIRE ET CIVILISATION PARCOURS CIVILISATION 1";290;"Séminaire de méthodologie [UE]";3F14A1-3FGSME2M;weeks;sfilabak;4
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";291;"EC Traduction spécialisée [TD]";3B01E3-3BVTSP5D;topics;ppacini;11
+"(3B01F2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 2";292;"EC Traduction [TD]";3B01F2-3BVTRA3D;topics;ppacini;7
+"(AV01B1) Master PROFESSEUR DES ÉCOLES CERGY 1";293;"TD Littérature de jeunesse [TD]";AV01B1-AVALIJ1D;topics;cplu;5
+"(AV01B2) Master PROFESSEUR DES ÉCOLES CERGY 2";294;"TD Maîtriser les savoirs disciplinaires et didactiques du fr [UE]";AV01B2-AVAMSF3D;topics;cplu;9
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";295;"Connaissance du métier 1 [UE]";AV11A1-AVBIA1;topics;guego;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";295;"Connaissance du métier 1 [UE]";AV11A1-AVBIA1;topics;vcaillet;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";295;"Connaissance du métier 1 [UE]";AV11A1-AVBIA1;topics;sbruno;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";295;"Connaissance du métier 1 [UE]";AV11A1-AVBIA1;topics;jnordmann;5
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";296;"Construction d'expériences du métier et analyse pratiques de [EC]";AV11A1-AVBA2CAP;topics;guego;5
+"(AV02A2) Master MEEF ANGLAIS CERGY 2";297;"Civilisation américaine ";AV02A2-AVBCMA3M;weeks;sfilabak;7
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";298;"LP Réseau et Sécurité";5W06A3-5EGANG0D;weeks;sfalempin;8
+"(82015V6) Licence CMI";299;"Intégration tous CMI UCP";82015V6-82015E14;topics;sfalempin;6
+"(82015V6) Licence CMI";299;"Intégration tous CMI UCP";82015V6-82015E14;topics;dviseur;6
+"(82015V6) Licence CMI";299;"Intégration tous CMI UCP";82015V6-82015E14;topics;vidal;6
+"(82015V6) Licence CMI";299;"Intégration tous CMI UCP";82015V6-82015E14;topics;germain;6
+"(82015V6) Licence CMI";299;"Intégration tous CMI UCP";82015V6-82015E14;topics;mlemaire;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";300;"CM Les plantes à fleurs [CM]";5B11B2-5BIPLA3M;topics;mpotage;8
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";301;"M34E03 Projet personnel et professionnel GB GE [EC]";7B09B2-7BPD3PPP;topics;dareias;6
+"(5B02A3) Licence MATHÉMATIQUES 3";302;"CM Stuctures algébriques [CM]";5B02A3-5BDSAL5M;topics;mizrahi;5
+"(5B02A3) Licence MATHÉMATIQUES 3";302;"CM Stuctures algébriques [CM]";5B02A3-5BDSAL5M;topics;varagnol;5
+"(3B01E1) Licence LEA ANGLAIS-JAPONAIS 1";303;"CM Civilisation japonaise [CM]";3B01E1-3BJCJA1M;topics;gpeloux;13
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";304;"EC Traduction spécialisée en japonais [TD]";3B01E3-3BJTSJ5D;topics;gpeloux;13
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";305;"CM Mathématiques 1 [CM]";5B01C1-5BIMAT1M;topics;courille;9
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";305;"CM Mathématiques 1 [CM]";5B01C1-5BIMAT1M;topics;tdumas;9
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";305;"CM Mathématiques 1 [CM]";5B01C1-5BIMAT1M;topics;dmanuel;9
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";305;"CM Mathématiques 1 [CM]";5B01C1-5BIMAT1M;topics;ebroust;9
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";305;"CM Mathématiques 1 [CM]";5B01C1-5BIMAT1M;topics;martina;9
+"(AV02A1) Master MEEF ANGLAIS CERGY 1";306;"Composition civilisation britannique S.GUY";AV02A1-AVBCAN1M;topics;sguy;5
+"(4B01A2) Licence LETTRES 2";307;"Histoire et connaissance des médias [CM]";4B01A2-4BACHE3M;topics;atachin;5
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";308;"Société britannique contemporaine - Stéphane GUY";3B01E3-3BVEGB6M;topics;sguy;5
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";309;"Licence 3 - LEA - Economic History of Great Britain";3B01A3-3BVEGB6M;topics;sguy;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";310;"L3 - Parcours médias et sociétés - Médias britanniques";3B02A3-32015E18;topics;sguy;5
+"(5B09A3) Licence CHIMIE 3";311;"CM Chimie organique générale [CM]";5B09A3-5BBORG6M;topics;brigaud;2
+"(5B04A3) Licence PHYSIQUE 3";312;"UE Introduction to probability [UE]";5B04A3-5BED5;topics;jhonecke;12
+"(4B01A1) Licence LETTRES 1";313;"EC1 Atelier d'écriture et de création - G5 - Corinne BLANCHAUD";4B01A1-4BAAEC1D;topics;blanchaud;5
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";314;"Projet tuteuré multilingue, pluridisciplinaire,international [EC]";3V02A1-3VAD1PTM;topics;cdoustal;5
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";314;"Projet tuteuré multilingue, pluridisciplinaire,international [EC]";3V02A1-3VAD1PTM;topics;ldupont;5
+"(5F46A2) Master CHIMIE FINE, POLYMÈRES ET ANALYSE CHIMIE FINE 2";315;"Chimie pour le développement durable [EC]";5F46A2-5PMA3CHI;singleactivity;germain;2
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";316;"CM Histoire et géographie de l'Amérique latine [CM]";3B01C2-3BEHAL3M;topics;eblument;13
+"(2C01A2) DU ECONOMICS AND CORPORATE ENGLISH 2";317;"Listening and reading [UE]";2C01A2-2CEC23;topics;cpeuduva;14
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";318;"CM Littérature des pays anglophones [CM]";3B03A2-3BGLPA3M;topics;ychupin;13
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";319;"TD Littérature des pays anglophones [TD]";3B03A2-3BGLPA3D;topics;ychupin;13
+"(5V02A1) Master CHIMIE 1";320;"Grandes méthodes de synthèse 2 [CM]";5V02A1-5VEGMS2M;topics;brigaud;5
+"(5V02A1) Master CHIMIE 1";321;"Grandes méthodes de synthèse 1 [CM]";5V02A1-5VEGMS1M;topics;brigaud;5
+"(5B08A3) Licence PHYSIQUE-CHIMIE 3";322;"TD Chimie industrielle [UE]";5B08A3-5BWCHI5D;topics;brigaud;5
+"(5B09A3) Licence CHIMIE 3";323;"TD Chimie industrielle [UE]";5B09A3-5BWCHI5D;topics;brigaud;5
+"(5B08A3) Licence PHYSIQUE-CHIMIE 3";324;"CM Chimie organique générale [CM]";5B08A3-5BAORG5M;topics;brigaud;5
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";325;"Biochimie des protéines [CM]";5B13B2-5BIPRO3M;topics;breton;5
+"(5B13A2) Licence SCIENCES DE LA VIE 2";326;"UE Biochimie des protéines [UE]";5B13A2-5BIB3;topics;breton;5
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";327;"Introduction à la civilisation des pays anglophones [EC]";3B02A1-3BGICA1M;weeks;edechamp;13
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";328;"Développement web M3202 [EC]";7B12A2-7BFB3DEW;weeks;roch;30
+"(7B03A2) DUT GEII NEUVILLE FI 2";329;"Systèmes électroniques [EC]";7B03A2-7BCA3SYS;topics;raulet;5
+"(AV02A2) Master MEEF ANGLAIS CERGY 2";330;"Civilisation britannique - S. GUY";AV02A2-AVBCAN1M;topics;sguy;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";331;"Civilisation du monde anglophone - approfondissement [EC]";3B02A3-3BGCMA5D;topics;edechamp;6
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";332;"Intégration multimédia M3206 [EC]";7B12A2-7BFB3IMU;weeks;cmarinic;11
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";332;"Intégration multimédia M3206 [EC]";7B12A2-7BFB3IMU;weeks;xleroux;11
+"(BC01A1) DIPLÔME SCIENCES PO 1";333;"CM Histoire de la modernité [CM]";BC01A1-BCAHMO1M;topics;jlescure;15
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";334;"CM Introduction aux géosciences [CM]";5B01C1-5BIGSC1M;topics;lalleman;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";334;"CM Introduction aux géosciences [CM]";5B01C1-5BIGSC1M;topics;tharle;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";334;"CM Introduction aux géosciences [CM]";5B01C1-5BIGSC1M;topics;abonnely1;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";334;"CM Introduction aux géosciences [CM]";5B01C1-5BIGSC1M;topics;leturmy;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";334;"CM Introduction aux géosciences [CM]";5B01C1-5BIGSC1M;topics;rrobert_hist;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";334;"CM Introduction aux géosciences [CM]";5B01C1-5BIGSC1M;topics;gbeaucha;6
+"(5B03A2) Licence INFORMATIQUE 2";335;"CM Programmation orientée Objet [CM]";5B03A2-5BDPOO3M;weeks;mlemaire;19
+"(5B03A2) Licence INFORMATIQUE 2";335;"CM Programmation orientée Objet [CM]";5B03A2-5BDPOO3M;weeks;tliu;19
+"(5B03A2) Licence INFORMATIQUE 2";335;"CM Programmation orientée Objet [CM]";5B03A2-5BDPOO3M;weeks;laroque;19
+"(5V03B2) Master EEA ÉLECTRONIQUE APPROFONDIE 2";336;"Séminaires [CM]";5V03B2-5VFSEM3M;topics;mlemaire;4
+"(5B01H1) Licence CMI BIOTECHNOLOGIES BIOMATÉRIAUX POUR LA SANTÉ 1";337;"TD Compétences numériques [UE]";5B01H1-5BWCUM2D;weeks;mlemaire;17
+"(5V03A1) Master ÉLECTRONIQUE, ÉNERGIE ÉLECTRIQUE, AUTOMATIQUE 1";338;"Programmation orientée objet, java [CM]";5V03A1-5VFPOO1M;weeks;mlemaire;18
+"(5B01G1) Licence CMI INFORMATIQUE SYSTÈMES INTELL COMMUNICANTS 1";339;"TD Compétences numériques [UE]";5B01G1-5BWNUM2D;weeks;mlemaire;16
+"(4B02A2) Licence GÉOGRAPHIE ET AMÉNAGEMENT 2";340;"EC2 C2i [TD]";4B02A2-4BDC2I3D;topics;lcazeaux;10
+"15 : BROUILLONS";341;"C2i - L2 Géographie";;weeks;lcazeaux;7
+"(5F44B2) Master SEMUI ECO-CONCEPTION ET GESTION DES DECHETS 2";342;"UE9 Traitement et valorisation des déchets [UE]";5F44B2-5PLH3TVD;topics;cbarnes;3
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";343;"Entretien clinique et critique [EC] ";AV26E2-AVIDEECC;topics;fjamet1;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";344;"Raisonnement [EC] ";AV26E2-AVIAERAI;topics;fjamet1;7
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";345;"Histoire et sociologie [EC]";"AV26E2-AVIBCE ";topics;fjamet1;7
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";345;"Histoire et sociologie [EC]";"AV26E2-AVIBCE ";topics;cdorison;7
+"(5B14A3) Licence GÉNIE CIVIL 3";346;"CM Informatique [CM]";5B14A3-5BFINF5M;topics;nrenault;8
+"(5B14A3) Licence GÉNIE CIVIL 3";346;"CM Informatique [CM]";5B14A3-5BFINF5M;topics;lcristof;8
+"(5B14A3) Licence GÉNIE CIVIL 3";346;"CM Informatique [CM]";5B14A3-5BFINF5M;topics;busso;8
+"(5B14A3) Licence GÉNIE CIVIL 3";346;"CM Informatique [CM]";5B14A3-5BFINF5M;topics;boukari;8
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";348;"Stress des enseignants et des élèves en contexte scolaire";AV26E2-A2014E26;topics;fjamet1;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";348;"Stress des enseignants et des élèves en contexte scolaire";AV26E2-A2014E26;topics;eboujut;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";349;"Mémoire Séminaire [UE]";AV26E2-AVIBEE;topics;fjamet1;12
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";350;"Entretien d'explicitation [EC]";AV26E2-AVIDEEDE;topics;fjamet1;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";350;"Entretien d'explicitation [EC]";AV26E2-AVIDEEDE;topics;snogry;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";351;"Didactique des mathématiques [TD]";AV26E2-AVIDDMED;topics;fjamet1;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";351;"Didactique des mathématiques [TD]";AV26E2-AVIDDMED;topics;dbutlen;6
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";352;"Apprentissage et feedback [CM]";AV26B2-AVIAEFEM;topics;fjamet1;8
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";352;"Apprentissage et feedback [CM]";AV26B2-AVIAEFEM;topics;cdemarcy;8
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";353;"Emploi du temps";;topics;fjamet1;6
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";355;"Troubles spécifiques du langage";prov1;topics;fjamet1;7
+"(AV26B2) Master MEEF PIF APRI BEP OPTIONS D,E,F ANTONY 2";355;"Troubles spécifiques du langage";prov1;topics;croyer;7
+"(AV26E1) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 1";356;"Cours étudiants Guyane";AV26E1-A8BAIECPF;topics;fjamet1;15
+"(7B03C1) DUT GEII SARCELLES FI 1";357;"Réalisation d'ensemble pluri-technologiques M1202 [EC]";7B03C1-7BCB1REP;topics;yledirai;2
+"(4V05A1) Master LETTRES LITTÉRATURES FRANÇAISE ET FRANCOPHONES 1";359;"Littératures et langues [UE]";4V05A1-4VALIL2M;topics;blanchaud;5
+"(4B01A2) Licence LETTRES 2";360;"EC3 : Littératures francophones - Corinne BLANCHAUD";4B01A2-4BALIF3D;topics;blanchaud;5
+"(4B01A2) Licence LETTRES 2";361;"Théories littéraires : qu'est-ce que la littérature  [TD]";4B01A2-4BATLI3D;topics;blanchaud;9
+"(4B01A2) Licence LETTRES 2";362;"Atelier d'écriture : écritures poétiques et rythme [TD]";4B01A2-4BAATE4D;topics;blanchaud;5
+"(4B01D3) Licence LETTRES PARCOURS LETTRES, RECHERCHE ET CRÉATION 3";363;"Initiation à la recherche en littérature [TD]";4B01D3-4BAIRL6D;topics;blanchaud;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";364;"EC Pratique de la langue écrite LEA anglais / espagnol [TD]";3B01C2-3BEPLE3D;topics;eblument;5
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";366;"Culture générale - volet civilisationniste [CM]";3B01E2-3BUCGC3M;topics;ppacini;7
+"(5F39D1) Master SCIENCES ENVIRONNEMENT MILIEUX URBAINS INDUSTRIELS 1";367;"EC1 Thermodynamique [EC]";5F39D1-5PLA1THE;topics;cbarnes;7
+"(5F39D1) Master SCIENCES ENVIRONNEMENT MILIEUX URBAINS INDUSTRIELS 1";368;"EC3 Energies renouvelables : HQE [EC]";5F39D1-5PLA1ERH;topics;cbarnes;6
+"(5F45A1) Master SCIENCES DE LA VIE ET DE LA MATIÈRE 1";369;"Grandes méthodes de synthèse 1 [EC]";5F45A1-5PMC1GMS;topics;brigaud;1
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";370;"CM Physique de la terre [CM]";5B11B3-5BITER5M;topics;lalleman;8
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";371;"TD Physique de la terre [TD]";5B11B3-5BITER5D;topics;lalleman;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";372;"TP Physique de la terre [TP]";5B11B3-5BITER5P;topics;lalleman;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";373;"TD Géodynamique [TD]";5B11B3-5BIGDY5D;topics;lalleman;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";374;"TP Géodynamique [TP]";5B11B3-5BIGDY5P;topics;lalleman;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";375;"CM Géodynamique [CM]";5B11B3-5BIGDY5M;topics;lalleman;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";376;"Energie M1101 [EC]";7B03A1-7BCA1ENE;topics;raulet;5
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";377;"EC Communiquer en anglais - Public speaking [TD]";3B01B3-3BVPBS5D;weeks;asufaru;13
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";378;"CM Civilisation des pays anglophones [CM]";3B03A3-3BGCPA5M;weeks;edechamp;13
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";379;"Troubles spécifiques du langage [EC]";AV26E2-AVIAETSL;topics;fjamet1;7
+"(AV26E2) Master MEEF PIF APRI BEP OPTIONS D,E,F EAD 2";379;"Troubles spécifiques du langage [EC]";AV26E2-AVIAETSL;topics;hlabat;7
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";380;"M34B03 Projet personnel et professionnel [EC]";7B09A2-7BKD3PPP;topics;aferhi1;1
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";381;"M43B01 Stage(s) UE 43 GB ABB [EC]";7B09A2-7BKC4STA;topics;gmayot;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";382;"Stage(s) UE 43 GB GE [UE]";7B09B2-7BPC24;topics;gmayot;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";382;"Stage(s) UE 43 GB GE [UE]";7B09B2-7BPC24;topics;dareias;5
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";383;"CM Introduction à la littérature des pays anglophones [CM]";3B02A1-3BGLPA1M;weeks;coatalen;5
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";384;"EC Version [TD]";3B02A2-3BGVRS3D;topics;coatalen;5
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";385;"Civilisation et littérature des pays anglophones : TD [EC]";3B02A1-3BGCLA1D;topics;coatalen;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";386;"CM Chimie générale [CM]";5B01C1-5BICHI1M;topics;chaume;7
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";386;"CM Chimie générale [CM]";5B01C1-5BICHI1M;topics;fgallier;7
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";386;"CM Chimie générale [CM]";5B01C1-5BICHI1M;topics;cgadais;7
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";386;"CM Chimie générale [CM]";5B01C1-5BICHI1M;topics;rkhanfoura;7
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";387;"TD Génèse de la démocratie aux Etats-Unis [TD]";3B01C2-3BVGUS3D;topics;sfilabak;5
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";388;"TD Génèse de la démocratie aux Etats-Unis [TD]";3B01D2-3BVGUS3D;topics;sfilabak;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";389;"Utilisation des TICE [EC]";AV11A2-AVBTIC3P;topics;cbreban;9
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";390;"TD Génèse de la démocratie aux Etats-Unis [TD]";3B01E2-3BVGUS3D;topics;arrizaba;2
+"(3B01F2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 2";391;"TD Génèse de la démocratie aux Etats-Unis [TD]";3B01F2-3BVGUS3D;topics;arrizaba;2
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";392;"EC Traduction spécialisée [TD]";3B01A3-3BVTSP5D;topics;ppacini;11
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";393;"EC Traduction spécialisée [TD]";3B01B3-3BVTSP5D;topics;ppacini;11
+"(2B02A2) Licence ÉCONOMIE, FINANCE 2";394;"Informatique (Validation du C2i) CM et TD [UE]";2B02A2-2EIM23;weeks;revault;15
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";395;"EC Civilisation - Analyse de thèmes d'actualité dans Amériqu [TD]";3B01A3-3BUAAA5D;topics;arrizaba;2
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";396;"EC Civilisation - Analyse de thèmes d'actualité dans Amériqu [TD]";3B01B3-3BUAAA5D;topics;arrizaba;2
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";397;"EC Civilisation - Analyse de thèmes d'actualité dans Amériqu [TD]";3B01C3-3BUAAA5D;topics;arrizaba;2
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";398;"EC Civilisation - Analyse de thèmes d'actualité dans Amériqu [TD]";3B01E3-3BUAAA5D;topics;arrizaba;2
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";399;"EC Civilisation - Analyse de thèmes d'actualité dans Amériqu [TD]";3B03A3-3BUAAA5D;topics;arrizaba;2
+"(3B03B3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 3";400;"EC Civilisation - Analyse de thèmes d'actualité dans Amériqu [TD]";3B03B3-3BUAAA5D;topics;arrizaba;2
+"(3B02B1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 1";401;"Cultures visuelles, Espagne [CM]";3B02B1-3BSCVE1M;topics;jbaezaso;6
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";402;"CM Fonction d'une  variable réelle [CM]";5B01A1-5BDFON1M;topics;tdaude;5
+"(AV01A1) Master PROFESSEUR DES ÉCOLES ANTONY 1";403;"Éducation musicale [TD]";AV01A1-AVAEMU2D;topics;jbosselut;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";404;"Didactique SVT  - publics particuliers [UE]";AV11A2-AVBIC3;topics;cperes1;5
+"(2W04A3) LP DIRECTION DES SERVICES D'HÉBERGEMENT EN  HÔTELLERIE INTER";405;"UE8 Mission à l'international [UE]";2W04A3-2EXG0;topics;fmaillet;5
+"(2W04A3) LP DIRECTION DES SERVICES D'HÉBERGEMENT EN  HÔTELLERIE INTER";406;"UE9 Immersion professionnelle [UE]";2W04A3-2EXIMM0D;topics;fmaillet;5
+"(2V03H1) Master MANAGEMENT SERVICES EN HÔTELLERIE INTERNATIONALE 1";407;"Management des RH [UE]";2V03H1-2FPI2D;topics;fmaillet;6
+"(2V03H1) Master MANAGEMENT SERVICES EN HÔTELLERIE INTERNATIONALE 1";408;"Marketing appliqué et comportement du consommateur [UE]";2V03H1-2FPSD;topics;fmaillet;5
+"(2V03H2) Master MANAGEMENT SERVICES EN HÔTELLERIE INTERNATIONALE 2";409;"UE Management des unités hôtelières [UE]";2V03H2-2FQAE;topics;fmaillet;6
+"(2V03H2) Master MANAGEMENT SERVICES EN HÔTELLERIE INTERNATIONALE 2";410;"UE Marketing approfondi des services [UE]";2V03H2-2FQCE;topics;fmaillet;5
+"(2V03H2) Master MANAGEMENT SERVICES EN HÔTELLERIE INTERNATIONALE 2";411;"UE Mémoire [UE]";2V03H2-2FQGE;topics;fmaillet;5
+"(2V03H2) Master MANAGEMENT SERVICES EN HÔTELLERIE INTERNATIONALE 2";411;"UE Mémoire [UE]";2V03H2-2FQGE;topics;bbenlaho;5
+"(2W04A3) LP DIRECTION DES SERVICES D'HÉBERGEMENT EN  HÔTELLERIE INTER";412;"UE4 Commercialisation de l'entreprise hôtelière [UE]";2W04A3-2EXD0;topics;fmaillet;5
+"(2W04A3) LP DIRECTION DES SERVICES D'HÉBERGEMENT EN  HÔTELLERIE INTER";413;"UE5 Environnement international de l'hôtellerie [UE]";2W04A3-2EXE0;topics;fmaillet;5
+"(2W04A3) LP DIRECTION DES SERVICES D'HÉBERGEMENT EN  HÔTELLERIE INTER";414;"UE7 Projet tutoré [UE]";2W04A3-2EXPTU0D;topics;fmaillet;5
+"(2W04A3) LP DIRECTION DES SERVICES D'HÉBERGEMENT EN  HÔTELLERIE INTER";414;"UE7 Projet tutoré [UE]";2W04A3-2EXPTU0D;topics;rdavroux;5
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";415;"Algorithmique et Programmation - M1202 [EC]";7B12A1-7BFB1AEP;weeks;roch;20
+"(SEFIAP2) TEST";418;"Test pour import modules";import-modules;topics;berrando;7
+"(5B09A2) Licence CHIMIE 2";419;"CM Atomistique - Liaisons chimiques [CM]";5B09A2-5BAATO3M;topics;rimbaud;5
+"(5B09B2) Licence CMI CHIMIE MACRO ET MOLÉC POUR ÉNERGIE ET LA SANTÉ 2";420;"CM Thermochimie - Cinétique [CM]";5B09B2-5BATHC3M;topics;rimbaud;5
+"(5B08B2) Licence CUPGE PHYSIQUE-CHIMIE 2";421;"CM Thermochimie - Cinétique [CM]";5B08B2-5BATHC3M;topics;rimbaud;5
+"(5B08A2) Licence PHYSIQUE-CHIMIE 2";422;"CM Thermochimie - Cinétique [CM]";5B08A2-5BATHC3M;topics;rimbaud;5
+"(5B09A2) Licence CHIMIE 2";423;"CM Thermochimie - Cinétique [CM]";5B09A2-5BATHC3M;topics;rimbaud;5
+"(5B08A2) Licence PHYSIQUE-CHIMIE 2";424;"CM Atomistique - Liaisons chimiques [CM]";5B08A2-5BAATO3M;topics;rimbaud;5
+"(5B08B2) Licence CUPGE PHYSIQUE-CHIMIE 2";425;"CM Atomistique - liaisons chimiques [CM]";5B08B2-5BKATO3M;topics;rimbaud;5
+"(5B09B2) Licence CMI CHIMIE MACRO ET MOLÉC POUR ÉNERGIE ET LA SANTÉ 2";426;"CM Atomistique - Liaisons chimiques [CM]";5B09B2-5BAATO3M;topics;rimbaud;5
+"(5B10A2) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 2";427;"CM Atomistique - Liaisons chimiques [CM]";5B10A2-5BAATO3M;topics;rimbaud;5
+"(5B08A3) Licence PHYSIQUE-CHIMIE 3";428;"CM Atomistique pour les PC [CM]";5B08A3-5BAATO5M;topics;rimbaud;5
+"(AV01R2) ATTESTATION D'ÉTUDES UNIVERSITAIRES PROFESSORAT ÉCOLES ANT";429;"Maîtriser les savoirs disciplinaires et didactique maths [EC]";AV01R2-AVAMSM3D;topics;ftempier;5
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";430;"EC Génèse de la démocratie aux Etats-Unis [EC]";3B01E2-3BVC3GUS;topics;arrizaba;2
+"(2C01A1) DU ECONOMICS AND CORPORATE ENGLISH 1";431;"Speaking (2CEB21)";2C1A1-2CEB21;topics;cpeuduva;5
+"(4B03A2) Licence HISTOIRE 2";432;"EC1 Historiographie [CM]";4B03A2-4BCHIS3M;topics;gsaunier;5
+"(4B03A2) Licence HISTOIRE 2";432;"EC1 Historiographie [CM]";4B03A2-4BCHIS3M;topics;jsimione;5
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";433;"EC Phonétique [CM]";3B02A2-3BGPHO3M;topics;wyld;5
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";434;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01B2-3BVGUS3M;topics;sfilabak;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";435;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01C2-3BVGUS3M;topics;sfilabak;5
+"(3B01F2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 2";436;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01F2-3BVGUS3M;topics;sfilabak;5
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";437;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01E2-3BVGUS3M;topics;sfilabak;5
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";438;"CM Génèse de la démocratie aux Etats-Unis [CM]";3B01D2-3BVGUS3M;topics;sfilabak;5
+"(4B03A2) Licence HISTOIRE 2";439;"TIC et société [CM]";4B03A2-4BATIC3M;topics;rbadouar;8
+"(4B01A1) Licence LETTRES 1";440;"EC3 Renforcement en littérature : Littérature de jeunesse [UE]";4B01A1-4BALIJ1M;topics;pfort;2
+"(4B01A1) Licence LETTRES 1";441;"EC Perfectionnement en langue [UE]";4B01A1-4BAPLA1D;topics;jdavid;5
+"(4B01A2) Licence LETTRES 2";443;"Préparation grammaire concours [UE]";4B01A2-4BAPGR3D;topics;jdavid;5
+"(4B01C3) Licence LETTRES PARCOURS LETTRES ET ENSEIGNEMENT FRANÇAIS 3";444;"Grammaire pour concours [TD]";4B01C3-4BAGRA6D;topics;jdavid;5
+"(4B01A1) Licence LETTRES 1";445;"EC2 Littérature générale et comparée - Cécile CHAPON";4B01A1-4BALGC1D;topics;cchapon;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";446;"M34E04 Projet tuteuré GB GE [EC]";7B09B2-7BPD3PTU;topics;gmayot;3
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";446;"M34E04 Projet tuteuré GB GE [EC]";7B09B2-7BPD3PTU;topics;dareias;3
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";446;"M34E04 Projet tuteuré GB GE [EC]";7B09B2-7BPD3PTU;topics;mloubiat;3
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";447;"M34B04 Projet tuteuré GB ABB [EC]";7B09A2-7BKD3PTU;topics;gmayot;3
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";447;"M34B04 Projet tuteuré GB ABB [EC]";7B09A2-7BKD3PTU;topics;mloubiat;3
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";448;"M42B04 Projet tuteuré UE 42 GB ABB [EC]";7B09A2-7BKB4PTU;topics;gmayot;2
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";448;"M42B04 Projet tuteuré UE 42 GB ABB [EC]";7B09A2-7BKB4PTU;topics;mloubiat;2
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";449;"M42E04 Projet tuteuré UE 42 GB GE [EC]";7B09B2-7BPB4PRT;topics;gmayot;2
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";449;"M42E04 Projet tuteuré UE 42 GB GE [EC]";7B09B2-7BPB4PRT;topics;mloubiat;2
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";450;"TD Introduction aux géosciences [TD] ";5B01B1-5BAGSC1D;topics;cbreban;6
+"(AV11A1) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 1";451;"Usage du Numérique en SVT [EC]";AV11A1-AVBNUM2P;topics;cbreban;6
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";452;"TD Histoire économique de la Grande-Bretagne [TD]";3B01A3-3BVEGB6D;topics;maza;5
+"(4B04A3) Licence LETTRES MODERNES 3";453;"Communication et politique [TD]";4B04A3-4BACPO5D;topics;lradutg;5
+"(4B03A3) Licence HISTOIRE 3";454;"Communication et politique [TD]";4B03A3-4BACPO5D;topics;lradutg;5
+"(4B03A2) Licence HISTOIRE 2";455;"Analyse du discours journalistique [TD]";4B03A2-4BAADJ3D;topics;lradutg;7
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";456;"EC Histoire économique de la Grande-Bretagne [UE]";3B01C3-3BVC6EGB;weeks;maza;5
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";457;"Histoire économique de la Grande-Bretagne [TD]";3B01E3-3BVEGB5D;weeks;maza;5
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";458;"EC Histoire économique de la Grande-Bretagne [UE]";3B01B3-3BVC6EGB;weeks;maza;5
+"(4B01A1) Licence LETTRES 1";460;"Communication et société [TD]";4B01A1-4BACSO2D;weeks;lradutg;11
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";461;"TD Civilisation des pays anglophones [TD]";3B02A3-3BGCPA5D;topics;fdassy;8
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";462;"EC Phonétique [TD]";3B02A2-3BGPHO4D;topics;wyld;5
+"(AV02A1) Master MEEF ANGLAIS CERGY 1";463;" Grammaire, explications de choix de traduction [EC]";AV02A1-AVBGEC1M;topics;wyld;5
+"(3B02B1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 1";464;"Cultures visuelles, Amérique latine [CM]";3B02B1-3BSCVA2M;topics;jbaezaso;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";465;"EC Thème [TD]";3B02A3-3BGTHM5D;topics;stabas;5
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";466;"EC Thème [TD]";3B02A2-3BGTHM3D;topics;stabas;5
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";467;"Arts et société [EC]";3B02A1-3BGAES1M;topics;stabas;5
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";468;"EC Histoire de l'art [CM]";3B02A2-3BGHAR3M;topics;stabas;5
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";469;"EC Ecriture d'invention et écriture pro anglais / français [TD]";3B01B3-3BUEIP5D;topics;ppacini;7
+"(5B03A3) Licence INFORMATIQUE 3";472;"TD Base de données [TD]";5B03A3-5BHBDD5D;topics;jen;9
+"(5B03A3) Licence INFORMATIQUE 3";472;"TD Base de données [TD]";5B03A3-5BHBDD5D;topics;mlemaire;9
+"(4B02A1) Licence GÉOGRAPHIE ET AMÉNAGEMENT 1";474;"EC1 Anglais [TD]";4B02A1-4BUANG1D;topics;abecquet;5
+"(BC01A2) DIPLÔME SCIENCES PO 2";475;"LVA cours de civilisation et langue étrangère [UE]";BC01A2-BC2CLVA;topics;jpothier;10
+"(BC01A2) DIPLÔME SCIENCES PO 2";475;"LVA cours de civilisation et langue étrangère [UE]";BC01A2-BC2CLVA;topics;frynne;10
+"(BC01A2) DIPLÔME SCIENCES PO 2";475;"LVA cours de civilisation et langue étrangère [UE]";BC01A2-BC2CLVA;topics;arodd;10
+"(2B01A1) Licence ÉCONOMIE, FINANCE, GESTION 1";477;"Soutien [UE]";2B01A1-2EIN1;topics;djuste;5
+"(AV06A2) Master MEEF LETTRES CERGY 2";479;"ESPACE COMMUN MASTER MEEF LETTRES M2";AV06A2-A2015E35;topics;htrankie;2
+"(AV06A2) Master MEEF LETTRES CERGY 2";479;"ESPACE COMMUN MASTER MEEF LETTRES M2";AV06A2-A2015E35;topics;mbesnard;2
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";480;"Résistance des matériaux 2 [EC]";5V04C1-5VGB1RMA;topics;apierre;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";481;"EC Histoire de l'art britannique [CM]";3B03A3-3BGHAB5M;topics;fdassy;12
+"(5V07A1) Master PHYSIQUE 1";482;"Matière condensée [UE]";5V07A1-5VDBA1;topics;jhonecke;6
+"(5V07A1) Master PHYSIQUE 1";482;"Matière condensée [UE]";5V07A1-5VDBA1;topics;diep;6
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";483;"Projet tutoré Atelier de planification urbaine / Patrimoine [TD]";4B02B3-4BDPTA5D;weeks;dmasson;5
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";484;Analyse;AV07A1-A2015E36;topics;volte;6
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";485;"Analyse-probabilités connaissances scientifiques et didactiq [CM]";AV07A1-AVBANA1M;topics;courille;10
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";485;"Analyse-probabilités connaissances scientifiques et didactiq [CM]";AV07A1-AVBANA1M;topics;volte;10
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";485;"Analyse-probabilités connaissances scientifiques et didactiq [CM]";AV07A1-AVBANA1M;topics;alili;10
+"(5V04A1) Master BÂTIMENT INTELLIGENT, EFFICACITÉ ÉNERGÉTIQUE 1";486;"Éléments de mécanique des structures [EC]";5V04A1-5VGB1EMS;topics;fiorio;8
+"(5V04A1) Master BÂTIMENT INTELLIGENT, EFFICACITÉ ÉNERGÉTIQUE 1";486;"Éléments de mécanique des structures [EC]";5V04A1-5VGB1EMS;topics;abordy;8
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";487;"Béton précontraint [EC]";5V04C2-5VGC3BET;topics;fiorio;6
+"(5B13A2) Licence SCIENCES DE LA VIE 2";488;"TD Solutions aqueuses [TD]";5B13A2-5BJAQU3D;topics;cgadais;4
+"(3B01E1) Licence LEA ANGLAIS-JAPONAIS 1";489;"CM Société britannique contemporaine [CM]";3B01E1-3BVSBC1M;topics;maza;5
+"(3B01F1) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 1";490;"CM Société britannique contemporaine [CM]";3B01F1-3BVSBC1M;topics;maza;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;ibriquel;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;iandriya;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;cweidman;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;dmanuel;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;jen;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;rbraud;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";491;"CM Logique propositionnelle et logique des prédicats [CM]";5B01A1-5BDLOG1M;topics;grandc;5
+"(42015V27) L3 LETTRES";492;"Pouvoirs du récit : histoire, narration et storytelling";42015V27-42015E39;topics;rastruc;13
+"(42015V27) L3 LETTRES";492;"Pouvoirs du récit : histoire, narration et storytelling";42015V27-42015E39;topics;gpopesco;13
+"(42015V27) L3 LETTRES";492;"Pouvoirs du récit : histoire, narration et storytelling";42015V27-42015E39;topics;manuelia;13
+"(42015V27) L3 LETTRES";492;"Pouvoirs du récit : histoire, narration et storytelling";42015V27-42015E39;topics;sbruneau;13
+"(42015V27) L3 LETTRES";492;"Pouvoirs du récit : histoire, narration et storytelling";42015V27-42015E39;topics;tmarchand;13
+"(5B03A3) Licence INFORMATIQUE 3";493;"TD Déveloping Application [TD]";5B03A3-5BHDEV5D;topics;dkotzino;9
+"(5B03A3) Licence INFORMATIQUE 3";493;"TD Déveloping Application [TD]";5B03A3-5BHDEV5D;topics;mkoutrak;9
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";494;"Enjeux internationaux des territoires et des cultures [CM]";3V02A1-3VAEIN1M;topics;ldupont;6
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";494;"Enjeux internationaux des territoires et des cultures [CM]";3V02A1-3VAEIN1M;topics;cdoustal;6
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";495;"EC4 Atelier de planification urbaine/Patrimoine [TD]";4B02B3-4BDPLA5D;topics;dmasson;5
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";496;"EC2 Environnement urbain [CM]";4B02B3-4BDENV5M;topics;dmasson;3
+"(4B02A2) Licence GÉOGRAPHIE ET AMÉNAGEMENT 2";497;"EC2 Sciences sociales [TD]";4B02A2-4BDSSO3D;topics;dmasson;8
+"(5B09A2) Licence CHIMIE 2";498;"TD Anglais scientifique [TD]";5B09A2-5BBANS3D;topics;cgadais;5
+"(5B09A2) Licence CHIMIE 2";498;"TD Anglais scientifique [TD]";5B09A2-5BBANS3D;topics;krahgosh1;5
+"(5C21A2) CMI BIOTECHNOLOGIES BIOMATÉRIAUX POUR LA SANTÉ 2";499;"TD Solutions aqueuses, chimie organique structurale et réact [TD]";5C21A2-5CTSOL3D;topics;cgadais;3
+"(5C21A2) CMI BIOTECHNOLOGIES BIOMATÉRIAUX POUR LA SANTÉ 2";500;"CM Solutions aqueuses, chimie organique structurale et réact [CM]";5C21A2-5CTSOL3M;topics;cgadais;2
+;;;;;cdoustal;0
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";501;"EC Stratégie des entreprises en chinois [TD]";3B01B3-3BCSTC5D;topics;amerle;5
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";502;"TD Civilisation des pays anglophones [TD]";3B02A2-3BGCPA3D;topics;frynne;5
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";503;"EC Histoire et géographie de la Chine [EC]";3B01B2-3BCC3HCH;topics;amerle;5
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";504;"CM Histoire et géographie de la Chine [CM]";3B01B2-3BCHCH3M;topics;amerle;5
+"(5V07B2) Master PHYSIQUE ET MODÉLISATION 2";505;"Advanced statistical mechanics [CM]";5V07B2-5VDASM3M;topics;lcantini;5
+"(5V01A2) Master BIOMATÉRIAUX POUR LA SANTÉ 2";506;"Méthodes spécifiques de visualisation et caractérisation du [UE]";5V01A2-5VAS3MSV;topics;agniel;5
+"(2B01A1) Licence ÉCONOMIE, FINANCE, GESTION 1";507;"Anglais Sciences Po - Unité enseignement libre [UE]";2B01A1-2EUD1;topics;cpeuduva;5
+"(5V08A1) Master SCIENCES DE LA TERRE ET DES PLANÈTES, ENVIRONNEMENT 1";508;"Eco-systèmes, pollution et écotoxicologie [CM]";5V08A1-5VBEPE1M;topics;guego;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";509;"M33E03 Développement durable GB-GE [EC]";7B09B2-7BPC3DEV;topics;mloubiat;5
+"(SEFIAP3) SUPPORTS";510;"Support par chat";;topics;htrankie;2
+"(SEFIAP3) SUPPORTS";510;"Support par chat";;topics;nandriam;2
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";511;"Gestion budgétaire M3202 [EC]";7B05X2-7BAB3GEB;topics;dbageac;9
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";512;"Comptabilité de gestion M1201 [EC]";7B05A1-7BAB1CDG;topics;dbageac;9
+"(7W08A3) LP GESTION DES RÉSEAUX FERRÉS";513;"Economie et Gestion [EC]";7W08A3-7EMB0ECG;topics;dbageac;5
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";514;"EC Communiquer en anglais - Public speaking [TD]";3B01A3-3BVPBS5D;weeks;asufaru;13
+"(5B06A3) Licence GÉNIE CIVIL 3";516;"CM Thermodynamique-Thermique [CM]";5B06A3-5BFTHE5M;topics;apierre;7
+"(4B03A3) Licence HISTOIRE 3";517;"EC1 Ecriture de l'histoire [UE]";4B03A3-4BCECH5D;topics;fberland;5
+"(4B03A2) Licence HISTOIRE 2";518;"CM Histoire ancienne [CM]";4B03A2-4BCHAN3M;topics;fberland;5
+"(5B03A3) Licence INFORMATIQUE 3";519;"CM Base de données [CM]";5B03A3-5BHBDD5M;topics;mlemaire;7
+"(5B03A3) Licence INFORMATIQUE 3";519;"CM Base de données [CM]";5B03A3-5BHBDD5M;topics;jen;7
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";520;"td communication [TD]";5W06A3-5EGCOM0D;topics;jen;5
+"(4B03A1) Licence HISTOIRE 1";521;"EC1 Méthodologie histoire [TD]";4B03A1-4BUMTH1D;topics;gsaunier;6
+"(4B03A1) Licence HISTOIRE 1";521;"EC1 Méthodologie histoire [TD]";4B03A1-4BUMTH1D;topics;fcoppee;6
+"(4B03A1) Licence HISTOIRE 1";521;"EC1 Méthodologie histoire [TD]";4B03A1-4BUMTH1D;topics;cbouvet;6
+"(4B03A1) Licence HISTOIRE 1";521;"EC1 Méthodologie histoire [TD]";4B03A1-4BUMTH1D;topics;ecertain1;6
+"(4B03A1) Licence HISTOIRE 1";521;"EC1 Méthodologie histoire [TD]";4B03A1-4BUMTH1D;topics;jsimione;6
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";522;"td base de données [TD]";5W06A3-5EGBDO0D;topics;jen;5
+"(52015V29) Espace enseignants M2 Eco-construction";523;"Espace enseignants M2 Eco-construction";52015V29-52015E41;topics;jpissarr;5
+"(52015V29) Espace enseignants M2 Eco-construction";523;"Espace enseignants M2 Eco-construction";52015V29-52015E41;topics;ledesert;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";524;"Histoire de l'art, architecture, archéologie [CM]";3B01C2-3BUHAR3M;topics;aetter;7
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";525;"Histoire de l'art, architecture, archéologie [CM]";3B01D2-3BUHAR3M;topics;aetter;7
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";526;"Histoire de l'art, architecture, archéologie [CM]";3B01E2-3BUHAR3M;topics;aetter;7
+"(3B01F2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 2";527;"Histoire de l'art, architecture, archéologie [CM]";3B01F2-3BUHAR3M;topics;aetter;7
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";528;"Histoire de l'art, architecture, archéologie [CM]";3B02A2-3BUHAR3M;topics;aetter;7
+"(3B02B2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 2";529;"Histoire de l'art, architecture, archéologie [CM]";3B02B2-3BUHAR3M;topics;aetter;7
+"(3B02B2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 2";530;"Culture générale - volet civilisationniste [CM]";3B02B2-3BUCGC3M;topics;ppacini;7
+"(5V06B1) Master MATHÉMATIQUES FONDAMENTALES 1";531;"Probabilités [CM]";5V06B1-5VCPRO1M;topics;alili;1
+"(5V06B1) Master MATHÉMATIQUES FONDAMENTALES 1";531;"Probabilités [CM]";5V06B1-5VCPRO1M;topics;phodara;1
+"(5V04D2) Master MATÉRIAUX, OUVRAGES, RECHERCHE, INNOVATION 2";532;"Mécanique des milieux continus [CM]";5V04D2-5VGMMC3M;topics;apierre;7
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";533;"Histoire, cultures et patrimoines - Europe [CM]";3V02A1-3VACPE1M;topics;cdoustal;9
+"(4B01A1) Licence LETTRES 1";534;"EC1 Méthodologie de l'explication de texte [UE]";4B01A1-4BAEXT1D;topics;amiccio;5
+"(4B01A2) Licence LETTRES 2";535;"EC2 Méthodologie [TD]";4B01A2-4BAMET3D;topics;amiccio;5
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";536;"Informatique : outils de la bureautique M1105 [EC]";7B05A1-7BAA1IOB;topics;fpirard;8
+"(52015V30) Projets professionnels étudiants M2 éco-construction";537;"Projets professionnels étudiants M2 éco-construction";52015V30-52015E42;topics;jpissarr;5
+"(52015V30) Projets professionnels étudiants M2 éco-construction";537;"Projets professionnels étudiants M2 éco-construction";52015V30-52015E42;topics;ledesert;5
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";538;"Patrimoines et tourismes : approches théoriques et pratiques [CM]";3V02A1-3VAPET1M;topics;aetter;6
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";538;"Patrimoines et tourismes : approches théoriques et pratiques [CM]";3V02A1-3VAPET1M;topics;ldupont;6
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";539;"Adaptation de parcours - C2I MMI";7B12A1-7B12A1APC;topics;vgruyer;12
+"(5B13A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";540;"Biochimie métabolique [CM]";5B13A3-5BIBME5M;topics;breton;6
+"(5B13A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";541;"Stage en entreprise [UE]";5B13A3-5AZSTA6D;topics;breton;6
+"(5B13A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";542;"Méthodologies en biochimie des protéines [UE]";5B13A3-5BJH5;topics;breton;6
+"(4V07A1) Master SCIENCES DU LANGAGE 1";543;"Cultures urbaines : parlers jeunes et écritures urbaines [UE]";4V07A1-4VDCUR1M;topics;mbertucci;6
+"(42015V31) Licence Lettres 3";544;"Littérature générale et comparée";42015V31-42015E43;topics;rastruc;5
+"(4B01A2) Licence LETTRES 2";545;"EC3 : Littératures francophones - Cécile CHAPON";4B01A2-4BALIF3D+1;topics;cchapon;5
+"(4B01A2) Licence LETTRES 2";546;"EC3 : Littératures francophones - Sara DE BALSI";4B01A2-4BALIF3D+2;topics;sdebalsi;5
+"(4B01A1) Licence LETTRES 1";547;"EC2 Littérature générale et comparée - Sara DE BALSI";4B01A1-4BALGC1D+1;topics;sdebalsi;5
+"(5B03A3) Licence INFORMATIQUE 3";548;"CM Systèmes d' exploitation [CM]";5B03A3-5BHSEX6M;weeks;laroque;9
+"(4B01A1) Licence LETTRES 1";549;"EC1 Atelier d'écriture et de création - G1 - Sara DE BALSI";4B01A1-4BAAEC1D+1;topics;sdebalsi;5
+"(4B01A1) Licence LETTRES 1";550;"EC1 Atelier d'écriture et de création - G2 - Pierre-Louis FORT";4B01A1-4BAAEC1D+2;topics;pfort;5
+"(4B01A1) Licence LETTRES 1";551;"EC1 Atelier d'écriture et de création - G3 - Gaëtane POPESCO";4B01A1-4BAAEC1D+3;topics;gpopesco;1
+"(4B01A1) Licence LETTRES 1";552;"EC1 Atelier d'écriture et de création - G4 - Philippe RAIMBAULT";4B01A1-4BAAEC1D+4;topics;praimbau;1
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";553;"CM Physiologie animale, Régulation fonctions végétatives [CM]";5B11A3-5BIPHS5M;topics;darbeida;5
+"(SEFIAP1) C2i Niveau 1";561;"Usages du Web";;topics;nandriam;12
+"(SEFIAP1) C2i Niveau 1";561;"Usages du Web";;topics;cabidib;12
+"(SEFIAP1) C2i Niveau 1";561;"Usages du Web";;topics;tmarchand;12
+"(SEFIAP1) C2i Niveau 1";561;"Usages du Web";;topics;cpers;12
+"(SEFIAP1) C2i Niveau 1";561;"Usages du Web";;topics;manuelia;12
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";562;"Projet Tutoré - M1404 [EC]";7B09B1-7BKD1PTU;topics;gmayot;2
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";562;"Projet Tutoré - M1404 [EC]";7B09B1-7BKD1PTU;topics;dareias;2
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";562;"Projet Tutoré - M1404 [EC]";7B09B1-7BKD1PTU;topics;aferry;2
+"(2V01C1) Master ÉCONOMIE INGÉNIERIE ÉCONOMIQUE 1";563;"UE Séries temporelles [UE] - TD";2V01C1-2FEN21+1;topics;djuste;6
+"(5V03A2) Master EEA ÉLECTROTECHNIQUE, AUTOMATIQUE APPROFONDIES 2";564;"Anglais [TD]";5V03A2-5VFANG3D;topics;sfalempin;7
+"(52015V32) M2 SIC M2 SIC R&S, SID et STRC";565;"Anglais 5VHANGDD";52015V32-52015E44;topics;sfalempin;6
+"(5V03A1) Master ÉLECTRONIQUE, ÉNERGIE ÉLECTRIQUE, AUTOMATIQUE 1";566;"Anglais [TD]";5V03A1-5VFANG1D;topics;sfalempin;6
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";567;"Biologie et Physiologie Générales - M1301 [EC]";7B09B1-7BKC1BPG;topics;mloubiat;7
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";568;"Biologie et Physiologie Générales - M1301 [EC]";7B09A1-7BKC1BPG;topics;mloubiat;8
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";568;"Biologie et Physiologie Générales - M1301 [EC]";7B09A1-7BKC1BPG;topics;dareias;8
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";569;"Histoire de l'art, architecture, archéologie [CM]";3B01B2-3BUHAR3M;topics;aetter;7
+"(5C16A1) DU INTERNATIONAL : CHIMIE ET PHYSIQUE EN ANGLAIS";570;"TD Informatique [TD]";5C16A1-5CDINF1D;topics;jen;12
+"(7B03A2) DUT GEII NEUVILLE FI 2";571;"Réseaux [EC]";7B03A2-7BCA3RES;topics;guerinea;10
+"(7B03A2) DUT GEII NEUVILLE FI 2";572;"Supervision [EC]";7B03A2-7BCB4SUP;topics;guerinea;5
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";573;"M32B01 Physiopatologie pharmacologie in vivo GB ABB [EC]";7B09A2-7BKB3PPV;topics;gmayot;2
+"(7B03A2) DUT GEII NEUVILLE FI 2";574;"Etudes et réalisations [EC]";7B03A2-7BCB3ETR;topics;raulet;2
+"(5V08A2) Master STPE ÉCO-CONCEPTION ET GESTION DES DÉCHETS 2";575;"Eco-conception et ecodesign [TD]";5V08A2-5VBECE3D;topics;pschiess;7
+"(4V01F1) Master MANAGEMENT LOGISTIQUE 1";576;"UE Outils bureautiques [UE]";4V01F1-4FSOBU1M;topics;lcazeaux;6
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";577;"Economies des transports M1102 [EC]";7B05A1-7BAA1EDT;topics;bconti;2
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";578;"CM Economie latino-américaine [CM]";3B01C3-3BEELA5M;topics;burgos;9
+"(4V01B1) Master EXPLOITATION DÉVELOPPT RÉSEAUX TRANSPORTS PUBLICS 1";579;"UE Nouvelles technologies : bureautique, analyses statistiqu [UE]";4V01B1-4FFB1;topics;lcazeaux;5
+"(4F23A1) Master HISTOIRE ET CIVILISATION PARCOURS HISTOIRE 1";580;"2HB1-Internet et Sciences humaines [UE]";4F23A1-4FHINT2D;topics;gsaunier;4
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";581;"Géographie des échanges M1104 [EC]";7B05A1-7BAA1GDE;topics;bconti;1
+"(7B05A2) DUT GESTION LOGISTIQUE ET TRANSPORT APPR 2";582;"Transports maritime, fluvial, opérations portuaires M3108 [EC]";7B05A2-7BAA3TMF;topics;bconti;2
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";583;"Transports maritime, fluvial, opérations portuaires M3108 [EC]";7B05X2-7BAA3TMF;topics;bconti;5
+"(2B01A1) Licence ÉCONOMIE, FINANCE, GESTION 1";584;"Soutien [UE] - Soutien Grp 2456";2B01A1-2EIN1+1;topics;djuste;5
+"(5V03B2) Master EEA ÉLECTRONIQUE APPROFONDIE 2";585;"Projets techniques [UE]";5V03B2-5VFAF3;weeks;mlemaire;5
+"(5V03B2) Master EEA ÉLECTRONIQUE APPROFONDIE 2";585;"Projets techniques [UE]";5V03B2-5VFAF3;weeks;vasic;5
+"(AV07A2) Master MEEF MATHÉMATIQUES PONTOISE 2";586;"  UE 321";AV07A2-A2015E45;topics;clefores;5
+"(AV07A2) Master MEEF MATHÉMATIQUES PONTOISE 2";587;"Stage en Responsabilité ou PA en Milieu Scolaire [EC]";AV07A2-AVBB4SPA;topics;volte;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";588;"CM Magmatisme [CM]";5B11B2-5BIMAG3M;topics;gmohn;5
+"(5B13B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";589;"CM Océans atmosphère et climat [CM]";5B13B2-5BIOCE4M;topics;gmohn;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";590;"CM Biochimie des protéines [CM]";5B11B2-5BIPRO3M;topics;cvendrel;5
+"(5B05A2) Licence SCIENCES POUR L'INGÉNIEUR 2";591;"CM Outils de l'ingénieur : Technologies de base, Dessin [CM]";5B05A2-5BGTEC3M;topics;scodet;5
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";592;"EC Pratique de la langue orale [TD]";3B01B2-3BVPLO3D;weeks;asufaru;13
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";593;"EC Pratique de la langue orale [TD]";3B01C2-3BVPLO3D;weeks;asufaru;13
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";594;"EC Communiquer en anglais - Public speaking [TD]";3B01C3-3BVPBS5D;weeks;asufaru;13
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";595;"EC Communiquer en anglais - Public speaking [TD]";3B01E3-3BVPBS5D;weeks;asufaru;13
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";596;"CM Microbiologie appliquée [CM]";5B11A3-5BJMBA5M;topics;dseyer;2
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";597;"TD Microbiologie appliquée [TD]";5B11A3-5BJMBA5D;topics;dseyer;2
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";598;"Intégration Web - M1205 [EC]";7B12A1-7BFB1WEB;weeks;cmarinic;12
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";598;"Intégration Web - M1205 [EC]";7B12A1-7BFB1WEB;weeks;roch;12
+"(AV09A2) Master MEEF PHYSIQUE-CHIMIE NEUVILLE 2";599;"pedagogie M2 MEFF PC";AV09A2-A2015E46;topics;lmorin2;6
+"(4V03A1) Master HISTOIRE CIVILISATIONS PATR ARCHÉOL MONDES ANCIENS 1";600;"Anglais [UE]";4V03A1-4VHANG1D;weeks;chuguet;10
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;dntt;2
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;laroque;2
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;dkotzino;2
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;andry;2
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;mlemaire;2
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;derdouri;2
+"(5B03A3) Licence INFORMATIQUE 3";601;"UE Projet d\'intégration [UE]";5B03A3-5BHPRO6P;weeks;tliu;2
+"(5V05B2) Master SIC SYSTÈMES INTELLIGENTS ET DISTRIBUÉS 2";602;"Systèmes et applications distribués [CM]";5V05B2-5VHSADEM;topics;dkotzino;7
+"(7W09A3) LP CHARGÉ DE COMMUNICATION DE PROXIMITÉ ET DES MÉDIAS NUMÉRI";603;"Gestion de projet [UE]";7W09A3-7EQB0GDP;topics;vgruyer;9
+"(3V01B2) Master EEI L'EUROPE ET L'ASIE ORIENTALE 2";604;"EAO : Relations éco, politiq et culturelles Chine et JAPON [TD]";3V01B2-3VCEAO3D;topics;gpeloux;5
+"(4V03B1) Master HISTOIRE CIVILISATIONS PATR ARCHÉOL MONDES MÉDIÉV 1";605;"Anglais [UE]";4V03B1-4VHANG1D;weeks;chuguet;5
+"(4V03A2) Master HISTOIRE CIVILISATIONS PATR ARCHÉOL MONDES ANCIENS 2";606;"Internet et sciences humaines [CM]";4V03A2-4VHINT3D;topics;gsaunier;4
+"(SEFIAP2) TEST";607;"Cours de test Saunier";;topics;cabidib;7
+"(5F39C1) Master GÉNIE CIVIL ET INFRASTRUCTURES 1";608;"Résistance des Matériaux 1 [EC]";5F39C1-5PRB1RES;topics;jhauteco;6
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";609;"Résistance des matériaux 1 [TD]";5V04B1-5VGRES1D;topics;jhauteco;5
+"(5B01N1) Licence CMI GÉNIE CIVIL 1";610;"TD Découverte du génie civil [UE]";5B01N1-5BWDGC2D;topics;jhauteco;6
+"(4V03A2) Master HISTOIRE CIVILISATIONS PATR ARCHÉOL MONDES ANCIENS 2";611;"Anglais [UE]";4V03A2-4VHANG3D;weeks;chuguet;6
+"(5V04D2) Master MATÉRIAUX, OUVRAGES, RECHERCHE, INNOVATION 2";612;"Bétons spéciaux produits en béton [CM]";5V04D2-5VGBSP3M;topics;bodet;5
+"(5V04B2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DU BÂTIMENT 2";613;"Impact environnemental [CM]";5V04B2-5VGIMP3M;topics;bodet;6
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";614;"Impact environnemental [CM]";5V04C2-5VGIMP3M;topics;bodet;6
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";615;"UE Biomacromolécules et réactions [UE]";5B11A3-5BJG5;topics;agand;5
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";616;"Dessin assisté par odinateur [TP]";5V04B1-5VGDES1P;topics;jhauteco;5
+"(5B06A3) Licence GÉNIE CIVIL 3";617;"TD Organisation de chantier étude de prix [TD]";5B06A3-5BFCHA5D;topics;jhauteco;8
+"(5B06A3) Licence GÉNIE CIVIL 3";617;"TD Organisation de chantier étude de prix [TD]";5B06A3-5BFCHA5D;topics;yfritih;8
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";618;"Construction d\'Expérience du Métier et Analyse pratiques de [EC]";AV11A2-AVBB4CEM;topics;cbreban;3
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";618;"Construction d\'Expérience du Métier et Analyse pratiques de [EC]";AV11A2-AVBB4CEM;topics;ncluzel;3
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";619;"Enjeux internationaux : approches socio-économiques et pol [UE]";3V02A1-3VAB1;topics;cdoustal;1
+"(AV01E2) Master PROFESSEUR DES ÉCOLES SAINT-GERMAIN-EN-LAYE 2";620;"TICE [UE]";AV01E2-AVATIC4D;topics;killiade;1
+"(AV01E2) Master PROFESSEUR DES ÉCOLES SAINT-GERMAIN-EN-LAYE 2";621;"Initiation à des recherches domaine de l\'enseignement [UE]";AV01E2-AVAE4;topics;killiade;5
+"(5B06A3) Licence GÉNIE CIVIL 3";622;"TD Actions sur les structures [TD]";5B06A3-5BFACT5D;topics;jhauteco;6
+"(5B06A3) Licence GÉNIE CIVIL 3";623;"TD Topographie DAO [TD]";5B06A3-5BFTOP5D;topics;jhauteco;5
+"(3B01C1) Licence LEA ANGLAIS-ESPAGNOL 1";624;"EC Grammaire / traduction espagnol [TD]";3B01C1-3BEGTE1D;topics;vgonzale;13
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";625;"M31E02 Chimie de l\'environnement GB-GE [EC]";7B09B2-7BPA3CHE;topics;mloubiat;5
+"(2V03F2) Master TECHNOLOGIES INFORMATION MARKETING MANAGEMENT 2";626;"Conception/réalisation site internet à finalité de gestion [UE]";2V03F2-2FBB24SI;topics;revault;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";627;"Biologie et Physiologie Cellulaires - M 1302 [EC]";7B09A1-7BKC1BPC;topics;gmayot;2
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";628;"Biologie et Physiologie Cellulaires - M 1302 [EC]";7B09B1-7BKC1BPC;topics;gmayot;2
+"(SEFIAP2) TEST";629;"Nouveaux tests Brice";SEFIAPtBR;topics;berrando;5
+"(5V07A1) Master PHYSIQUE 1";630;"Matière condensée 2 [CM]";5V07A1-5VDMCB1M;topics;jhonecke;7
+"(5V08A1) Master SCIENCES DE LA TERRE ET DES PLANÈTES, ENVIRONNEMENT 1";631;"Communication scientifique [EC]";5V08A1-5VBB1COS;topics;mpotage;1
+"(82015V34) FTLV";632;"Initiation ""Culture Numérique""";82015V34-82015E48;topics;htrankie;4
+"(5B01D1) Licence CUPGE MATHÉMATIQUES-PHYSIQUE 1";633;"TD Panorama sur la physique [TD]";5B01D1-5BDPAP1D;topics;trambly;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";634;"CM Les plantes et leur environnement abiotique [CM]";5B11B3-5BIPLA5M;topics;mpotage;5
+"(3V03A2) Master LANGUES ET COMMERCE INTERNATIONAL 2";635;"Gestion et principes de management entreprise anglo-saxonne [UE]";3V03A2-3VDGPM3M;topics;bschmitt;3
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;dntt;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;iandriya;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;andry;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;derdouri;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;laroque;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;mlemaire;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;mizrahi;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";636;"Dispositif de réussite en licence";5B01A1-52015E50;topics;pinet;5
+"(5B06A3) Licence GÉNIE CIVIL 3";637;"L3GC EAD";5B06A3-52015E49;topics;courille;13
+"(5B06A3) Licence GÉNIE CIVIL 3";637;"L3GC EAD";5B06A3-52015E49;topics;nrenault;13
+"(5B06A3) Licence GÉNIE CIVIL 3";637;"L3GC EAD";5B06A3-52015E49;topics;kelghazl;13
+"(3B02B1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 1";638;"EC Grammaire espagnole en situation [TD]";3B02B1-3BSGES1D;topics;adiazvil;5
+"(3V01A1) Master EEI L'EUROPE ET L'ESPACE ATLANTIQUE 1";639;"Culture, patrimoine et représentations contemporaines USA [UE]";3V01A1-3VBPRC2D;weeks;sfilabak;7
+"(7W02A3) LP BIOLOGIE DE LA CELLULE EUCARYOTE";640;"Biologie moléculaire et génie génétique [UE]";7W02A3-7EYB0BMG;topics;gmayot;2
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";641;"Histoire, cultures et patrimoines : Amériques [CM]";3V02A1-3VACPA2M;weeks;sfilabak;8
+"(7B03B2) DUT GEII NEUVILLE APPR 2";642;"Réseaux M3103 [EC]";7B03B2-7BDA3RES;topics;guerinea;10
+"(7W16A3) LP MÉTIERS DE LA SUPERVISION";643;"Réseaux de communications [UE]";7W16A3-7ENA0RCO;topics;guerinea;10
+"(52015V35) 5b11a2";644;"Cours de bioénergétique ";52015V35-52015E51;topics;mboissie;5
+"15 : BROUILLONS";645;"cours de bioénergétique";;topics;mboissie;5
+"(5V08B2) Master STPE RESPONSABILITÉ SOCIÉTALE ENTREPRISES, COMM ENV 2";646;"Sociologie des publics et méthodologie d\'enquêtes des acteur [CM]";5V08B2-5VBSPM3M;weeks;anedjarg;5
+"(7B03C2) DUT GEII SARCELLES FI 2";647;"Programmation orientée objet M3105C [EC]";7B03C2-7BEA3PRO;topics;ncuperli;5
+"(SEFIAP3) SUPPORTS";648;"Club Utilisateurs Moodle-UCP";82015V36-82015E52;topics;htrankie;7
+"(SEFIAP3) SUPPORTS";648;"Club Utilisateurs Moodle-UCP";82015V36-82015E52;topics;mlemaire;7
+"(SEFIAP3) SUPPORTS";648;"Club Utilisateurs Moodle-UCP";82015V36-82015E52;topics;baissoun;7
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";649;"Mécanique des structures - RDM [CM]";5W07A3-5EBMST0M;topics;jhauteco;5
+"(5B06A3) Licence GÉNIE CIVIL 3";651;"TD Matériaux de construction 1 [TD]";5B06A3-5BFMCO5D;topics;fdecroix;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";652;"CM Solutions aqueuses [CM]";5B11A2-5BJAQU3M;topics;mboissie;5
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";653;"Algèbre linéaire";AV07A1-A2015E54;topics;dehy;6
+"(3B01D1) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 1";654;"Projets tuteurés CMI L1";3B01D1-32015E55;topics;sfilabak;5
+"(7B05A2) DUT GESTION LOGISTIQUE ET TRANSPORT APPR 2";655;"Pratique professonnelle M4205C [EC]";7B05A2-7BAB4PRP;topics;vigier;8
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";656;"Mathématiques appliquées M2203 [EC]";7B05A1-7BAB2MAP;topics;vigier;7
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";657;"Informatique : utilisation approfondie d'un tableur M2105 [EC]";7B05A1-7BAA2UAT;topics;vigier;10
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";658;"Pratique professonnelle M4205C [EC]";7B05X2-7BAB4PRP;topics;vigier;8
+"(2C01A2) DU ECONOMICS AND CORPORATE ENGLISH 2";659;"Listening and writing [UE]";2C01A2-2CEC24;topics;cpeuduva;11
+"15 : BROUILLONS";660;"Introduction à l'économie : macroéconomie";;topics;pbelan;10
+"(BC01A1) DIPLÔME SCIENCES PO 1";661;"Introduction à l\'économie: macroéconomie [CM]";BC01A1-BC1MACM;topics;pbelan;1
+"(4B01B2) Licence LETTRES ET ARTS VIVANTS 2";662;"EC2 Poésie [CM]";4B01B2-4BAPOE4M;topics;obelin;5
+"(4B05A2) Licence LETTRES ET ARTS VIVANTS 2";663;"EC2 Poésie [CM]";4B05A2-4BAPOE4M;topics;obelin;6
+"(4B04A3) Licence LETTRES MODERNES 3";664;"EC1 Littérature française du XXème et XXIème [TD]";4B04A3-4BALFX6D;topics;obelin;5
+"(4B05A3) Licence LETTRES ET ARTS VIVANTS 3";665;"EC1 Littérature française du XXème et XXIème [TD]";4B05A3-4BALFX6D;topics;obelin;6
+"(3V01B1) Master EEI L'EUROPE ET L'ASIE ORIENTALE 1";666;"Histoire et théorie de la globlalisation [UE]";3V01B1-3VBHTG1D;topics;kiwauchi;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";667;"Enseignement différencié d'adaptation - M1104 [EC]";7B09A1-7BKA1EDA;topics;mmichiel;5
+"(5V05C2) Master SIC RÉSEAUX ET SÉCURITÉ 2";668;"Conception d\'infos appliances [CM]";5V05C2-5VHCIAEM;topics;dntt;2
+"(5V05C2) Master SIC RÉSEAUX ET SÉCURITÉ 2";668;"Conception d\'infos appliances [CM]";5V05C2-5VHCIAEM;topics;andry;2
+"(7W07A3) LP MANAGEMENT DE LA CHAÎNE LOGISTIQUE";669;"Optimisation des flux logistiques [UE]";7W07A3-7EIH0OFL;weeks;fpirard;1
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";670;"EC Cultures et patrimoines - Asie [CM]";3B01E3-3BUCPA5M;topics;kiwauchi;5
+"(7W16A3) LP MÉTIERS DE LA SUPERVISION";671;"Programmation des systèmes automatisés [UE]";7W16A3-7ENC0PSA;topics;guerinea;7
+"(SEFIAP1) C2i Niveau 1";672;"Examens UE compétences numériques - 2016 -";SEFIAP1-COMPNU3;topics;cabidib;2
+"(SEFIAP1) C2i Niveau 1";672;"Examens UE compétences numériques - 2016 -";SEFIAP1-COMPNU3;topics;tmarchand;2
+"(SEFIAP1) C2i Niveau 1";672;"Examens UE compétences numériques - 2016 -";SEFIAP1-COMPNU3;topics;rezguig;2
+"(SEFIAP1) C2i Niveau 1";672;"Examens UE compétences numériques - 2016 -";SEFIAP1-COMPNU3;topics;clootsj;2
+"(SEFIAP1) C2i Niveau 1";672;"Examens UE compétences numériques - 2016 -";SEFIAP1-COMPNU3;topics;htrankie;2
+"(SEFIAP1) C2i Niveau 1";672;"Examens UE compétences numériques - 2016 -";SEFIAP1-COMPNU3;topics;elghalim;2
+"(5F33C2) Master SIC INTELLIGENCE ARTIFICIELLE ET ROBOTIQUE FI 2";673;"Apprentissage, adaptation [UE]";5F33C2-5PCAPP3M;weeks;quoy;6
+"(7B03A1) DUT GEII NEUVILLE FI 1";674;"Mathématiques M2302 [EC]";7B03A1-7BCC2MAT;topics;verhe;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";675;"CM Génétique fondamentale [CM]";5B01C1-5BIGEN2M;topics;pastoriza;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";676;"TD génétique fondamentale [TD]";5B01C1-5BIGEN2D;topics;pastoriza;5
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";677;"CM Régulation de l\'expression des gènes [CM]";5B11A3-5BIGEN6M;topics;pastoriza;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";678;"CM Régulation de l\'expression des gènes [CM]";5B11B3-5BIGEN6M;topics;pastoriza;5
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";679;"TD Régulation de l\'expression des gènes [TD]";5B11A3-5BIGEN6D;topics;pastoriza;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";680;"TD Régulation de l\'expression des gènes [TD]";5B11B3-5BIGEN6D;topics;pastoriza;5
+"(5B01H1) Licence CMI BIOTECHNOLOGIES BIOMATÉRIAUX POUR LA SANTÉ 1";681;"CM Génétique fondamentale [CM]";5B01H1-5BIGEN2M;topics;pastoriza;5
+"(5B01H1) Licence CMI BIOTECHNOLOGIES BIOMATÉRIAUX POUR LA SANTÉ 1";682;"TD génétique fondamentale [TD]";5B01H1-5BIGEN2D;topics;pastoriza;5
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";683;"Gestion de Projet - M2107 [EC]";7B12A1-7BFA2GDP;topics;vgruyer;12
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";684;"Projet tuteuré multilingue TIC : e-tourime, e-patrimoine [EC]";3V02A1-3VAD2PTM;topics;cdoustal;5
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";684;"Projet tuteuré multilingue TIC : e-tourime, e-patrimoine [EC]";3V02A1-3VAD2PTM;topics;ldupont;5
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";685;"Production Audiovisuelle - M2207 [EC]";7B12A1-7BFB2PRA;topics;vgruyer;10
+"(7B03A2) DUT GEII NEUVILLE FI 2";686;"Mathématiques, probabilités, statistiques [EC]";7B03A2-7BCB3MAT;topics;verhe;5
+;;;;;cmarinic;0
+;;;;;xleroux;0
+"(7B03A1) DUT GEII NEUVILLE FI 1";687;"Automatisme M2102 [EC]";7B03A1-7BCA2AUT;topics;guerinea;7
+"(82015V38) formation";688;"Formation pédagogie - classe inversée - APP";82015V38-82015E56;topics;htrankie;5
+"(82015V38) formation";688;"Formation pédagogie - classe inversée - APP";82015V38-82015E56;topics;dntt;5
+"(4B03A1) Licence HISTOIRE 1";689;"EC2 Compétences numériques C2i [TD] - Emilie Berard";4B03A1-4BCNUM2D+1;weeks;eberard;12
+"(2B02A2) Licence ÉCONOMIE, FINANCE 2";691;"Anglais [UE]";2B02A2-2EIX3;topics;cpeuduva;5
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";692;"Biologie et Physiologie Appliquées - M2202 [EC]";7B09B1-7BKB2BPA;topics;mloubiat;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";693;"Enseignement d\' Adaptation au Milieu Professionnel - M2203 [EC]";7B09A1-7BKB2AMP;topics;mloubiat;5
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";694;"Enseignement d\' Adaptation au Milieu Professionnel - M2203 [EC]";7B09B1-7BKB2AMP;topics;mloubiat;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";695;"Biologie et Physiologie Appliquées - M2202 [EC]";7B09A1-7BKB2BPA;topics;mloubiat;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";695;"Biologie et Physiologie Appliquées - M2202 [EC]";7B09A1-7BKB2BPA;topics;dareias;5
+"(5B03A2) Licence INFORMATIQUE 2";696;"CM Développement Web [CM]";5B03A2-5BDDEW4M;weeks;mlemaire;21
+"(5V03B2) Master EEA ÉLECTRONIQUE APPROFONDIE 2";697;"Compléments d\'informatique [UE]";5V03B2-5VFAA3;weeks;mlemaire;16
+"(5B03A3) Licence INFORMATIQUE 3";698;"TD Web Services and Service oriented Architectures [TD]";5B03A3-5BHWEB6D;topics;dkotzino;8
+"(5B03A3) Licence INFORMATIQUE 3";698;"TD Web Services and Service oriented Architectures [TD]";5B03A3-5BHWEB6D;topics;mkoutrak;8
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";699;"Bases de données avancées [TD]";5V05A1-5VHBDADD;topics;dkotzino;5
+"(4B01B2) Licence LETTRES ET ARTS VIVANTS 2";702;"EC4 Littérature francophone [TD]";4B01B2-4BALIF4D;topics;cchapon;9
+"(4B01B2) Licence LETTRES ET ARTS VIVANTS 2";703;"EC5 Littérature générale et comparée [TD]";4B01B2-4BALGC4D;topics;cchapon;5
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;cabidib;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;tmarchand;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;rezguig;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;clootsj;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;melghali;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;jemoa1;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;nandriam;12
+"(SEFIAP1) C2i Niveau 1";704;"Compétences numériques ( S2 )";SEFIAP1-COMPNUM2;topics;manuelia;12
+"(5B02B2) Licence CUPGE MATHÉMATIQUES-PHYSIQUE 2";705;"CM Thermodynamique [CM]";5B02B2-5BFTHE4M;topics;jhonecke;9
+"(5B02B2) Licence CUPGE MATHÉMATIQUES-PHYSIQUE 2";705;"CM Thermodynamique [CM]";5B02B2-5BFTHE4M;topics;vbois;9
+"(5B02B2) Licence CUPGE MATHÉMATIQUES-PHYSIQUE 2";705;"CM Thermodynamique [CM]";5B02B2-5BFTHE4M;topics;vita;9
+"(5B02A2) Licence MATHÉMATIQUES 2";706;"TD Modélisation des systèmes physiques [TD]";5B02A2-5BEMOD4D;topics;jhonecke;11
+"(4B03A2) Licence HISTOIRE 2";707;"CM Histoire contemporaine [CM]";4B03A2-4BCHCO4M;topics;jlescure;11
+"(5B04A3) Licence PHYSIQUE 3";708;"CM Monte Carlo [CM]";5B04A3-5BESCO6M;topics;dunlop;9
+"(3B02B2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 2";709;"EC Thème [TD]";3B02B2-3BSTHM4D;topics;adiazvil;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";710;"EC Institutions britanniques [EC]";3B01C2-3BVC4IGB;topics;sguy;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";710;"EC Institutions britanniques [EC]";3B01C2-3BVC4IGB;topics;frynne;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";710;"EC Institutions britanniques [EC]";3B01C2-3BVC4IGB;topics;maza;5
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";711;"BE Construction métallique [EC]";5V04B1-5VGD2MET;topics;jhauteco;3
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";711;"BE Construction métallique [EC]";5V04B1-5VGD2MET;topics;fforest;3
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";712;"Optimisation logistique M4201C [EC]";7B05X2-7BAB4OPL;topics;fpirard;3
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";714;"CM Les Champignons [CM]";5B11B3-5BICHA6M;topics;mpotage;5
+"(5B02A3) Licence MATHÉMATIQUES 3";715;"TD Calcul différentiel et analyse numérique [TD]";5B02A3-5BDCAL6D;topics;mizrahi;5
+"(4B03A2) Licence HISTOIRE 2";716;"EC1 Informatique pour historiens [UE]";4B03A2-4BCINH4D;weeks;gsaunier;2
+"(4B03A1) Licence HISTOIRE 1";717;"EC2 Compétences numériques C2i [TD] - Élise Haddad";4B03A1-4BCNUM2D+2;weeks;ehaddad;10
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";718;"td interconnexion des réseaux [TD]";5W06A3-5EGINR0D;topics;dntt;6
+"(5W06A3) LP RÉSEAUX ET SÉCURITÉ";718;"td interconnexion des réseaux [TD]";5W06A3-5EGINR0D;topics;edondeli;6
+"(4B02A1) Licence GÉOGRAPHIE ET AMÉNAGEMENT 1";719;"EC3 Préparation au C2i [TD]";4B02A1-4BDC2I2D;topics;lcazeaux;8
+"(4B02A1) Licence GÉOGRAPHIE ET AMÉNAGEMENT 1";720;"Statistiques descriptives [TD]";4B02A1-4BDSTD2D;topics;jvilavaz;13
+"(4B02A1) Licence GÉOGRAPHIE ET AMÉNAGEMENT 1";721;"EC3 Etude de cas - Ile de France [TD]";4B02A1-4BDIDF2D;topics;jvilavaz;12
+"(4B02A1) Licence GÉOGRAPHIE ET AMÉNAGEMENT 1";721;"EC3 Etude de cas - Ile de France [TD]";4B02A1-4BDIDF2D;topics;tsieng;12
+M2;722;"groupe de travail étudiants ESPE";;topics;yaudrain15;5
+M2;722;"groupe de travail étudiants ESPE";;topics;rgriffon;5
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";723;"Ecriture pour la création audiovisuelle M4104 [EC]";7B12A2-7BFA4ECA;topics;vgruyer;2
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";724;"CM Civilisation des pays anglophones [CM]";3B02A2-3BGCPA4M;weeks;edechamp;13
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";724;"CM Civilisation des pays anglophones [CM]";3B02A2-3BGCPA4M;weeks;sguy;13
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";725;"Structures des constructions métalliques [TD]";5W07A3-5EBSCM0D;topics;jhauteco;5
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";726;"EC Traduction spécialisée [TD]";3B01B3-3BVTSP6D;topics;ppacini;10
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";727;"EC Traduction spécialisée [TD]";3B01C3-3BVTSP6D;topics;ppacini;10
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";728;"EC Traduction [TD]";3B01B2-3BVTRA4D;topics;ppacini;7
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";729;"EC Traduction [TD]";3B01C2-3BVTRA4D;topics;ppacini;7
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";730;"Civilisation et littérature des pays anglophones : TD [EC]";3B02A1-3BGCLA2D;topics;ppacini;15
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";730;"Civilisation et littérature des pays anglophones : TD [EC]";3B02A1-3BGCLA2D;topics;frynne;15
+"(5B02A3) Licence MATHÉMATIQUES 3";731;"TD Probabilités et statistiques [TD]";5B02A3-5BDPRS6D;topics;alili;4
+"(5C16A1) DU INTERNATIONAL : CHIMIE ET PHYSIQUE EN ANGLAIS";732;"UE Physique 2 [UE]";5C16A1-5CDB2;topics;momeni;7
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";733;"CM Paléontologie [CM]";5B11B2-5BIPAL4M;topics;lalleman;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";733;"CM Paléontologie [CM]";5B11B2-5BIPAL4M;topics;fgoussar;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";734;"CM Océans atmosphère et climat [CM]";5B11B2-5BIOCE4M;topics;lalleman;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";734;"CM Océans atmosphère et climat [CM]";5B11B2-5BIOCE4M;topics;gmohn;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";734;"CM Océans atmosphère et climat [CM]";5B11B2-5BIOCE4M;topics;leturmy;6
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";734;"CM Océans atmosphère et climat [CM]";5B11B2-5BIOCE4M;topics;guego;6
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";735;"EC Traduction spécialisée [TD]";3B01A3-3BVTSP6D;topics;ppacini;10
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";736;"TD Institutions britanniques [TD]";3B01B2-3BVIGB4D;topics;maza;13
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";737;"TD Institutions britanniques [TD]";3B01C2-3BVIGB4D;topics;maza;13
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";738;"TD Institutions britanniques [TD]";3B01E2-3BVIGB4D;topics;maza;13
+"(3B01A2) Licence LEA ANGLAIS-ALLEMAND 2";739;"TD Institutions britanniques [TD]";3B01A2-3BVIGB4D;topics;maza;13
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";740;"Informatique : utilisation approfondie d\'un tableur M2105 [EC] - Daniel Bageac";7B05A1-7BAA2UAT+1;topics;dbageac;8
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";741;"EC Society and business [CM]";3B01B2-3BUSEB4M;weeks;bschmitt;13
+"(2B02A3) Licence ÉCONOMIE, FINANCE 3";742;"Informatique CM et TD [UE]";2B02A3-2EIT26;weeks;revault;14
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";743;"Economie des Etats-Unis [TD]";3B01B3-3BVEEU6D;topics;arrizaba;3
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";744;"M41B01 Biochimie biologie moléculaire UE 41 GB ABB [EC]";7B09A2-7BKA4BBM;topics;aferhi1;5
+"(5B06A3) Licence GÉNIE CIVIL 3";745;"UE Projet transversal [UE]";5B06A3-5BFPRO6D;topics;jhauteco;5
+"(5B06A3) Licence GÉNIE CIVIL 3";745;"UE Projet transversal [UE]";5B06A3-5BFPRO6D;topics;scodet;5
+"(2V02B1) Master FINANCE, MATHÉMATIQUES ET MARCHÉS DE CAPITAUX 1";746;"Développement C++ [UE]";2V02B1-2FFB22DE;topics;laroque;3
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";747;"CM Les fonctions de ralations animales [CM]";5B11B3-5BIFON6M;topics;discala;5
+"(4B01B1) Licence LETTRES ET ARTS VIVANTS 1";748;"EC1 Littérature française du XIX ème [CM]";4B01B1-4BALIX2M;weeks;mmouton;12
+"(3B01B3) Licence LEA ANGLAIS-CHINOIS 3";749;"Economie des Etats-Unis [CM]";3B01B3-3BVEEU6M;topics;arrizaba;3
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";750;"Economie des Etats-Unis [TD]";3B01C3-3BVEEU6D;topics;arrizaba;3
+"(3B01C3) Licence LEA ANGLAIS-ESPAGNOL 3";751;"Economie des Etats-Unis [CM]";3B01C3-3BVEEU6M;topics;arrizaba;3
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";752;"TD Génèse de la démocratie aux Etats-Unis [TD]";3B01B2-3BVGUS3D;topics;arrizaba;5
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";753;"Economie des Etats-Unis [TD]";3B01E3-3BVEEU6D;topics;arrizaba;3
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";754;"Economie des Etats-Unis [CM]";3B01E3-3BVEEU6M;topics;arrizaba;3
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";755;"CM Du minéral à la roche [CM]";5B01C1-5BIMRO2M;topics;robion;2
+"(3B01E3) Licence LEA ANGLAIS-JAPONAIS 3";756;"EC Traduction spécialisée en japonais [TD]";3B01E3-3BJTSJ6D;topics;gpeloux;5
+"(3B01E1) Licence LEA ANGLAIS-JAPONAIS 1";757;"CM Civilisation japonaise [CM]";3B01E1-3BJCIJ2M;topics;gpeloux;13
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";758;"Economie des Etats-Unis [CM]";3B01A3-3BVEEU6M;topics;arrizaba;3
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";759;"EC Littérature britannique du XXe siècle [CM]";3B02A3-3BGLBR6M;topics;coatalen;1
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";760;"Histoire, cultures et patrimoines : Asie [CM]";3V02A1-3VAACP2M;topics;gpeloux;5
+"(3V03A2) Master LANGUES ET COMMERCE INTERNATIONAL 2";761;"Structures économqiues et sociales du Japon [UE]";3V03A2-3VDSEJ3M;topics;gpeloux;1
+"(3V01B1) Master EEI L'EUROPE ET L'ASIE ORIENTALE 1";762;"Économie, politique, et sociétés : le Japon [UE]";3V01B1-3VCEPJ2D;topics;gpeloux;5
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";763;"CM Du minéral à la roche [CM]";5B01B1-5BAMRO2M;topics;robion;2
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";764;"CM Les fonctions de ralations animales [CM]";5B13B3-5BIFON6M;topics;discala;5
+"(5B05A2) Licence SCIENCES POUR L'INGÉNIEUR 2";765;"Préparation de chantier [TP]";5B05A2-5BGPDC4P;topics;scodet;5
+"(BC01A1) DIPLÔME SCIENCES PO 1";767;"CM Histoire contemporaine : sociétés impéri situa coloniales [CM]";BC01A1-BCAHCO2M;weeks;eblancha;12
+"(3B02B1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 1";768;"CM Introduction à la culture de l'Amérique latine [CM]";3B02B1-3BSICA2M;topics;epaliera;12
+"(3B02B3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 3";769;"CM Civilisation Amérique latine contemporaine [CM]";3B02B3-3BSCAL6M;weeks;epaliera;6
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";770;"Civilisation et littérature des pays anglophones : TD [EC] - 3B02A1-3BGCLA2DCIV";3B02A1-3BGCLA2D+1;topics;frynne;5
+"(BC01A2) DIPLÔME SCIENCES PO 2";771;"Anglais [EC]";BC01A2-BC2CANG;topics;frynne;5
+"(3B02B1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 1";772;"EC Version [TD]";3B02B1-3BSVRS2D;topics;mdelanno;5
+"(3B01A3) Licence LEA ANGLAIS-ALLEMAND 3";773;"Economie des Etats-Unis [TD]";3B01A3-3BVEEU6D;topics;arrizaba;3
+"(4V07A1) Master SCIENCES DU LANGAGE 1";774;"Situations linguistiques et politiques linguistiques d'enseignement du français dans le monde francophone";4V07A1-4VDSIL2M;topics;mbertucci;7
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";775;"ECHistoire des Arts [CM]";3B03A2-3BUHIA4M;topics;fdassy;10
+"(32015V40) Master MEEF Anglais";778;"Séminaire de recherche";32015V40-32015E59;topics;fdassy;5
+"(3B02B1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 1";779;"EC Introduction à la culture de l\'Amérique latine [EC]";3B02B1-3BSB2ICA;topics;mtocilov;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";780;"UE 25/EC 254 : FLE/FLES";AV06A1-A2015E60;topics;mbertucci;13
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";781;"Routes [CM]";5V04C2-5VGROU4M;topics;bodet;5
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";782;"Routes [EC]";5V04C2-5VGC4ROU;topics;bodet;1
+"(5V04C2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DES TRAV PUBL 2";783;"Routes [TD]";5V04C2-5VGROU4D;topics;bodet;5
+"(3B01A1) Licence LEA ANGLAIS-ALLEMAND 1";784;"CM Société US contemporaine [CM]";3B01A1-3BVSUS2M;topics;sfilabak;5
+"(3B01E1) Licence LEA ANGLAIS-JAPONAIS 1";785;"CM Société US contemporaine [CM]";3B01E1-3BVSUS2M;topics;sfilabak;5
+"(3B01B1) Licence LEA ANGLAIS-CHINOIS 1";786;"CM Société US contemporaine [CM]";3B01B1-3BVSUS2M;topics;sfilabak;5
+"(3B01F1) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 1";787;"CM Société US contemporaine [CM]";3B01F1-3BVSUS2M;topics;sfilabak;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";788;"CM Statistiques [CM]";5B01C1-5BISTT2M;topics;volte;8
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";788;"CM Statistiques [CM]";5B01C1-5BISTT2M;topics;rrioux;8
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";788;"CM Statistiques [CM]";5B01C1-5BISTT2M;topics;jbougron;8
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";788;"CM Statistiques [CM]";5B01C1-5BISTT2M;topics;phodara;8
+"(5B02A2) Licence MATHÉMATIQUES 2";789;"CM Fonctions à plusieurs variables [CM]";5B02A2-5BEFON4M;topics;alili;6
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";790;"analyse économique M4203C [EC]";7B05X2-7BAB4ANE;topics;dbageac;7
+"(5V02A1) Master CHIMIE 1";791;"Approche orbitalaire [CM]";5V02A1-5VEAPO1M;topics;sini;5
+"(5B09A3) Licence CHIMIE 3";792;"CM Liaison chimique [CM]";5B09A3-5BBLCH6M;topics;sini;3
+"(5B09A3) Licence CHIMIE 3";793;"TD Liaison chimique [TD]";5B09A3-5BBLCH6D;topics;sini;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";795;"CM Histoire et géographie de l'Espagne [CM]";3B01C2-3BEHGE4M;topics;echipi;11
+"(4B03A1) Licence HISTOIRE 1";796;"EC5 Histoire de l'Europe [UE]";4B03A1-4BCHEU2M;topics;gsaunier;3
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";797;"TD Civilisation des pays anglophones [TD]";3B02A3-3BGCPA6D;topics;frynne;5
+"(CA01B1) NOUVEAU DÉPART SCIENTIFIQUE BIOLOGIE CHIMIE GÉOLOGIE";798;"Nouveau départ : Bureautique (scientifique) [UE]";CA01B1-CABNDBUR;topics;tmarchand;16
+"(32015V41) Master 1 MEEF Anglais";799;"Préparation Epreuve de Mise en Situation Professionnelle (EMSP) - 1ère partie.";32015V41-32015E61;weeks;fdassy;11
+"(52015V43) Licence UFR ST (tous niveaux)";800;"UE Libre Alteration des pierres du Patrimoine";52015V43-52015E63;weeks;menendez;6
+"(5W08A3) LP PRÉSERVATION ET MISE EN VALEUR DU PATRIMOINE BÂTI";801;"Étude diagnostique préalable du patrimoine bâti [EC]";5W08A3-5ASD0EDP;topics;menendez;5
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";802;"EC Version [TD]";3B02A2-3BGVRS4D;topics;coatalen;5
+"(5B02A3) Licence MATHÉMATIQUES 3";803;"UE Anglais mathématiques [UE]";5B02A3-5BDANM6D;topics;dehy;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";804;"CM Relation structure fonction des macromocules biologiques [CM]";5B11A2-5BJMAC4M;topics;cvendrel;5
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";805;"CM Mathématiques pour les sciences 2 [CM]";5B01B1-5BAMAS2M;topics;dehy;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";806;"CM Chimie organique des cimposés multifonctionnels [CM]";5B11A2-5BJORG4M;topics;lensen;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";807;"EC Histoire de l'art américain [CM]";3B03A3-3BGHAA6M;weeks;ychupin;10
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";808;"TD Espagnol scientifique [UE]";5B01B1-5BWEST2D;topics;menendez;5
+"(BC01A1) DIPLÔME SCIENCES PO 1";809;"Conférences de méthode GROUPE 1";BC01A1-B2015E64;weeks;eblancha;2
+"(3B01C1) Licence LEA ANGLAIS-ESPAGNOL 1";811;"CM Civilisation espagnole [CM]";3B01C1-3BECES2M;topics;eblument;13
+"(3B01C1) Licence LEA ANGLAIS-ESPAGNOL 1";812;"EC Pratique de la langue orale espagnole [TD]";3B01C1-3BELOE2D;topics;eblument;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";813;"Littérature des pays anglophones [EC]";3B03A3-3BGB5LPA;weeks;ychupin;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;tmarchand;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;odelportefontaine;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;anyayea;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;bbatier;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;edelforg;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;mdistefa;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;wkout;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;koutw;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;gkulonga2;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;kmoussa;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;batier;6
+"(SEFIAP4) FORMATION";814;"Formation pour les doctorants";82015V44-82015E65;topics;cholik;6
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";815;"Bases de Données - M2203 [EC]";7B12A1-7BFB2BAD;weeks;roch;12
+"(2B01A1) Licence ÉCONOMIE, FINANCE, GESTION 1";816;"TD Statistique Descriptive Grp2";2B01A1-22015E66;topics;djuste;10
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";817;"Chimie Générale et Organique - M2101 [EC]";7B09A1-7BKA2CGO;topics;aferry;5
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";818;"Chimie Générale et Organique - M2101 [EC]";7B09B1-7BKA2CGO;topics;aferry;5
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";819;"Intégration Web - M2206 [EC]";7B12A1-7BFB2WEB;weeks;cmarinic;16
+"(5B03B2) Licence CMI INFORMATIQUE SYSTÈMES INTELL COMMUNICANTS 2";820;"UE Portefeuille d\'expériences et de compétences [UE]";5B03B2-5BDPEC3D;topics;dntt;7
+"(7B03A2) DUT GEII NEUVILLE FI 2";821;"Eclairage et réseaux embarqués [EC]";7B03A2-7BCB4ERE;topics;guerinea;5
+"(3B01C1) Licence LEA ANGLAIS-ESPAGNOL 1";822;"EC Pratique de la langue écrite espagnole [TD]";3B01C1-3BELEE2D;topics;echipi;5
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";823;"Réseaux [CM]";5V05A1-5VHRESDM;topics;dntt;7
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";823;"Réseaux [CM]";5V05A1-5VHRESDM;topics;rcard;7
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";824;"Big Data M4203 [EC]";7B12A2-7BFB4BIG;weeks;cmarinic;12
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";825;"EC6 Logistique [CM]";4B02B3-4BDLOG6M;weeks;mmagnan;6
+"(AV01D2) Master PROFESSEUR DES ÉCOLES GENNEVILLIERS 2";826;"TICE [UE]";AV01D2-AVATIC4D;topics;fvillemont;5
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";827;"Ingénierie du développement international et prod touristiqu [CM]";3V02A1-3VAIDI2M;topics;ldupont;5
+"(2V02A2) Master GIF MARCHÉS FINANCIERS, INSTRUMENTS ET VALORISATION 2";828;"VBA : initiation à la pro [UE]";2V02A2-2FMC34;topics;fouquet;1
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";829;"CM Histoire et géographie de l'Espagne [CM]";3B01D2-3BEHGE4M;topics;echipi;11
+"(3V03A2) Master LANGUES ET COMMERCE INTERNATIONAL 2";831;"Informatique et e-commerce [EC]";3V03A2-3VDIEC3D;topics;pcortes;5
+"(3V03A2) Master LANGUES ET COMMERCE INTERNATIONAL 2";831;"Informatique et e-commerce [EC]";3V03A2-3VDIEC3D;topics;oteboul;5
+"(5B08C2) Licence CUPGE PHYSIQUE-CHIMIE-MATHÉMATIQUES 2";832;"CM Enseignement complémentaire en mécanique et électricité [CM]";5B08C2-5BKMEC4M;topics;petit;5
+"(7B05A1) DUT GESTION LOGISTIQUE ET TRANSPORT 1";833;"Gestion financière M2202 [EC]";7B05A1-7BAB2GFI;topics;dbageac;7
+"(3V03A1) Master LANGUES ET COMMERCE INTERNATIONAL 1";834;"Évolution des économies latino-américaines [EC]";3V03A1-3VDELA2M;weeks;epaliera;9
+"(7B03A2) DUT GEII NEUVILLE FI 2";835;"Traitement et transmission du signal [EC]";7B03A2-7BCB4TTS;topics;raulet;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";836;"EC Pratique de la langue écrite LEA anglais / espagnol [TD]";3B01C2-3BEPLE4D;topics;cvivasla;5
+"(3B01C1) Licence LEA ANGLAIS-ESPAGNOL 1";837;"EC Pratique de la langue orale espagnole [TD]";3B01C1-3BELOE1D;topics;cvivasla;5
+Autre;838;"Préparation au TOEIC";TOEIC;topics;sfalempin;5
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";839;Anglais;;topics;sfalempin;5
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";840;"Résistance des matériaux 3 [CM]";5V04C1-5VGRMA2M;topics;apierre;5
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";841;"XML et web sémantique M4202 [EC]";7B12A2-7BFB4XML;weeks;cmarinic;11
+"(AV21A1) Master CONSEILLER PRINCIPAL D'ÉDUCATION GENNEVILLIERS 1";842;"Technologies numériques, compétences info-documentaires [EC]";AV21A1-AVDTDN1D;topics;fvillemont;5
+"(7B03C2) DUT GEII SARCELLES FI 2";843;"Réseaux industriels M4210C [EC]";7B03C2-7BEA4REI;topics;emakhlou;5
+"(7B03C1) DUT GEII SARCELLES FI 1";844;"Automatisme M2102 [EC]";7B03C1-7BCA2AUT;topics;emakhlou;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";845;"UE Libre - Découverte du Génie Civil";5B01A1-52015E67;topics;scodet;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";845;"UE Libre - Découverte du Génie Civil";5B01A1-52015E67;topics;fiorio;5
+"(AV07A2) Master MEEF MATHÉMATIQUES PONTOISE 2";846;Anglais;;topics;sfalempin;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";847;"CM Littérature des pays anglophones [CM]";3B03A3-3BGLPA6M;weeks;ychupin;13
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";848;"Cloud [TD]";5V05A1-5VHCLODD;topics;dntt;7
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";848;"Cloud [TD]";5V05A1-5VHCLODD;topics;dkotzino;7
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";848;"Cloud [TD]";5V05A1-5VHCLODD;topics;jen;7
+"(52015V46) licence chimie ou biologie";849;"Aromes et parfum";52015V46-52015E69;topics;chelain;1
+"(BC01A1) DIPLÔME SCIENCES PO 1";851;"Conférences de méthode GROUPE 2";BC01A1-B2015E71;topics;eblancha;5
+"(5B03A2) Licence INFORMATIQUE 2";852;"CM Langages et automates [CM]";5B03A2-5BDLAN4M;topics;ibriquel;5
+"(5B03A2) Licence INFORMATIQUE 2";852;"CM Langages et automates [CM]";5B03A2-5BDLAN4M;topics;cweidman;5
+"(5B01E1) Licence CUPGE PHYSIQUE-CHIMIE 1";853;"TD Complément mathématiques [TD]";5B01E1-5BKCMA2D;topics;dehy;5
+"(5B01D1) Licence CUPGE MATHÉMATIQUES-PHYSIQUE 1";854;"TD Algorithmique et programmation 1 [TD]";5B01D1-5BDAPR2D;topics;jen;7
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";855;"TD Astronomie et astrophysique [UE]";5B01A1-5BWAEA2D;topics;amoudens;8
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";855;"TD Astronomie et astrophysique [UE]";5B01A1-5BWAEA2D;topics;econgiu;8
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";855;"TD Astronomie et astrophysique [UE]";5B01A1-5BWAEA2D;topics;remy;8
+"(3V03A1) Master LANGUES ET COMMERCE INTERNATIONAL 1";856;"Histoire des relations économiques entre Grande-Bretagne,U.E [EC]";3V03A1-3VDHRE2M;topics;sguy;5
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";857;"EC1 Géographie sociale [CM]";4B02B3-4BDGSO6M;topics;jfretign;14
+"(8C01A1) CERTIFICAT INFORMATIQUE ET INTERNET NIVEAU 1";858;"Dossiers C2i";8C01A1-82015E72;topics;tmarchand;2
+"(8C01A1) CERTIFICAT INFORMATIQUE ET INTERNET NIVEAU 1";858;"Dossiers C2i";8C01A1-82015E72;topics;lfrebour;2
+"(5B13A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";859;"Thermodynamique des transports membranaires [CM]";5B13A3-5BJTRA6M;topics;discala;6
+"(5V05B2) Master SIC SYSTÈMES INTELLIGENTS ET DISTRIBUÉS 2";860;"Technique de data-mining et warehousing [TD]";5V05B2-5VHTECED;topics;jen;5
+"(5B03A2) Licence INFORMATIQUE 2";861;"CM Architecture des ordinateurs 1 [CM]";5B03A2-5BDARC4M;topics;gmostafa;5
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";862;"EC4 Statistiques bivariées/multivariées [TD]";4B02B3-4BDSBI6D;weeks;jmolho;1
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";863;"TD Bio mimétisme [UE]";5B01C1-5BWBIM2D;topics;cvendrel;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";864;"CM Algorithmique et Programmation 1 [CM]";5B01A1-5BDAPR2M;weeks;derdouri;2
+"(5V08A1) Master SCIENCES DE LA TERRE ET DES PLANÈTES, ENVIRONNEMENT 1";865;"Matériaux méthodes d\'analyses [EC]";5V08A1-5VBB2MMA;topics;peralta;2
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";866;"Web reportage M4201 [EC]";7B12A2-7BFB4WEB;topics;vgruyer;2
+"(5B11C3) Licence CMI BIOTECHNOLOGIES BIOMATÉRIAUX POUR LA SANTÉ 3";867;"CM Microbiologie appliquée [CM]";5B11C3-5BJMBA5M;topics;dseyer;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";868;"CM Biologie et écologie des microorganismes, microbiologie [CM]";5B11A2-5BIMIC4M;topics;dseyer;3
+"(5B11A2) Licence SCIENCES DE LA VIE 2";869;"TD Biologie et écologie des microorganismes, microbiologie [TD]";5B11A2-5BIMIC4D;topics;dseyer;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";870;"CM Biologie et écologie des microorganismes, microbiologie [CM]";5B11B2-5BIMIC4M;topics;dseyer;3
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";871;"TD Biologie et écologie des microorganismes, microbiologie [TD]";5B11B2-5BIMIC4D;topics;dseyer;5
+"(3B02A3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 3";872;"EC Grammaire - Linguistique [TD]";3B02A3-3BGGRL6D;topics;wyld;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";873;"Projet Tutoré - M2405 [EC]";7B09A1-7BKD2PTU;topics;gmayot;2
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";873;"Projet Tutoré - M2405 [EC]";7B09A1-7BKD2PTU;topics;aferry;2
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";874;"Projet Tutoré - M2405 [EC]";7B09B1-7BKD2PTU;topics;gmayot;2
+"(7B09B1) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 1";874;"Projet Tutoré - M2405 [EC]";7B09B1-7BKD2PTU;topics;aferry;2
+"(3B02B2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 2";875;"EC Expression orale [TD]";3B02B2-3BSEXO3D;topics;cvivasla;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";876;"CM Ressources et leur environnemen [CM]";5B11B3-5BIRES6M;topics;bmaillot;5
+"(5B10A2) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 2";877;"CM Ressources et leur environnement [CM]";5B10A2-5BCRES4M;topics;bmaillot;5
+"(5B02A3) Licence MATHÉMATIQUES 3";878;"CM Probabilités et statistiques [CM]";5B02A3-5BDPRS6M;topics;elockerb;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";879;"EC Pratique de la langue orale LEA anglais / espagnol [TD]";3B01C2-3BEPLO4D;topics;cvivasla;5
+"(5B04A2) Licence PHYSIQUE 2";880;"UE Physique expérimentale 1 [UE]";5B04A2-5BFC4;topics;hchaabou;1
+"(4B03A2) Licence HISTOIRE 2";881;"Critique journalistique et littéraire [TD]";4B03A2-4BACJL4D;topics;mfroye;5
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";882;"CM Introduction à la littérature des pays anglophones [CM]";3B02A1-3BGLPA2M;topics;ychupin;5
+"(4B03A1) Licence HISTOIRE 1";883;"EC3 Historiographie [CM]";4B03A1-4BCHIS2M;topics;gsaunier;6
+"(4B03C3) Licence HISTOIRE PARCOURS JEC 3";884;"Pratiques journalistiques [TD]";4B03C3-4BAJOU6D;topics;rbadouar;6
+"(3B01B1) Licence LEA ANGLAIS-CHINOIS 1";885;"Introduction aux institutions politiques et administratives [CM]";3B01B1-3BVIIP2M;topics;vaubourg;5
+"(3B01A1) Licence LEA ANGLAIS-ALLEMAND 1";886;"Introduction aux Relations Internationales [CM]";3B01A1-3BVIRI2M;topics;rvinadia;3
+"(3B01B1) Licence LEA ANGLAIS-CHINOIS 1";887;"Introduction aux Relations Internationales [CM]";3B01B1-3BVIRI2M;topics;rvinadia;2
+"(3B01C1) Licence LEA ANGLAIS-ESPAGNOL 1";888;"Introduction aux Relations Internationales [CM]";3B01C1-3BVIRI2M;topics;rvinadia;2
+"(3B01D1) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 1";889;"Introduction aux Relations Internationales [CM]";3B01D1-3BVIRI2M;topics;rvinadia;2
+"(3B01E1) Licence LEA ANGLAIS-JAPONAIS 1";890;"Introduction aux Relations Internationales [CM]";3B01E1-3BVIRI2M;topics;rvinadia;2
+"(3B01F1) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 1";891;"Introduction aux Relations Internationales [CM]";3B01F1-3BVIRI2M;topics;rvinadia;2
+"15 : BROUILLONS";892;"Initiation à l'algorithmique";;topics;jgraveau;4
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";893;"Gestion de la production et des flux internes M4102 [EC]";7B05X2-7BAA4GPF;topics;fpirard;6
+"(2V03F2) Master TECHNOLOGIES INFORMATION MARKETING MANAGEMENT 2";894;"Algorithmique et programmation pour Internet [UE]";2V03F2-2FBT3;topics;jgraveau;4
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";895;"EC Histoire des Arts [CM]";3B01C2-3BUHIA4M;topics;fdassy;5
+"(7W02A3) LP BIOLOGIE DE LA CELLULE EUCARYOTE";896;"Projet tuteuré [UE]";7W02A3-7EYD0;topics;gmayot;2
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;dntt;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;jgraveau;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;cdanvodi;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;lricard;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;dkotzino;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;jen;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;laroque;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;grenier;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;bourdon;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;andry;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;lheureul;1
+"(52015V48) ???";897;"Plateforme d\'objets connectés";52015V48-52015E74;topics;astorif;1
+"(5V04A1) Master BÂTIMENT INTELLIGENT, EFFICACITÉ ÉNERGÉTIQUE 1";898;"Règles de dimensionnement d\'éléments structuraux [EC]";5V04A1-5VGB2REG;topics;fiorio;7
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";899;"UE Méthodologie en cultures cellulaires procaryotes [UE]";5B11A3-5BJCPR6P;topics;dseyer;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";900;"CM Phylogénie des végétaux [CM]";5B11B2-5BIPVE4M;topics;mpotage;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";900;"CM Phylogénie des végétaux [CM]";5B11B2-5BIPVE4M;topics;fnerisso;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";900;"CM Phylogénie des végétaux [CM]";5B11B2-5BIPVE4M;topics;guego;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";900;"CM Phylogénie des végétaux [CM]";5B11B2-5BIPVE4M;topics;mricou;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";901;"UE Méthodologie pour les sciences de la vie [UE]";5B11A2-5BJMTH4P;topics;dseyer;5
+"(5V01A1) Master BIOLOGIE ET SANTÉ 1";902;"Atelier: Aspects moléculaires et cellulaires en Physiopatho [UE]";5V01A1-5VAS1AMC;topics;dseyer;5
+"(5F39B1) Master BÂTIMENT INTELLIGENT 1";903;"Règles de dimensionnement d'éléments structuraux [EC]";5F39B1-5PPB2RDE;topics;fiorio;7
+"(5B05A2) Licence SCIENCES POUR L'INGÉNIEUR 2";904;"Préparation de chantier [CM]";5B05A2-5BGPDC4M;topics;jhauteco;5
+"(4B01A1) Licence LETTRES 1";905;"Ecriture journalistique [TD]";4B01A1-4BAEJO2D;topics;mfroye;5
+"(5B11B2) Licence SCIENCES DE LA VIE ET DE LA NATURE 2";906;"CM Le temps en géologie [CM]";5B11B2-5BITEM4M;topics;dfrizon;5
+"(52015V50) UE libre";907;"Chimie du médicament";52015V50-52015E76;topics;mlarrego;1
+"(52015V50) UE libre";907;"Chimie du médicament";52015V50-52015E76;topics;germain;1
+"(SEFIAP2) TEST";908;Caroline;caroline-etu;topics;cpers;5
+"(SEFIAP2) TEST";908;Caroline;caroline-etu;topics;tmarchand;5
+"(5B12A2) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 2";909;"CM Ressources et leur environnement [CM]";5B12A2-5BCRES4M;topics;menendez;5
+"(5B13B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";910;"CM Ressources et leur environnemen [CM]";5B13B3-5BIRES6M;topics;menendez;5
+"(7B03C2) DUT GEII SARCELLES FI 2";911;"Mathématiques M3302 [EC]";7B03C2-7BDC3MAT;topics;mleroy4;5
+"(7B03C2) DUT GEII SARCELLES FI 2";912;"Mathématiques et physique pour la poursuite d'étude M4306C [EC]";7B03C2-7BNB4MPP;topics;mleroy4;5
+"(7B03C1) DUT GEII SARCELLES FI 1";913;"Mathématiques M1302 [EC]";7B03C1-7BCC1MAT;topics;mleroy4;5
+"(7B03C1) DUT GEII SARCELLES FI 1";914;"Mathématiques M2302 [EC]";7B03C1-7BCC2MAT;topics;mleroy4;5
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";915;"Dessin assisté par ordinateur [TP]";5V04C1-5VGDES2P;topics;jhauteco;5
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";916;"Structures en béton armé [TP]";5W07A3-5EBSBA0P;topics;scodet;5
+"(3B01C2) Licence LEA ANGLAIS-ESPAGNOL 2";917;"EC Cultures et patrimoines - Amériques [CM]";3B01C2-3BUCPA4M;topics;jbaezaso;6
+"(3V02A1) Master TOURISME CULTUREL PROMOTION INTERNA DES TERRITOIRES 1";918;"Histoire, cultures et patrimoines : Amériques [CM] - Amérique latine";3V02A1-3VACPA2M+1;topics;jbaezaso;5
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;tmarchand;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;sini;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;chelain;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;germain;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;lensen;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;aubert;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;uziel;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;sleblanc;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;tnguyen1;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;rimbaud;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;mlarrego;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;cabidib;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;sducasse;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;sfalempin;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;ccoatrie;17
+"(SEFIAP4) FORMATION";919;"Premiers pas sur la plateforme pédagogique";;topics;ahabran;17
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";920;"M42B03 Expression communication UE 42 GB ABB [EC]";7B09A2-7BKB4EXC;topics;gmayot;2
+"(3B02B3) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 3";921;"CM Littérature espagnole du XXe siècle [CM]";3B02B3-3BSLES6M;topics;jbaezaso;5
+"(5V04B2) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE DU BÂTIMENT 2";922;"Projet de fin d\'études [EC]";5V04B2-5VGD4PRO;topics;jhauteco;5
+"(5B11B3) Licence BIOLOGIE GÉNÉRALE ET SCIENCES DE LA TERRE 3";923;"UE Biologie des cellules souches [UE]";5B11B3-5BICSO6M;topics;darbeida;5
+"(3B01A2) Licence LEA ANGLAIS-ALLEMAND 2";924;"EC Cultures et patrimoines - Amériques [CM]";3B01A2-3BUCPA4M;topics;jbaezaso;6
+"(3B01B2) Licence LEA ANGLAIS-CHINOIS 2";925;"EC Cultures et patrimoines - Amériques [CM]";3B01B2-3BUCPA4M;topics;jbaezaso;6
+"(5B11A3) Licence BIOCHIMIE ET BIOLOGIE CELLULAIRE 3";926;"UE Biologie des cellules souches [UE]";5B11A3-5BICSO6M;topics;darbeida;5
+"(3B02B2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ESPAGNOL 2";927;"EC Cultures et patrimoines - Amériques [CM]";3B02B2-3BUCPA4M;topics;jbaezaso;6
+"(3B02A2) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET REGION ANGLAIS 2";928;"EC Cultures et patrimoines - Amériques [CM]";3B02A2-3BUCPA4M;topics;jbaezaso;6
+"(3B01E2) Licence LEA ANGLAIS-JAPONAIS 2";929;"EC Cultures et patrimoines - Amériques [CM]";3B01E2-3BUCPA4M;topics;jbaezaso;6
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";930;"Atelier Conservation/Restauration";3B01D2-32015E77;topics;menendez;5
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";931;"Atelier Conservation/Restauration";3B01D2-32015E78;topics;menendez;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";932;"M41E04 Traitement des déchets traitement de l\'air UE 41 GB G [EC]";7B09B2-7BPA4TRD;topics;dareias;5
+"(7B09B2) DUT GÉNIE BIOLOGIQUE GÉNIE DE L'ENVIRONNEMENT 2";932;"M41E04 Traitement des déchets traitement de l\'air UE 41 GB G [EC]";7B09B2-7BPA4TRD;topics;aferry;5
+"(AV06A1) Master MEEF LETTRES CERGY 1";933;"Langue et littérature française [UE] - Françoise Ravez";AV06A1-AVBLLF2M+1;topics;fravez;4
+"(5W07A3) LP BUREAU D'ÉTUDE ET CONCEPTION TECHNIQUE";934;"Mécanique des sols [TP]";5W07A3-5EBSOL0P;topics;scodet;5
+"(BC01A1) DIPLÔME SCIENCES PO 1";935;"Arts et patrimoine [CM]";BC01A1-BC1ARTM;topics;alegendr;11
+"(5B08B2) Licence CUPGE PHYSIQUE-CHIMIE 2";936;"CM Enseignement complémentaire en mathématiques [CM]";5B08B2-5BKMAT4M;topics;alili;5
+"(7B03A1) DUT GEII NEUVILLE FI 1";937;"Outils logiciels M2201 [EC]";7B03A1-7BCB2OUT;topics;verhe;5
+"(7B03A2) DUT GEII NEUVILLE FI 2";938;"Mathématiques poursuite d\'études [EC]";7B03A2-7BCC4MPE;topics;verhe;5
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";939;"Équipements techniques du bâtiment [EC]";5V04C1-5VGC2ETB;topics;jhauteco;2
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";940;"BE équipements techniques [TP]";5V04B1-5VGEQU2P;topics;jhauteco;2
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";940;"BE équipements techniques [TP]";5V04B1-5VGEQU2P;topics;sfaucon;2
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";940;"BE équipements techniques [TP]";5V04B1-5VGEQU2P;topics;ohelson;2
+"(3B01D2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-ESPAGNOL 2";941;"EC Cultures et patrimoines - Amériques [CM]";3B01D2-3BUCPA4M;topics;jbaezaso;6
+"(3B01F2) Licence CMI TOURISME CULTUREL TERRITOIRES ANGLAIS-JAPONAIS 2";942;"EC Cultures et patrimoines - Amériques [CM]";3B01F2-3BUCPA4M;topics;jbaezaso;6
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";943;"CM Chimie des solutionset thermochimie [CM]";5B01B1-5BACHI2M;topics;rimbaud;6
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";943;"CM Chimie des solutionset thermochimie [CM]";5B01B1-5BACHI2M;topics;sleblanc;6
+"(5B01B1) Licence PHYSIQUE CHIMIE SCIENCES DE LA TERRE ET INGÉNIERIE 1";943;"CM Chimie des solutionset thermochimie [CM]";5B01B1-5BACHI2M;topics;tnguyen1;6
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";944;"Résistance des matériaux 2 [TP]";5V04B1-5VGREM2P;topics;nyermak;5
+"(5F47A2) Master CONTRÔLE ET QUALITÉ 2";945;"RMN et masse [UE]";5F47A2-5PNA3RMN;topics;germain;1
+"(7B09A2) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 2";946;"M41B03 Biologie cellulaire Anatomie pathologique UE 41 BG AB [EC]";7B09A2-7BKA4BCA;topics;gmayot;2
+"(4B02B3) Licence GÉO-AMÉNAGEMENT PARCOURS ÉTUDES URBAINES 3";947;"EC1 Commentaires de documents géographiques [TD]";4B02B3-4BDDOC6D;weeks;tsieng;13
+"(2V03F2) Master TECHNOLOGIES INFORMATION MARKETING MANAGEMENT 2";948;"Principes et architecture des site dynamiques [UE]";2V03F2-2FBE23;weeks;revault;5
+"(3B02A1) Licence LANGUES, LITT ET CIV ÉTRANGÈRES ET RÉGION ANGLAIS 1";949;"Médias [UE]";3B02A1-3BGMED2M;topics;stabas;5
+"(7B03C1) DUT GEII SARCELLES FI 1";950;"Informatique embarquée M2103 [EC]";7B03C1-7BCA2IEN;topics;ncuperli;2
+"(5V04B1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS1 1";951;"Mécanique des milieux continus [CM]";5V04B1-5VGMMC2M;topics;apierre;6
+"(5V04C1) Master CONCEPTION, CONSTRUCTION, INGÉNIERIE FS2 1";952;"Mécanique des milieux continus [CM]";5V04C1-5VGMMC2M;topics;apierre;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";953;"5BWHOR4D-UEL L\'homme réparé";5B01C1-52015E79;topics;vrodrigu;2
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";953;"5BWHOR4D-UEL L\'homme réparé";5B01C1-52015E79;topics;pauthe;2
+"(5V04A2) Master BÂTIMENT INTELLIGENT, EFFICACITÉ ÉNERGÉTIQUE 2";954;"Bases de données, système et information [CM]";5V04A2-5VGBSIEM;topics;dkotzino;7
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";955;"Cloud [CM]";5V05A1-5VHCLODM;topics;dkotzino;7
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";956;"Chiffrement et applications [TD]";5V05A1-5VHCHIDD;topics;dntt;4
+"(5V08A1) Master SCIENCES DE LA TERRE ET DES PLANÈTES, ENVIRONNEMENT 1";957;"Géophysique environnementale [TP]";5V08A1-5VBGEO2P;topics;robion;1
+"(5B11A2) Licence SCIENCES DE LA VIE 2";958;"TD Enzymologie [TD]";5B11A2-5BJENZ4D;topics;agand;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";958;"TD Enzymologie [TD]";5B11A2-5BJENZ4D;topics;vrodrigu;5
+"(7B05X2) DUT GESTION LOGISTIQUE ET TRANSPORT 2";959;"Pratique professionnelle M4205C [EC] - Prélude ERP";7B05X2-7BAB4PRP+1;topics;fpirard;2
+"(5V05A1) Master SYSTÈMES INTELLIGENTS COMMUNICANTS 1";960;"Entrepôts de données [TD]";5V05A1-5VHEDODD;topics;jen;8
+"(5B01D1) Licence CUPGE MATHÉMATIQUES-PHYSIQUE 1";961;"CM Enseignement complémentaire de Thermochimie [CM]";5B01D1-5BLTHC2M;topics;rimbaud;5
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";962;"Journées de terrain naturaliste [UE]";AV11A2-AVBIC4;topics;guego;6
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";962;"Journées de terrain naturaliste [UE]";AV11A2-AVBIC4;topics;lalleman;6
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";962;"Journées de terrain naturaliste [UE]";AV11A2-AVBIC4;topics;psouloum;6
+"(AV11A2) Master MEEF SCIENCES DE LA VIE ET DE LA TERRE PONTOISE 2";962;"Journées de terrain naturaliste [UE]";AV11A2-AVBIC4;topics;gmohn;6
+"(SEFIAP1) C2i Niveau 1";963;"Examens UE Usages du Web";8C01A1-82015E80;grid;nandriam;3
+"(SEFIAP1) C2i Niveau 1";963;"Examens UE Usages du Web";8C01A1-82015E80;grid;tmarchand;3
+"(SEFIAP1) C2i Niveau 1";963;"Examens UE Usages du Web";8C01A1-82015E80;grid;clootsj;3
+"(SEFIAP1) C2i Niveau 1";963;"Examens UE Usages du Web";8C01A1-82015E80;grid;cabidib;3
+"(7B03C1) DUT GEII SARCELLES FI 1";964;"Développement des compétences projet M2206 [EC]";7B03C1-7BCB2DCP;topics;tpavia;5
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";965;"Physiologie Pharmacologie - M23B03 [EC]";7B09A1-7BKC2PPH;topics;gmayot;2
+"(7B01C1) DUT TECHNIQUES DE COMMERCIALISATION SARCELLES FI 1";967;"Introduction à la Comptabilié - M1207 [EC]";7B01C1-7BGB1ICO;topics;flejeune;5
+"(7B01C2) DUT TECHNIQUES DE COMMERCIALISATION SARCELLES FI 2";968;"Gestion financière et budgétaire M3105C [EC]";7B01C2-7BGA3GFB;topics;flejeune;5
+"(7W03A3) LP DISTRISUP MANAGEMENT";969;"Gestion comptable et financière [EC]";7W03A3-7EXA0GCF;topics;flejeune;5
+"(7B01C1) DUT TECHNIQUES DE COMMERCIALISATION SARCELLES FI 1";970;"Technologie de l'Information et de la Communication  - M1205 [EC]";7B01C1-7BGB1TIC;topics;flejeune;5
+"(7B01B2) DUT TECHNIQUES DE COMMERCIALISATION PONTOISE APPR 2";971;"Marketing direct/Gestion de la relation client M3204 [EC]";7B01B2-7BGB3MAR;topics;marcenac;5
+"(5B11A2) Licence SCIENCES DE LA VIE 2";972;"CM Ingénierie cellulaire et tissulaire [CM]";5B11A2-5BJING4M;topics;darbeida;6
+"(7B12A1) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 1";973;"Algorithmique et Developpement du  Web - M2202 [EC]";7B12A1-7BFB2AED;weeks;roch;11
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";974;"Conception graphique en mouvement (Motion graphic design) [EC]";7B12A2-7BFB4MGD;topics;yledirai;2
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";975;"Pratique pédagogique 2 - les exercices [UE]";AV07A1-AVBGC2;topics;clefores;2
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";975;"Pratique pédagogique 2 - les exercices [UE]";AV07A1-AVBGC2;topics;bbenzekr;2
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";976;"Pratique Pédagogique 1 - la leçon [UE]";AV07A1-AVBGB2;topics;clefores;5
+"(AV07A1) Master MEEF MATHÉMATIQUES PONTOISE 1";977;"Outils pour les mathématiques TICE [TP]";AV07A1-AVBTIC1P;topics;clefores;1
+"(5F39C1) Master GÉNIE CIVIL ET INFRASTRUCTURES 1";978;"Gestion de travaux assistée par Ordinateur [UE]";5F39C1-5PRD2GTA;topics;scodet;11
+"(5F39C1) Master GÉNIE CIVIL ET INFRASTRUCTURES 1";978;"Gestion de travaux assistée par Ordinateur [UE]";5F39C1-5PRD2GTA;topics;hsoualhi;11
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";979;"CM Chimie organique [CM]";5B01C1-5BIORG2M;topics;chelain;3
+"(8C01A1) CERTIFICAT INFORMATIQUE ET INTERNET NIVEAU 1";980;C2i-Mooc;8C01A1-82015E81;topics;tmarchand;4
+"(8C01A1) CERTIFICAT INFORMATIQUE ET INTERNET NIVEAU 1";980;C2i-Mooc;8C01A1-82015E81;topics;htrankie;4
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";981;"Rentrée 2016-2017";5B01A1-52015E82;topics;dntt;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";981;"Rentrée 2016-2017";5B01A1-52015E82;topics;mizrahi;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";981;"Rentrée 2016-2017";5B01A1-52015E82;topics;rollet;5
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";982;"QCM de rentrée";5B01C1-52015E83;topics;htrankie;2
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";982;"QCM de rentrée";5B01C1-52015E83;topics;mmichiel;2
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";983;"UE Anglais [UE]";5B01A1-5BDANG1D;topics;sfalempin;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";983;"UE Anglais [UE]";5B01A1-5BDANG1D;topics;cabidib;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";983;"UE Anglais [UE]";5B01A1-5BDANG1D;topics;sducasse;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";983;"UE Anglais [UE]";5B01A1-5BDANG1D;topics;ahabran;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";983;"UE Anglais [UE]";5B01A1-5BDANG1D;topics;ccoatrie;5
+"(SEFIAP1) C2i Niveau 1";984;"Rattrapage compétences numériques  S1 et S2 10, 13 et 14 juin 2016";;topics;tmarchand;5
+"(SEFIAP1) C2i Niveau 1";984;"Rattrapage compétences numériques  S1 et S2 10, 13 et 14 juin 2016";;topics;cabidib;5
+"(SEFIAP1) C2i Niveau 1";984;"Rattrapage compétences numériques  S1 et S2 10, 13 et 14 juin 2016";;topics;rezguig;5
+"(AV01E2) Master PROFESSEUR DES ÉCOLES SAINT-GERMAIN-EN-LAYE 2";985;"Maîtriser les savoirs disciplinaires et didactiques du franç [UE]";AV01E2-AVAMSF3D;topics;mbeaumanoi;1
+"(7B09A1) DUT GÉNIE BIOLOGIQUE ANALYSES BIOLOGIQUES ET BIOCHIMIQUES 1";986;"Biochimie et  Biologie Moléculaire - M 2103 [EC]";7B09A1-7BKA2BBM;topics;aferhi1;5
+"(SEFIAP3) SUPPORTS";987;COURS-TEST-SEFIAP2;8C01A1-82014E61;topics;nandriam;5
+"(5B01A1) Licence MATHÉMATIQUES INFORMATIQUE PHYSIQUE ET INGÉNIERIE 1";988;"UE Anglais [UE]";5B01A1-5BDANG2D;topics;sducasse;6
+"(5B01C1) Licence BIOLOGIE ET INGÉNIERIE 1";989;"UE Anglais [UE]";5B01C1-5BIANG1D;topics;ccoatrie;5
+"(5B03A3) Licence INFORMATIQUE 3";990;"UE Anglais [UE]";5B03A3-5BHANG5D;topics;ccoatrie;6
+"15 : BROUILLONS";991;"Une Variable Reelle S1MIPI";;weeks;mizrahi;19
+"(7B12A2) DUT MÉTIERS DU MULTIMÉDIA ET DE L'INTERNET 2";992;"Stage S4 (10semaines minimum) M4205 [EC]";7B12A2-7BFB4STA;weeks;anedjarg;5
+"(12SAUV) SAUVEGARDE";993;"Ressources vidéos";;topics;berrando;5
+"(7B05A2) DUT GESTION LOGISTIQUE ET TRANSPORT APPR 2";994;"Pratique professionnelle M4205C [EC] -  Prelude ERP";7B05A2-7BAB4PRP+1;topics;fpirard;2
+;;;;;elalaoui;0
+;;;;;jmeyer;0
+;;;;;vgruyer;0
+;;;;;xleroux;0
+;;;;;cmarinic;0
+;;;;;shadjedj;0
+;;;;;roch;0
+;;;;;lidkhaji;0
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;dareias;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;pbelan;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;anicollo;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;rfamily;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;burgos;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;oromain;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;elalouf;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;croyer;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;evial;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;germain;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;smartens;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;trambly;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;lusunier;5
+"(82015V52) Non concerné";995;"Agir ensemble pour l\'UCP de demain";82015V52-82015E85;topics;germinet;5
+SEFIAP;996;"Le français à l'école primaire [CM]";AV01D1-AVAFEP2M;topics;sauneron;5
+"15 : BROUILLONS";997;Cristallographie;;topics;pbanet;5
+"(5B10A3) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 3";998;"CM Géotechnique [CM]";5B10A3-5BCGTE5M;topics;ledesert;1
+"(5B09A3) Licence CHIMIE 3";999;"CM Chimie inorganique 2 [CM]";5B09A3-5BBINO6M;topics;pbanet;1
+"(5B10A3) Licence SCIENCES DE LA TERRE ET ENVIRONNEMENT 3";1000;"CM Hydrogéologie [CM]";5B10A3-5BCHYD5M;topics;ledesert;1
+"(5V08C2) Master STPE ÉCO-CONSTRUCTION 2";1001;"De l\'éco-constructionà l\'éco-quartier [CM]";5V08C2-5VBEEQ3M;topics;ledesert;1
+"(5V08A2) Master STPE ÉCO-CONCEPTION ET GESTION DES DÉCHETS 2";1002;"Stage [UE]";5V08A2-5VBS4STA;topics;robion;1
+"15 : BROUILLONS";1003;"Méthodologie Première année";;topics;edelforg;5

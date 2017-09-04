@@ -1,0 +1,154 @@
+/*
+Copyright (c) 2007, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/sts/license.txt
+version: 2.2.2
+*/
+/* for all templates and grids */
+body{text-align:center;}
+#ft{clear:both;}
+/**/
+/* 750 centered, and backward compatibility */ 
+#doc,#doc2,#doc3,.sts-t1,.sts-t2,.sts-t3,.sts-t4,.sts-t5,.sts-t6,.sts-t7 {
+	margin:auto;text-align:left;
+	}
+/* 950 centered */ 
+#doc2 {
+	width:73.074em;*width:71.313em;min-width:950px;}
+/* 100% with 10px viewport side matting */ 
+#doc3 {
+	margin:auto 10px; /* not for structure, but so content doesn't bleed to edge */
+	width:auto;}
+	
+/* below required for all fluid grids; adjust widths and margins above accordingly */
+
+	/* to preserve source-order independence for Gecko */
+	.sts-b{position:relative;}
+	.sts-b{_position:static;} /* for IE < 7 */
+	#sts-main .sts-b{position:static;} 
+
+#sts-main {width:100%;}
+.sts-t1 #sts-main,
+.sts-t2 #sts-main,
+.sts-t3 #sts-main{float:right;margin-left:-25em;/* IE: preserve layout at narrow widths */}
+
+.sts-t4 #sts-main,
+.sts-t5 #sts-main,
+.sts-t6 #sts-main{float:left;margin-right:-25em;/* IE: preserve layout at narrow widths */}
+
+.sts-t1 .sts-b {
+	float:left;
+    width:12.3207em;*width:12.0106em;}
+.sts-t1 #sts-main .sts-b{
+    margin-left:13.3207em;*margin-left:13.0106em;
+}
+
+.sts-t3 .sts-b {
+	float:left;
+    width:23.0759em;*width:22.52em;}
+
+.sts-t6 .sts-b {
+	float:right;
+    width:23.0759em;*width:22.52em;}
+.sts-t6 #sts-main .sts-b {
+    margin-right:24.0759em;*margin-right:23.52em;
+}
+
+.sts-t7 #sts-main .sts-b {
+	display:block;margin:0 0 1em 0;
+}
+#sts-main .sts-b {float:none;width:auto;}
+/* GRIDS (not TEMPLATES) */
+.sts-g .sts-u, 
+.sts-g .sts-g, 
+.sts-gc .sts-u,
+.sts-gc .sts-g .sts-u,
+.sts-ge .sts-u, 
+.sts-gf .sts-u{float:right;display:inline;}
+.sts-g div.choice, 
+.sts-gc div.choice,
+.sts-gc div.choice div.choice,
+.sts-gd div.choice, 
+.sts-ge div.choice, 
+.sts-gf div.choice{float:left;}
+.sts-g .sts-u, 
+.sts-g .sts-g{width:49.1%;}
+.sts-g .sts-g .sts-u,
+.sts-gc .sts-g .sts-u {width:48.1%;}
+.sts-gb .sts-u, 
+.sts-gc .sts-u, 
+.sts-gd .sts-u{float:left;margin-left:2%;*margin-left:1.895%;width:32%;}
+.sts-gb div.choice, 
+.sts-gc div.choice, 
+.sts-gd div.choice{margin-left:0;}
+.sts-gc div.choice, 
+.sts-gd .sts-u{width:66%;}
+.sts-gd div.choice{width:32%;}
+.sts-ge .sts-u{width:24%;}
+.sts-ge div.choice, 
+.sts-gf .sts-u{width:74.2%;}
+.sts-gf div.choice{width:24%;}
+.sts-ge div.choice{width:74.2%;}
+#bd:after,
+.sts-g:after, 
+.sts-gb:after, 
+.sts-gc:after, 
+.sts-gd:after, 
+.sts-ge:after, 
+.sts-gf:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+#bd,
+.sts-g, 
+.sts-gb, 
+.sts-gc, 
+.sts-gd, 
+.sts-ge, 
+.sts-gf{zoom:1;}
+
+
+/* Basic Element Formatting */
+
+#header{
+	height:100px;
+	background-color:#F3F2ED;
+	margin:0;
+	padding:0;
+	}
+	
+#header h1{
+	font-size:1em;
+	margin:0;
+	padding:10px;
+	}
+	
+#header h1 a{
+	color:#000000;
+	background-color:#F3F2ED;
+	}
+.buttonsa {
+    background-color: #B10034; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.buttonsa4 {border-radius: 12px;}
+.buttonsa4:hover {
+    background-color: #CCCCCC;
+    color: #B10034;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.contentmy{
+	height:400px;
+	background:#FFFFFF;
+	border-top:#FFFFFF 2px solid;
+	margin:0;
+	padding:0;
+	}
+.edit{
+background: '14859.jpg';
+}

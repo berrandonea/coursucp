@@ -1,0 +1,52 @@
+    $sql = "SELECT distinct u.id, u.firstname, u.lastname, u.email "
+            . "FROM mdl_user u, mdl_context c, mdl_role_assignments ra "
+            . "WHERE c.contextlevel = 50 AND ra.contextid = c.id AND ra.userid = u.id "
+            . "AND c.instanceid = $course->id AND ra.roleid = 5 "
+            . "ORDER BY u.lastname";
+			
+			
+	report_stats_time_spent_in_course
+	
+	 $students = Array();
+   $tableau = Array();
+   $mini = Array();
+   $maxi = Array();
+   
+   SELECT count(a.id) as count FROM mdl_quiz_attempts a, mdl_quiz q where q.id = a.quiz and q.course = 13 and a.userid = 19370 and a.state = 'finished' 
+   
+   
+   
+   
+   $i = 0;
+manageareafiles
+
+   //Pour chaque étudiant
+   foreach ($studentinfos as $studentinfo) {
+        echo "<tr><td><b>$studentinfo->lastname</b></td><td><b>$studentinfo->firstname</b></td><td><b>$studentinfo->email</b></td>";
+        //$csv .= $studentinfo->lastname.";".$studentinfo->firstname.";;";    
+        $csv .= $studentinfo->lastname.";".$studentinfo->firstname.";".$studentinfo->email.";;";   		
+        $tableau[$i] = report_stats_time_spent_in_course($course->id, $studentinfo->id, $timefrom, $timeto);
+
+
+        if ($i == 0) {
+            $mini = $tableau[$i];
+            $maxi = $tableau[$i];
+        }
+        else {
+            if ($tableau[$i] < $mini) {
+                $mini = $tableau[$i];
+            }
+            if ($tableau[$i] > $maxi) {
+                $maxi = $tableau[$i];
+            }
+        }
+
+        echo "<td>$tableau[$i]</td>";
+        $csv .= "$tableau[$i];";
+
+        echo "</tr>";            
+        $csv .= "£µ£";
+		
+		http://forum.alsacreations.com/topic-20-33115-1-Ajouter-un-checkbox-dynamique-a-chaque-ligne-de-tableauresolu.html
+        $i++;
+   }

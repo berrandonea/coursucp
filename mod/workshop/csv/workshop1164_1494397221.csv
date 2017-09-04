@@ -1,0 +1,27 @@
+"Prenom correcteur";"Nom correcteur";"Prenom auteur1";"Nom auteur1";"Note auteur1 par ce correcteur";"Note finale auteur1";"Ecart auteur1";"Prenom auteur2";"Nom auteur2";"Note auteur2 par ce correcteur";"Note finale auteur2";"Ecart auteur2";"Prenom auteur3";"Nom auteur3";"Note auteur3 par ce correcteur";"Note finale auteur3";"Ecart auteur3";"Prenom auteur4";"Nom auteur4";"Note auteur4 par ce correcteur";"Note finale auteur4";"Ecart auteur4";"Prenom auteur5";"Nom auteur5";"Note auteur5 par ce correcteur";"Note finale auteur5";"Ecart auteur5";"Moyenne ecarts";
+Massi;"Ait Ouali";Massi;"Ait Ouali";75.00000;;75;Doriane;Boumediene;100.00000;;100;Lisa;"Charaf Zadah";100.00000;;100;Nicolas;Decaix;87.50000;;87.5;Nivedha;Sairin;100.00000;;100;92.5;
+Kevin;Benard;Kevin;Benard;100.00000;;100;Solene;Michel;100.00000;;100;;;;;;;;;;;;;;;;100;
+Nora;Bouabdillah;Nora;Bouabdillah;;;0;Lisa;"Charaf Zadah";;;0;Maeva;Gelineau;;;0;Carla;"Le Guillerm";;;0;Apolline;Megras;62.50000;;62.5;12.5;
+Doriane;Boumediene;Nora;Bouabdillah;62.50000;;62.5;Doriane;Boumediene;100.00000;;100;Victoria;Brignon;62.50000;;62.5;Maeva;Gelineau;62.50000;;62.5;Gwenaelle;Storne;87.50000;;87.5;75;
+Emma;Brandibas;Emma;Brandibas;;;0;Jordan;Mallard;;;0;Leila;Samia;;;0;;;;;;;;;;;0;
+Victoria;Brignon;Victoria;Brignon;100.00000;;100;Nicolas;Decaix;87.50000;;87.5;Carla;"Le Guillerm";87.50000;;87.5;Amelie;Mazarin;50.00000;;50;Jeremy;Objois;100.00000;;100;85;
+Lisa;"Charaf Zadah";Victoria;Brignon;75.00000;;75;Lisa;"Charaf Zadah";87.50000;;87.5;Maeva;Gelineau;87.50000;;87.5;Margot;Morin;87.50000;;87.5;Gwenaelle;Storne;100.00000;;100;87.5;
+Lucie;Couet;Nora;Bouabdillah;;;0;Doriane;Boumediene;;;0;Lucie;Couet;;;0;Amelie;Mazarin;;;0;Nivedha;Sairin;;;0;0;
+Awatif;Darabid;Awatif;Darabid;100.00000;;100;Aurore;Denis;100.00000;;100;Anila;Ilyas;37.50000;;37.5;Nisrine;Mazouz;37.50000;;37.5;"Roseline Ramya";Outtirabady;37.50000;;37.5;62.5;
+Nicolas;Decaix;Victoria;Brignon;75.00000;;75;Lucie;Couet;62.50000;;62.5;Nicolas;Decaix;87.50000;;87.5;Carla;"Le Guillerm";75.00000;;75;Margot;Morin;100.00000;;100;80;
+Aurore;Denis;Awatif;Darabid;;;0;Aurore;Denis;;;0;Anila;Ilyas;;;0;Nisrine;Mazouz;;;0;"Roseline Ramya";Outtirabady;;;0;0;
+Maeva;Gelineau;Lisa;"Charaf Zadah";100.00000;;100;Maeva;Gelineau;100.00000;;100;Apolline;Megras;62.50000;;62.5;Jeremy;Objois;62.50000;;62.5;Gwenaelle;Storne;100.00000;;100;85;
+Anila;Ilyas;Awatif;Darabid;100.00000;;100;Aurore;Denis;100.00000;;100;Anila;Ilyas;50.00000;;50;Nisrine;Mazouz;50.00000;;50;"Roseline Ramya";Outtirabady;50.00000;;50;70;
+Carla;"Le Guillerm";Massi;"Ait Ouali";75.00000;;75;Nora;Bouabdillah;50.00000;;50;Carla;"Le Guillerm";87.50000;;87.5;Apolline;Megras;62.50000;;62.5;Nivedha;Sairin;62.50000;;62.5;67.5;
+Jordan;Mallard;Emma;Brandibas;37.50000;;37.5;Jordan;Mallard;37.50000;;37.5;Leila;Samia;62.50000;;62.5;;;;;;;;;;;45.833333333333;
+Amelie;Mazarin;Victoria;Brignon;100.00000;;100;Nicolas;Decaix;87.50000;;87.5;Amelie;Mazarin;87.50000;;87.5;Margot;Morin;100.00000;;100;Jeremy;Objois;87.50000;;87.5;92.5;
+Nisrine;Mazouz;Awatif;Darabid;100.00000;;100;Aurore;Denis;100.00000;;100;Anila;Ilyas;100.00000;;100;Nisrine;Mazouz;100.00000;;100;"Roseline Ramya";Outtirabady;100.00000;;100;100;
+Apolline;Megras;Lucie;Couet;100.00000;;100;Carla;"Le Guillerm";100.00000;;100;Apolline;Megras;100.00000;;100;Jeremy;Objois;100.00000;;100;Nivedha;Sairin;100.00000;;100;100;
+Solene;Michel;Kevin;Benard;100.00000;;100;Solene;Michel;100.00000;;100;;;;;;;;;;;;;;;;100;
+Margot;Morin;Massi;"Ait Ouali";37.50000;;37.5;Lisa;"Charaf Zadah";100.00000;;100;Lucie;Couet;100.00000;;100;Nicolas;Decaix;75.00000;;75;Margot;Morin;100.00000;;100;82.5;
+Jeremy;Objois;Massi;"Ait Ouali";50.00000;;50;Doriane;Boumediene;87.50000;;87.5;Amelie;Mazarin;87.50000;;87.5;Margot;Morin;100.00000;;100;Jeremy;Objois;87.50000;;87.5;82.5;
+"Roseline Ramya";Outtirabady;Awatif;Darabid;;;0;Aurore;Denis;100.00000;;100;Anila;Ilyas;;;0;Nisrine;Mazouz;;;0;"Roseline Ramya";Outtirabady;;;0;20;
+Nivedha;Sairin;Nora;Bouabdillah;100.00000;;100;Lucie;Couet;87.50000;;87.5;Maeva;Gelineau;87.50000;;87.5;Nivedha;Sairin;100.00000;;100;Gwenaelle;Storne;100.00000;;100;95;
+Leila;Samia;Emma;Brandibas;;;0;Jordan;Mallard;;;0;Leila;Samia;;;0;;;;;;;;;;;0;
+Gwenaelle;Storne;Massi;"Ait Ouali";100.00000;;100;Doriane;Boumediene;100.00000;;100;Amelie;Mazarin;100.00000;;100;Apolline;Megras;100.00000;;100;Gwenaelle;Storne;100.00000;;100;100;
+

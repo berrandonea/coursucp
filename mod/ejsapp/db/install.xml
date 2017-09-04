@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="mod/ejsapp/db" VERSION="20120606" COMMENT="XMLDB file for Moodle mod/ejsapp"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+        >
+    <TABLES>
+        <TABLE NAME="ejsapp" COMMENT="Defines the Easy Java/Javascript Simulations Applications instances in Moodle"
+               NEXT="ejsapp_personal_vars">
+            <FIELDS>
+                <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="course"/>
+                <FIELD NAME="course" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false"
+                       COMMENT="Course ejsapp activity belongs to" PREVIOUS="id" NEXT="name"/>
+                <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false"
+                       COMMENT="name field for moodle instances" PREVIOUS="course" NEXT="intro"/>
+                <FIELD NAME="intro" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="General introduction of the ejsapp activity" PREVIOUS="name" NEXT="introformat"/>
+                <FIELD NAME="introformat" TYPE="int" LENGTH="4" NOTNULL="true" UNSIGNED="true" DEFAULT="0"
+                       SEQUENCE="false" COMMENT="Format of the intro field (MOODLE, HTML, MARKDOWN...)" PREVIOUS="intro"
+                       NEXT="appwording"/>
+                <FIELD NAME="appwording" TYPE="text" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="Wording associated to the EJS applet" PREVIOUS="introformat" NEXT="appwordingformat"/>
+                <FIELD NAME="appwordingformat" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false"
+                       COMMENT="Format of the appwording field (MOODLE, HTML, MARKDOWN...)" PREVIOUS="appwording"
+                       NEXT="css"/>
+                <FIELD NAME="css" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="CSS styles for javascript apps" PREVIOUS="appwordingformat" NEXT="timecreated"/>
+                <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="css" NEXT="timemodified"/>
+                <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" DEFAULT="0"
+                       SEQUENCE="false" PREVIOUS="timecreated" NEXT="applet_name"/>
+                <FIELD NAME="applet_name" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="Name of the applet that implements the Lab (e.g., heatflowMoodle)"
+                       PREVIOUS="timemodified" NEXT="class_file"/>
+                <FIELD NAME="class_file" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="applet main class file (e.g., heatflow.heatflowMoodle.heatflowMoodleApplet.class)"
+                       PREVIOUS="applet_name" NEXT="codebase"/>
+                <FIELD NAME="codebase" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="Path of the .jar that embeds the applet (e.g., /remote_laboratories_applets/gyroscopeMoodle/)"
+                       PREVIOUS="class_file" NEXT="mainframe"/>
+                <FIELD NAME="mainframe" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false"
+                       COMMENT="Name of the EJS mainframe (by default MainFrame)" PREVIOUS="codebase"
+                       NEXT="is_collaborative"/>
+                <FIELD NAME="is_collaborative" TYPE="int" LENGTH="1" NOTNULL="true" UNSIGNED="false" DEFAULT="0"
+                       SEQUENCE="false" COMMENT="Does the lab supports collaborative sessions? (1=yes, 0=not)"
+                       PREVIOUS="mainframe" NEXT="applet_size_conf"/>
+                <FIELD NAME="applet_size_conf" TYPE="int" LENGTH="1" NOTNULL="true" UNSIGNED="false" DEFAULT="0"
+                       SEQUENCE="false" PREVIOUS="is_collaborative" NEXT="preserve_aspect_ratio"/>
+                <FIELD NAME="preserve_aspect_ratio" TYPE="int" LENGTH="1" NOTNULL="true" UNSIGNED="false" DEFAULT="0"
+                       SEQUENCE="false" PREVIOUS="applet_size_conf" NEXT="custom_width"/>
+                <FIELD NAME="custom_width" TYPE="int" LENGTH="5" NOTNULL="false" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="preserve_aspect_ratio" NEXT="custom_height"/>
+                <FIELD NAME="custom_height" TYPE="int" LENGTH="5" NOTNULL="false" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="custom_width" NEXT="is_rem_lab"/>
+                <FIELD NAME="is_rem_lab" TYPE="int" LENGTH="1" NOTNULL="true" SEQUENCE="false" DEFAULT="0"
+                       PREVIOUS="custom_height" NEXT="height"/>
+                <FIELD NAME="height" TYPE="int" LENGTH="5" NOTNULL="false" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="is_rem_lab" NEXT="width"/>
+                <FIELD NAME="width" TYPE="int" LENGTH="5" NOTNULL="false" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="height" NEXT="personalvars"/>
+                <FIELD NAME="personalvars" TYPE="int" LENGTH="1" NOTNULL="false" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="width"/>
+            </FIELDS>
+            <KEYS>
+                <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+            </KEYS>
+            <INDEXES>
+                <INDEX NAME="course" UNIQUE="false" FIELDS="course"/>
+            </INDEXES>
+        </TABLE>
+        <TABLE NAME="ejsapp_personal_vars" COMMENT="Contains information for generating personalized values for EJS variables"
+               PREVIOUS="ejsapp" NEXT="ejsapp_log">
+            <FIELDS>
+                <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="ejsappid"/>
+                <FIELD NAME="ejsappid" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false" PREVIOUS="id"
+                       NEXT="name"/>
+                <FIELD NAME="name" TYPE="char" LENGTH="20" NOTNULL="true" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="ejsappid" NEXT="type"/>
+                <FIELD NAME="type" TYPE="char" LENGTH="8" NOTNULL="true" SEQUENCE="false"
+                       PREVIOUS="name" NEXT="minval"/>
+                <FIELD NAME="minval" TYPE="float" LENGTH="10" DECIMALS ="6" NOTNULL="false" SEQUENCE="false"
+                       PREVIOUS="type" NEXT="maxval"/>
+                <FIELD NAME="maxval" TYPE="float" LENGTH="10" DECIMALS ="6" NOTNULL="false" SEQUENCE="false"
+                       PREVIOUS="minval"/>
+            </FIELDS>
+            <KEYS>
+                <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+            </KEYS>
+            <INDEXES>
+                <INDEX NAME="ejsappid" UNIQUE="false" FIELDS="ejsappid"/>
+            </INDEXES>
+        </TABLE>
+        <TABLE NAME="ejsapp_log" COMMENT="Contains logs to track the EJSApp labs usage"
+               PREVIOUS="ejsapp_personal_vars">
+            <FIELDS>
+                <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="time"/>
+                <FIELD NAME="time" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false" PREVIOUS="id"
+                       NEXT="userid"/>
+                <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false"
+                       PREVIOUS="time" NEXT="action"/>
+                <FIELD NAME="action" TYPE="char" LENGTH="40" NOTNULL="true" SEQUENCE="false"
+                       PREVIOUS="userid" NEXT="info"/>
+                <FIELD NAME="info" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false"
+                       PREVIOUS="action"/>
+            </FIELDS>
+            <KEYS>
+                <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+            </KEYS>
+        </TABLE>
+    </TABLES>
+</XMLDB> 

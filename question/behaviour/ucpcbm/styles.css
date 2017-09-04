@@ -1,0 +1,29 @@
+.qbehaviour_ucpcbm_slightlyunderconfident,
+.qbehaviour_ucpcbm_slightlyoverconfident {
+    font-weight: bold;
+    color: #600;
+}
+.qbehaviour_ucpcbm_underconfident,
+.qbehaviour_ucpcbm_overconfident {
+    font-weight: bold;
+    color: #c00;
+}
+
+.qbehaviour_ucpcbm_judgementok {
+    font-weight: bold;
+    color: #080;
+}
+
+.qbehaviour_ucpcbm_actual_percentage {
+    font-weight: bold;
+}
+
+.qbehaviour_ucpcbm_summary_heading {
+    margin: 0;
+}
+.que.ucpcbm .certaintychoices input[type="radio"] {
+    margin-left: 0.5em;
+}
+.que.ucpcbm .certaintychoices label {
+    white-space: nowrap;
+}

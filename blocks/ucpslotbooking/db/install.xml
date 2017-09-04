@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="blocks/ucpslotbooking/db" VERSION="20160111" COMMENT="XMLDB file for Moodle blocks/ucpslotbooking"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="block_ucpslotbooking_list" COMMENT="List of time slots for a particular purpose">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="blockid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="id of the block instance featuring this list"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="50" NOTNULL="true" SEQUENCE="false" COMMENT="Name for this list of time slots"/>
+        <FIELD NAME="justclick" TYPE="text" LENGTH="" NOTNULL="true" DEFAULT="" SEQUENCE="false" COMMENT="Seen by students above the slots list"/>
+        <FIELD NAME="nbshown" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="1" SEQUENCE="false" COMMENT="0: nb booked, 1: nb free, 2: both"/>
+        <FIELD NAME="msgbefore" TYPE="text" LENGTH="" NOTNULL="true" DEFAULT="" SEQUENCE="false" COMMENT="Acknoledgement message, before slot mention"/>
+        <FIELD NAME="msgafter" TYPE="text" LENGTH="" NOTNULL="true" DEFAULT="" SEQUENCE="false" COMMENT="Acknoledgement message, after slot mention"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="block_ucpslotbooking_date" COMMENT="Available date for the timeslots in this block instance">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="blockid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="id of the block instance"/>
+        <FIELD NAME="datetext" TYPE="char" LENGTH="12" NOTNULL="true" DEFAULT="01/01/1970" SEQUENCE="false" COMMENT="Name for this list of time slots."/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="block_ucpslotbooking_time" COMMENT="Available time for time slots in this block instance">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="blockid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="id of the block instance"/>
+        <FIELD NAME="starttime" TYPE="char" LENGTH="5" NOTNULL="true" DEFAULT="000" SEQUENCE="false" COMMENT="Starting time for a slot"/>
+        <FIELD NAME="endtime" TYPE="char" LENGTH="5" NOTNULL="true" DEFAULT="000" SEQUENCE="false" COMMENT="Ending time for a slot"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="block_ucpslotbooking_slot" COMMENT="Time slot, available to a limited number of students.">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="dateid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="timeid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="listid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="maxnumber" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Maximum number of students for this time slot."/>
+        <FIELD NAME="shortcomment" TYPE="char" LENGTH="150" NOTNULL="true" SEQUENCE="false" COMMENT="Tiny text describing this slot (optional)."/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="block_ucpslotbooking_booking" COMMENT="The booking of a time slot by a student">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="slotid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>

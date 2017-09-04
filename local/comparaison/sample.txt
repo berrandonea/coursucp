@@ -1,0 +1,6 @@
+login;groupe
+ppollet;groupe_de_test
+codet;groupe_de_test
+astorck;autre_groupe
+yjayet;
+

@@ -1,0 +1,58 @@
+.block_rss_plus .content {
+    padding: 0 !important;
+}
+
+.rsslink {
+    background: #ff8d1b none repeat scroll 0 0 !important;
+    padding: 10px;
+}
+
+.rsslink a {
+color: #fff ;
+}
+
+.rsslink a:hover {
+color: #000 ;
+}
+
+
+.rsswrap li{
+background : #fff !important;
+min-height: 100px;
+width: 100%;
+}
+
+.rssdescription{
+padding:10px;
+}
+
+.rssimage {
+width: 100%;
+}
+
+.rssimage img {
+width: 100%;
+}
+
+.rssaddfeedlink {
+	padding-top:8px;
+	
+}
+
+.rssaddfeedlink a{
+	background : #eeeeee url([[pix:block_rss_plus|addeditfeed]]) no-repeat !important;
+	background-position: 4px 4px !important;
+	border: 1px solid #cccccc;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-right:4px;
+	padding-left:24px;
+
+}
+
+.rssaddfeedlink a:hover {
+		background:#ffffff;
+		text-decoration:none;
+
+	
+}
