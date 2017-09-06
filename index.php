@@ -1209,8 +1209,19 @@ if ($isteacher) {
                 xhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
                 // ne pas oublier de poster les arguments
                 // ici, l'id de l'auteur
-                sel = document.getElementById('niveau');
+                sel = document.getElementById('niveau');                
+                autrevet = document.getElementById('autrevet');
+                autredisplay = autrevet.style.display;
                 idesp = sel.options[sel.selectedIndex].value;
+                if (autredisplay == 'block') {
+					if (idesp == -1) {
+						buttondisplay = 'none';
+					} else {
+						buttondisplay = 'block';
+					}
+					validbutton = document.getElementById('envoidemande');
+					validbutton.style.display = buttondisplay;
+				}                
                 xhr.send("idEsp="+idesp);
             }
 
@@ -1745,15 +1756,26 @@ function createvetcourse($created) {
                 $newcoursecontext = context_course::instance($newcourse->id, MUST_EXIST);
                 $newcourseid = $newcourse->id;
 
-                //On inscrit l'enseignant demandeur au cours, comme enseignant (s'il ne l'est pas déjà)
-                $sql = "SELECT id FROM mdl_enrol WHERE enrol = 'manual' AND courseid = $newcourseid";
-                $enrolid = $DB->get_record_sql($sql)->id;
+				//On enregistre qui crée le cours
                 $now = time();
-                $sql = "INSERT INTO mdl_user_enrolments (enrolid, userid, timestart, modifierid, timecreated, timemodified) VALUES ($enrolid, $askerid, $now, $USER->id, $now, $now)";
-                $DB->execute($sql);
-                $sql = "INSERT INTO mdl_role_assignments (roleid, contextid, userid, timemodified, modifierid) VALUES (3, $newcoursecontext->id, $askerid, $now, $USER->id)";
-                $DB->execute($sql);
-        }
+                $creator = new stdClass();
+                $creator->userid = $askerid;
+                $creator->courseid = $newcourseid;
+                $creator->timecreated = $now;
+                $DB->insert_record('course_creator', $creator);
+
+                //L'utilisateur qui crée ce cours a-t-il déjà des droits d'édition dessus ?
+                $caneditnewcourse = has_capability('moodle/course:update', $newcoursecontext);
+                if (!$caneditnewcourse) {
+					//On inscrit l'enseignant demandeur au cours, comme enseignant (s'il n'a pas déjà des droits d'édition dessus).
+                    $sql = "SELECT id FROM mdl_enrol WHERE enrol = 'manual' AND courseid = $newcourseid";
+                    $enrolid = $DB->get_record_sql($sql)->id;                    
+                    $sql = "INSERT INTO mdl_user_enrolments (enrolid, userid, timestart, modifierid, timecreated, timemodified) VALUES ($enrolid, $askerid, $now, $USER->id, $now, $now)";
+                    $DB->execute($sql);
+                    $sql = "INSERT INTO mdl_role_assignments (roleid, contextid, userid, timemodified, modifierid) VALUES (3, $newcoursecontext->id, $askerid, $now, $USER->id)";
+                    $DB->execute($sql);
+				}        
+		}
     }
     $sql = "UPDATE mdl_asked_courses SET answererid = $USER->id, answer = 'Oui', answeredat = NOW(), courseid = $newcourseid WHERE id = $created";
     $DB->execute($sql);
