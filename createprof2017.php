@@ -9,10 +9,6 @@ require_once($CFG->dirroot .'/course/lib.php');
 require_once($CFG->libdir .'/filelib.php');
 require_once($CFG->libdir .'/accesslib.php');
 
-/************************************************* DEBUT CONTENT ***************************************************************/
-// SEB - mars 2014
-/*******************************************************************************************************************************/
-
 $context = get_context_instance(CONTEXT_SYSTEM);
 
 /* ON CHARGE LE XML */
@@ -42,18 +38,23 @@ foreach($querygroupe as $result){
             //echo $result->getAttribute('uid')."- DEJA EXISTANT<br/>";
             $roles = get_user_roles($context, $query->id, false);
             $role = key($roles);
-            $roleid = $roles[$role]->roleid;
-            if($roleid != 2) {
-		        role_assign(2, $query->id, 1, $component = '', $itemid = 0, $timemodified = '');
-            }
-            if(!$query->firstname) {
+            if ($role) {
+				$roleid = $roles[$role]->roleid;
+                if($roleid != 2) {
+		            role_assign(2, $query->id, 1, $component = '', $itemid = 0, $timemodified = '');
+                }
+			}
+            
+            $newfirstname = addslashes(ucwords(strtolower($result->getAttribute('StaffFirstName'))));
+            if($query->firstname != $newfirstname) {
                 echo "test<br/>";
-                $DB->execute("UPDATE mdl_user SET firstname = '".ucwords(strtolower($result->getAttribute('StaffFirstName')))."' WHERE username ='".$result->getAttribute('StaffUID')."'");
+                $DB->execute("UPDATE mdl_user SET firstname = '".$newfirstname."' WHERE username ='".$result->getAttribute('StaffUID')."'");
             }
-            if(!$query->lastname) {
-                $lastname = addslashes(ucwords(strtolower($result->getAttribute('StaffCommonName'))));
-                echo "$lastname<br/>";
-                $DB->execute("UPDATE mdl_user SET lastname = '".addslashes(ucwords(strtolower($result->getAttribute('StaffCommonName'))))."' WHERE username ='".$result->getAttribute('StaffUID')."'");
+            $newlastname = addslashes(ucwords(strtolower($result->getAttribute('StaffCommonName'))));
+            if($query->lastname != $newlastname) {
+                //~ $lastname = addslashes(ucwords(strtolower($result->getAttribute('StaffCommonName'))));
+                //~ echo "$lastname<br/>";
+                $DB->execute("UPDATE mdl_user SET lastname = '".$newlastname."' WHERE username ='".$result->getAttribute('StaffUID')."'");
             }
             if(!$query->email) {
                 echo "test<br/>";
@@ -83,13 +84,13 @@ foreach($querygroupe as $result){
                 $codestructure = $affectation->getAttribute('CodeStructure');
                 if (isset($codestructure)) {
                     $ufrcode = substr($codestructure, 0, 1);
-                    $ufrcodeyear = "Y2017-$ufrcode";
+                    //$ufrcodeyear = "Y2017-$ufrcode"; 
                     if (!$DB->record_exists('ufr_teacher',
-                            array('userid' => $teacher->id, 'ufrcode' => $ufrcodeyear))) {
+                            array('userid' => $teacher->id, 'ufrcode' => $ufrcode))) {
 
                         $ufrteacher = array();
                         $ufrteacher['userid'] = $teacher->id;
-                        $ufrteacher['ufrcode'] = $ufrcodeyear;
+                        $ufrteacher['ufrcode'] = $ufrcode;
                         $DB->insert_record('ufr_teacher', $ufrteacher);
                         if ($DB->record_exists('ufr_teacher',
                             array('userid' => $teacher->id, 'ufrcode' => '-1'))) {
@@ -118,10 +119,9 @@ foreach($querygroupe as $result){
                     $typeprofdata['typeteacher'] = $result->getAttribute('LC_CORPS');
                     $DB->insert_record('teacher_type', $typeprofdata);
 
-                    if ($DB->record_exists_sql($sqlrecordexistsinfodata,
-                        array($teacher->id, "Non indiqué"))) {
-                        $DB->delete_records('teacher_type',
-                                array('userid' => $teacher->id, 'typeteacher' => "Non indiqué"));
+                    $nonindique = $DB->get_record_sql($sqlrecordexistsinfodata, array($teacher->id, "Non indiqué"));
+                    if ($nonindique) {
+                        $DB->delete_records('teacher_type', array('id' => $nonindique->id));
                     }
                 }
             }

@@ -64,6 +64,13 @@ if ($returnto === 'url' && confirm_sesskey() && $returnurl) {
 //BRICE
 $codevet = optional_param('cat', 0, PARAM_ALPHANUM); // Code de la VET dans laquelle on veut créer ce cours
 $nomvet = optional_param('nomvet', 0, PARAM_TEXT); // Nom de la VET dans laquelle on veut créer ce cours
+//~ print_object($USER); exit;
+//~ if ($USER->id == 1141) {
+	//~ var_dump($codevet);
+	//~ var_dump($nomvet);
+	//~ exit;
+//~ }
+
 if ($codevet != 0) {
 	$categoryid = createvetifnew($codevet, addslashes($nomvet));
 }

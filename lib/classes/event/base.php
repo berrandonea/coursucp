@@ -684,7 +684,6 @@ abstract class base implements \IteratorAggregate {
      */
     public final function trigger() {
         global $CFG;
-
         if ($this->restored) {
             throw new \coding_exception('Can not trigger restored event');
         }

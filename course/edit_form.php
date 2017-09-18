@@ -50,10 +50,12 @@ class course_edit_form extends moodleform {
 		$manager = false;
         if ($roles = get_user_roles($context, $USER->id)) {
             foreach ($roles as $role) {
-                            if($role->roleid == 1)
-                            {
-                                    $manager = true;
-                            }
+                if($role->shortname == 'manager') {
+                    $manager = true;
+                }
+                if($role->shortname == 'categorymanager') {
+                    $manager = true;
+                }                
             }
         }//fin
 
@@ -69,7 +71,11 @@ class course_edit_form extends moodleform {
 
         //BRICE
         $collabid = $DB->get_field('course_categories', 'id', array('idnumber' => 'COLLAB'));
-        if (!is_siteadmin() and !$manager and $category->id != $CFG->catbrouillonsid AND $course->category != $collabid) {
+        //~ if ($USER->id == 1141) {
+			//~ print_object($course);
+			//~ exit;
+		//~ }
+        if (!is_siteadmin() and !$manager and $category->id != $CFG->catbrouillonsid AND $category->id != $collabid) {
         	$mform->addElement('text','fullname', get_string('fullnamecourse'),'maxlength="254" size="50" readonly="readonly"');
         } else {
         	$mform->addElement('text','fullname', get_string('fullnamecourse'),'maxlength="254" size="50"');
@@ -96,11 +102,17 @@ class course_edit_form extends moodleform {
         $mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="20"'); */
 
         //BRICE
-        if (!is_siteadmin() and !$manager and $category->id != $CFG->catbrouillonsid) {
-        	$mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="40" readonly="readonly"');
-        } else {
-        	$mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="40"');
-        }//fin
+        if (!is_siteadmin() and !$manager and $category->id != $CFG->catbrouillonsid AND $category->id != $collabid) {
+			$mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="40" readonly="readonly"');
+		} else {
+			$mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="40"');
+		}        
+        //~ if (!is_siteadmin() and !$manager and $category->id != $CFG->catbrouillonsid) {
+        	//~ $mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="40" readonly="readonly"');
+        //~ } else {
+        	//~ $mform->addElement('text', 'shortname', get_string('shortnamecourse'), 'maxlength="100" size="40"');
+        //~ }
+        //fin
 
         $mform->addHelpButton('shortname', 'shortnamecourse');
         $mform->addRule('shortname', get_string('missingshortname'), 'required', null, 'client');
@@ -224,12 +236,18 @@ class course_edit_form extends moodleform {
             $mform->setConstants('idnumber', $course->idnumber);
         } */
         
-        //BRICE
-        if (!is_siteadmin() && !$manager){
-        	$mform->addElement('text','idnumber', get_string('idnumbercourse'),'maxlength="100"  size="40" readonly="readonly"');
-        }else {
-        	$mform->addElement('text','idnumber', get_string('idnumbercourse'),'maxlength="100"  size="40"');
-        }
+                //BRICE
+        if (!is_siteadmin() and !$manager and $category->id != $CFG->catbrouillonsid AND $category->id != $collabid) {
+			$mform->addElement('text','idnumber', get_string('idnumbercourse'),'maxlength="100"  size="40" readonly="readonly"');
+		} else {
+			$mform->addElement('text','idnumber', get_string('idnumbercourse'),'maxlength="100"  size="40"');
+		}        
+        
+        //~ if (!is_siteadmin() && !$manager){
+        	//~ $mform->addElement('text','idnumber', get_string('idnumbercourse'),'maxlength="100"  size="40" readonly="readonly"');
+        //~ }else {
+        	//~ $mform->addElement('text','idnumber', get_string('idnumbercourse'),'maxlength="100"  size="40"');
+        //~ }
         //  $mform->addHelpButton('idnumber', 'idnumbercourse');
         $mform->setType('idnumber', PARAM_RAW);
         

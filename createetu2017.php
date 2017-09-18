@@ -35,7 +35,7 @@ $xmldoc->load('/home/referentiel/DOKEOS_Etudiants_Inscriptions.xml');
 $xpathvar = new Domxpath($xmldoc);
 $querystudent = $xpathvar->query('//Student');
 $i = 0; //Nombre d'étudiants dans le fichier XML
-$j = 0; //Nombre d'étudiants 2016 dans le fichier XML
+$j = 0; //Nombre d'étudiants 2017 dans le fichier XML
 foreach($querystudent as $result){
     $i++;
     $studentuid = $result->getAttribute('StudentUID');
@@ -116,7 +116,7 @@ foreach($querystudent as $result){
                         $DB->execute($sql);
                     }
 
-                    //idem pour la VET
+                    //Si cette inscription de l'utilisateur à cette composante n'est pas encore dans mdl_student_vet, on l'y ajoute
                     $sql = "SELECT id FROM mdl_course_categories WHERE idnumber = '$codeetapeyear'";
                     $vet = $DB->get_record_sql($sql);
                     if ($vet) {
@@ -128,6 +128,24 @@ foreach($querystudent as $result){
                             $DB->execute($sql);
                         }
                     }
+                    
+                    //S'il existe, quelque-part, des groupes dont l'idnumber est $codeetapeyear, il faut que cet étudiant y soit inscrit.
+                    $linkedgroups = $DB->get_records('groups', array('idnumber' => $codeetapeyear));
+                    foreach ($linkedgroups as $linkedgroup) {
+						//Si l'étudiant n'est pas inscrit au cours dont ce groupe fait partie, on l'y inscrit.
+						$inlinkedcourse = false;
+						$linkedcoursecontext = $DB->get_record('context', array('contextlevel' => 50, 'instanceid' => $linkedgroup->courseid));
+						$inlinkedcourse = $DB->get_record('role_assignments', array('contextid' => $linkedcoursecontext->id, 'userid' => $user->id));
+						if (!$inlinkedcourse) {
+							enrolstudent($user->id, $linkedcoursecontext);
+						}
+						//Si l'étudiant n'est pas inscrit au groupe, on l'y inscrit.
+						$inlinkedgroup = false;
+						$inlinkedgroup = $DB->get_record('groups_members', array('groupid' => $linkedgroup->id, 'userid' => $user->id));
+						if (!$inlinkedgroup) {
+							groupstudent($user->id, $linkedgroup);
+						}
+					}
                 }
             }
         }
@@ -167,10 +185,34 @@ if ($nbdistinctusernames != $nbusernames) {
     }
 }
 
+function enrolstudent($userid, $coursecontext) {
+	global $DB;
+	$now = time();
+	$manualenrol = $DB->get_record('enrol', array('enrol' => 'manual', 'courseid' => $coursecontext->instanceid));
+	$userenrolment = new stdClass();
+	$userenrolment->enrolid = $manualenrol->id;
+	$userenrolment->userid = $userid;
+	$userenrolment->timestart = $now;
+	$userenrolment->timecreated = $now;
+	$userenrolment->timemodified = $now;
+	$userenrolment->modifierid = 2; //admin
+	$userenrolment->id = $DB->insert_record('user_enrolments', $userenrolment);
+	$roleassignment = new stdClass();
+	$roleassignment->roleid = 5;
+	$roleassignment->contextid = $coursecontext->id;
+	$roleassignment->userid = $userid;
+	$roleassignment->timemodified = $now;
+	$roleassignment->modifierid = 2; //admin
+	$roleassignment->id = $DB->insert_record('role_assignments', $roleassignment);
+}
+
+function groupstudent($userid, $group) {
+	global $DB;
+	$groupmember = new stdClass();
+	$groupmember->groupid = $group->id;
+	$groupmember->userid = $userid;
+	$groupmember->timeadded = time();
+	$groupmember->id = $DB->insert_record('groups_members', $groupmember);
+}
 
 
-
-/***************************** FIN CONTENT **************************************************************************************************/
-/********************************************************************************************************************************************/
-
-?>

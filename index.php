@@ -139,6 +139,7 @@ if (!$isknownasteacher) {
     // mail de l'user
     $mailaverifier = $USER->email;
     $verifrole = explode("@", $mailaverifier);
+    $verifrole[1] = trim($verifrole[1]);
     if (($verifrole[1] == "u-cergy.fr")||($verifrole[1] == "iufm.u-cergy.fr")) {
         $isteacher = 1;
         role_assign(2, $USER->id, 1, $component = '', $itemid = 0, $timemodified = '');
@@ -871,7 +872,7 @@ if ($isteacher) {
 ?>
         
 
-    <!-- BLOC COURS DISPOS -->
+    <!-- BLOC CREER COURS OU ESPACE COLLAB -->
     <div class="block">
     <div onclick="flipflop('createcourse');" style="text-align:center;width:100%;font-weight:bold;padding:5px;color:white;background-color:#7F7F7F;border-radius:5px 5px 0 0">
         Créer un cours ou un espace collaboratif
@@ -881,9 +882,13 @@ if ($isteacher) {
         class="content"       
         style='width:100%;display:<?php if ($openblock == 'createcourse') echo "block"; else echo "none"; ?>'
     >
-	<h3>Cours disponibles à la création</h3>
+    <!-- SOUS-BLOC COURS DISPOS -->
+    <?php
+    if(!isset($_POST['envoidemande'])){    
+    ?>
+	    <h3>Cours disponibles à la création</h3>
 		<p>Ces cours sont correctement renseignés dans Apogée et Celcat :</p>
-        <div id="emoticone2" style='min-height : 200px;display:block;'>
+        <div id="emoticone2" style='min-height : 150px;display:block;'>
             <script> affiche('createcoursedispo2017.php','emoticone2');</script>
             <script>
             var opts = {
@@ -912,12 +917,16 @@ if ($isteacher) {
             }
             </script>
         </div>
+        <hr>
+    <?php
+    }
+    ?>
 <!--
      </div>
     </div>
 -->
 
-    <!-- BLOC DEMANDE DE COURS -->
+    <!-- SOUS-BLOC DEMANDE DE COURS -->
 <!--
     <div class="block">
     <div onclick="flipflop('demandecourse');" style="text-align:center;width:100%;font-weight:bold;padding:5px;color:white;background-color:#7F7F7F;border-radius:5px 5px 0 0">
@@ -929,16 +938,13 @@ if ($isteacher) {
          style='width:100%;display:<?php if(isset($_POST['envoidemande'])) echo "block"; else echo "none"; ?>'
          >
 -->
-<h3>Créer un espace collaboratif</h3>
-<p style='text-align:center'>
-<form method="post" name="askcollabspace" id="askcollabspace" action="index.php" style="text-align:center"> 	
-	Titre : <input type='text' name='collab' max-length='70' size='40' value='Espace collaboratif de <?php echo "$USER->firstname $USER->lastname"; ?>'> 
-	<input type='submit' value='Créer'>
-</form>
-</p>
+
 <h3>Créer manuellement un cours</h3>
-<p>Si le cours que vous souhaitez créer n'apparaît pas dans la liste ci-dessus, vous pouvez demander sa création à l'aide de ce formulaire :</p>
-    <?php
+<?php
+    if (!isset($_POST['envoidemande'])) {
+		echo "<p>Si le cours que vous souhaitez créer n'apparaît pas dans la liste ci-dessus, vous pouvez demander sa création à l'aide de ce formulaire :</p>";
+	}
+    
     if (isset($_POST['genre'])) {
         $ufrnum = $_POST['genre'];
         $ufrnum = substr($ufrnum, -1);
@@ -997,13 +1003,14 @@ if ($isteacher) {
         $previouscourses = $DB->get_recordset_sql($sql);
 
         if (($previouscourses->valid())&&(!isset($_POST['lastusedindex']))) {
-            echo "<h3 style='color:red'>Le cours $codesvetelp existe déjà : </h3>";
-            echo "<span style='font-weight:bold'>1ère possibilité :</span> Cliquez sur le cours existant pour savoir à quel collègue il appartient et lui adresser éventuellement une demande d'inscription.<br><br>";
+            echo "<h3 style='color:blue'>Le cours $codesvetelp existe déjà. Que voulez-vous faire ?</h3>";
+            //~ echo "<span style='font-weight:bold'>1ère possibilité :</span> Cliquez sur le cours existant pour savoir à quel collègue il appartient et lui adresser éventuellement une demande d'inscription.<br><br>";
             echo "<ul>";
             foreach($previouscourses as $previouscourse) {
-                echo "<li><a href='$CFG->wwwroot/course/view.php?id=$previouscourse->id' style='color:#731472' target='_blanck'>$previouscourse->fullname</a></li>";
+                echo "<li><a href='$CFG->wwwroot/course/view.php?id=$previouscourse->id' style='color:#731472' target='_blanck'>$previouscourse->fullname</a> &nbsp; 
+                          <a href='$CFG->wwwroot/enrol/index.php?id=$previouscourse->id&demande=1'><button>Demander mon inscription</button></a></li><br>";
             }
-            echo "</ul><br>";
+            //~ echo "</ul><br>";
             $lastusedindexarray = explode('+', $previouscourse->idnumber);
             if (isset($lastusedindexarray[1])) {
                 $lastusedindex = $lastusedindexarray[1];
@@ -1011,9 +1018,13 @@ if ($isteacher) {
                 $lastusedindex = 0;
             }
             ?>
+<!--
         <span style='font-weight:bold'>2nde possibilité :</span> Vous pouvez créer un autre cours. Merci d'ajouter un suffixe à son titre pour le distinguer de celui qui existe déjà. A défaut, votre nom sera utilisé comme suffixe.<br><br>
+-->
+		<li>
             <form method='post' action='index.php'>
-                Suffixe : <input type='text' name='suffixe'/><br>
+                Non, je veux vraiment créer un nouveau cours. Pour le distinguer de celui qui existe déjà, j'ajoute le suffixe : <input type='text' name='suffixe' style='margin-bottom:0px'/><br>
+                (par défaut, votre nom sera utilisé comme suffixe)
                 <input type='hidden' name='genre' value='<?php echo $_POST['genre']; ?>'/>
                 <input type='hidden' name='vet' value='<?php echo $_POST['vet']; ?>'/>
                 <input type='hidden' name='elp' value='<?php echo $_POST['elp']; ?>'/>
@@ -1026,11 +1037,16 @@ if ($isteacher) {
                 <input type='hidden' name='descdemande' value="<?php echo $_POST['descdemande']; ?>"/>
                 <input type='hidden' name='format' value="<?php echo $_POST['format']; ?>"/>
                 <input type='hidden' name='lastusedindex' value='<?php echo $lastusedindex; ?>'/>
+<!--
                 Attention, il n'y aura pas d'inscription automatique d'étudiants dans ce cours supplémentaire. A vous de les inscrire ou de leur donner une clé pour s'inscrire eux-mêmes.<br><br>
-                <input type='submit' name='confirm' value='Créer un autre cours' />
-                &nbsp; &nbsp;
-                <a href='index.php' style='color:#731472'>Annuler</a>
+-->
+                <input type='submit' name='confirm' value='Créer un nouveau cours' />
+                &nbsp; &nbsp;                
             </form>
+            </li>
+            <br>
+            <li><a href='index.php' style='color:#731472'>Annuler ma demande</a></li>
+            </ul>
             <?php
             echo "";
         } else {
@@ -1374,7 +1390,20 @@ if ($isteacher) {
     <input onmouseover="recupertitre()" style="display:none" id="envoidemande" type="submit" name="envoidemande" value="Créer le cours" />
     </p>
         </form>
-    <?php } ?>
+        <br><br>
+
+        <?php if (!isset($_POST['envoidemande'])) { ?>
+			<hr>
+        <h3>Créer un espace collaboratif</h3>
+<p style='text-align:center'>
+	Les espaces collaboratifs ne sont pas des cours. Ils sont destinés au travail entre enseignants.
+<form method="post" name="askcollabspace" id="askcollabspace" action="index.php" style="text-align:center"> 	
+	Titre : <input type='text' name='collab' max-length='70' size='40' value='Espace collaboratif de <?php echo "$USER->firstname $USER->lastname"; ?>'> 
+	<input type='submit' value='Créer'>
+</form>
+</p>
+    <?php }
+    } ?>
 
 <!--
 <h3>Créer un brouillon</h3>
@@ -1694,17 +1723,18 @@ function createvetcourse($created) {
     }
 
     //Si le cours existe déjà
-    $sql = "SELECT id, COUNT(id) as alreadycreated FROM mdl_course WHERE idnumber = '$createdcourse->elpnum'";
+    $sql = "SELECT id, COUNT(id) as alreadycreated FROM mdl_course WHERE idnumber = 'Y2017-$createdcourse->elpnum'";
     $result = $DB->get_record_sql($sql);
     $alreadycreated = $result->alreadycreated;
     if ($alreadycreated) {
         echo "<span style='font-weight:bold,text-align:center'>Le cours $createdcourse->elpnum existe déjà.</span><br>";
         $newcourseid = $result->id;
+        if ($USER->id == 6) echo "$newcourseid<br>";
         return null;
     } else {
         //Sinon, on le crée
         //echo "Création du cours $createdcourse->elpnum<br>";
-        $vetcategoryid = createvetifnew($createdcourse->ufr, $createdcourse->level, $createdcourse->vetnum, $createdcourse->vettitle);
+        $vetcategoryid = createvetifnew($createdcourse->vetnum, $createdcourse->vettitle, $createdcourse->ufr, $createdcourse->level);
         //echo "vetcategoryid: $vetcategoryid<br>";
         $coursedata = array();
         $coursedata = new stdClass;
@@ -1755,8 +1785,8 @@ function createvetcourse($created) {
 
                 $newcoursecontext = context_course::instance($newcourse->id, MUST_EXIST);
                 $newcourseid = $newcourse->id;
-
-				//On enregistre qui crée le cours
+                
+                //On enregistre qui crée le cours
                 $now = time();
                 $creator = new stdClass();
                 $creator->userid = $askerid;
@@ -1767,15 +1797,24 @@ function createvetcourse($created) {
                 //L'utilisateur qui crée ce cours a-t-il déjà des droits d'édition dessus ?
                 $caneditnewcourse = has_capability('moodle/course:update', $newcoursecontext);
                 if (!$caneditnewcourse) {
-					//On inscrit l'enseignant demandeur au cours, comme enseignant (s'il n'a pas déjà des droits d'édition dessus).
+					/* On inscrit le demandeur au cours (s'il n'a pas déjà des droits d'édition dessus)
+					Si c'est un administratif, on l'inscrit comme "appui administratif et pédagogique".
+					Sinon, on l'insrit comme enseignant. */
+					$isadministratif = $DB->get_record('role_assignments', array('roleid' => 15, 'userid' => $askerid));
+					//~ $isadministratif = false;
+					if ($isadministratif) {
+						$newroleid = 16;
+					} else {
+						$newroleid = 3;
+					}
                     $sql = "SELECT id FROM mdl_enrol WHERE enrol = 'manual' AND courseid = $newcourseid";
                     $enrolid = $DB->get_record_sql($sql)->id;                    
                     $sql = "INSERT INTO mdl_user_enrolments (enrolid, userid, timestart, modifierid, timecreated, timemodified) VALUES ($enrolid, $askerid, $now, $USER->id, $now, $now)";
                     $DB->execute($sql);
-                    $sql = "INSERT INTO mdl_role_assignments (roleid, contextid, userid, timemodified, modifierid) VALUES (3, $newcoursecontext->id, $askerid, $now, $USER->id)";
+                    $sql = "INSERT INTO mdl_role_assignments (roleid, contextid, userid, timemodified, modifierid) VALUES ($newroleid, $newcoursecontext->id, $askerid, $now, $USER->id)";
                     $DB->execute($sql);
-				}        
-		}
+				}
+        }
     }
     $sql = "UPDATE mdl_asked_courses SET answererid = $USER->id, answer = 'Oui', answeredat = NOW(), courseid = $newcourseid WHERE id = $created";
     $DB->execute($sql);

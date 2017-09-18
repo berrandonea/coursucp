@@ -144,10 +144,23 @@ if ($studentinvet) {
 }
 echo "<br><br>";
 
+//BRICE Ajout pour l'UFR Droit
+$ufrdroit = false;
+$parentcontextids = explode('/', $context->path);
+$ufrdroitcontext = 51045;
+if (in_array($ufrdroitcontext, $parentcontextids)) {
+	$ufrdroit = true;
+}
+if ($ufrdroit) {
+	echo "Ce cours fait partie de l'UFR Droit. L'équipe de l'UFR Droit ne vous autorise pas à demander votre inscription via cette plateforme. Merci de vous adresser au secrétariat pédagogique de votre formation.";
+	echo $OUTPUT->footer;
+	exit;
+}
+//FIN
+
 //Cet utilisateur a-t-il déjà fait une demande d'inscription à ce cours ?
 $sql = "SELECT id FROM mdl_asked_enrolments WHERE courseid = $id AND studentid = $USER->id";
 $asked = $DB->get_record_sql($sql);
-
 
 if (($demande)&&(!$asked)) {
 
@@ -186,7 +199,6 @@ if (($demande)&&(!$asked)) {
     'X-Mailer: PHP/'.phpversion();
     mail($to, $subject, $message, $headers);
 }
-
 
 if (($asked)||($demande)) {
 

@@ -46,16 +46,22 @@ class waiting_requests extends \core\task\scheduled_task {
 			$coursecontext = $DB->get_record('context', array('contextlevel' => 50, 'instanceid' => $askedenrolment->courseid));
 			//$courseteachers = get_enrolled_users($coursecontext, 'moodle/course:update');
 			if ($coursecontext) {
+				// Ne pas envoyer de notification pour les cours de l'UFR Droit
+				$course = $DB->get_record('course', array('id' => $askedenrolment->courseid));
+				$courseufr = substr($course->idnumber, 0, 7);
+				if ($courseufr == 'Y2017-1') {
+					continue;
+				}
 				$courseteachers = $DB->get_records('role_assignments', array('roleid' => 3, 'contextid' => $coursecontext->id));
 				foreach ($courseteachers as $courseteacher) {
 				    $nomail = $DB->record_exists('block_enroldemands_nomail', array('userid' => $courseteacher->userid));
 				    if (!$nomail) {
-					if (isset($teachers[$courseteacher->userid])) {
-						$teachers[$courseteacher->userid]++;
-					} else {
-						$teachers[$courseteacher->userid] = 1;
-					}
-				   }
+					    if (isset($teachers[$courseteacher->userid])) {
+						    $teachers[$courseteacher->userid]++;
+					    } else {
+						    $teachers[$courseteacher->userid] = 1;
+					    }
+				    }
 				}
 			}
 		}

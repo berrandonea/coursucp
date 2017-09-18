@@ -67,6 +67,12 @@ foreach ($vets as $vet) {
     $idvetyear = "Y2017-$idvet";
     echo "VET : $idvetyear\n";
     $ufrcode = substr($idvet, 0, 1);
+    
+    // Pas d'inscription automatique pour l'UFR Droit
+    if ($ufrcode == '1') {
+		continue;
+	}
+
     $ufrcodeyear = "Y2017-$ufrcode";
     echo "ufrcodeyear : $ufrcodeyear\n";
 

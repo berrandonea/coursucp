@@ -1,6 +1,6 @@
 
 <title>
-Cron quotidien - Indiquer les séances de cours dans le calendrier
+Cron quotidien - Indiquer les séances de cours dans le calendrier (pas seulement en Droit)
 </title>
 
 <?php

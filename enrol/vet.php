@@ -39,8 +39,12 @@ $confirm2   = optional_param('confirm2', 0, PARAM_BOOL);
 
 $allpromo = optional_param('allpromo', 0, PARAM_ALPHANUMEXT); //BRICE pour inscrire d'un coup la totalité d'une promotion
 if ($allpromo) {
-   $allpromo = 'Y2017-'.$allpromo;
+	$prefix = substr($allpromo, 0, 4);
+	if ($prefix != 'Y201') {
+		$allpromo = 'Y2017-'.$allpromo;
+	}
 }
+$codevet = substr($allpromo, 6); //Par exemple, $allpromo = 'Y2017-A2T5C' et $codevet = 'A2T5C'
 
 $course = $DB->get_record('course', array('id'=>$id), '*', MUST_EXIST);
 $context = context_course::instance($course->id, MUST_EXIST);
@@ -62,248 +66,8 @@ $PAGE->set_heading($course->fullname);
 $instances = enrol_get_instances($course->id, false);
 $plugins   = enrol_get_plugins(false);
 
-//if ($canconfig and $action and confirm_sesskey()) {
-//    if (isset($instances[$instanceid]) and isset($plugins[$instances[$instanceid]->enrol])) {
-//        if ($action === 'up') {
-//            $order = array_keys($instances);
-//            $order = array_flip($order);
-//            $pos = $order[$instanceid];
-//            if ($pos > 0) {
-//                $switch = $pos - 1;
-//                $resorted = array_values($instances);
-//                $temp = $resorted[$pos];
-//                $resorted[$pos] = $resorted[$switch];
-//                $resorted[$switch] = $temp;
-//                // now update db sortorder
-//                foreach ($resorted as $sortorder=>$instance) {
-//                    if ($instance->sortorder != $sortorder) {
-//                        $instance->sortorder = $sortorder;
-//                        $DB->update_record('enrol', $instance);
-//                    }
-//                }
-//            }
-//            redirect($PAGE->url);
-//
-//        } else if ($action === 'down') {
-//            $order = array_keys($instances);
-//            $order = array_flip($order);
-//            $pos = $order[$instanceid];
-//            if ($pos < count($instances) - 1) {
-//                $switch = $pos + 1;
-//                $resorted = array_values($instances);
-//                $temp = $resorted[$pos];
-//                $resorted[$pos] = $resorted[$switch];
-//                $resorted[$switch] = $temp;
-//                // now update db sortorder
-//                foreach ($resorted as $sortorder=>$instance) {
-//                    if ($instance->sortorder != $sortorder) {
-//                        $instance->sortorder = $sortorder;
-//                        $DB->update_record('enrol', $instance);
-//                    }
-//                }
-//            }
-//            redirect($PAGE->url);
-//
-//        } else if ($action === 'delete') {
-//            $instance = $instances[$instanceid];
-//            $plugin = $plugins[$instance->enrol];
-//
-//            if ($plugin->can_delete_instance($instance)) {
-//                if ($confirm) {
-//                    if (enrol_accessing_via_instance($instance)) {
-//                        if (!$confirm2) {
-//                            $yesurl = new moodle_url('/enrol/instances.php',
-//                                                     array('id' => $course->id,
-//                                                           'action' => 'delete',
-//                                                           'instance' => $instance->id,
-//                                                           'confirm' => 1,
-//                                                           'confirm2' => 1,
-//                                                           'sesskey' => sesskey()));
-//                            $displayname = $plugin->get_instance_name($instance);
-//                            $message = markdown_to_html(get_string('deleteinstanceconfirmself',
-//                                                                   'enrol',
-//                                                                   array('name' => $displayname)));
-//                            echo $OUTPUT->header();
-//                            echo $OUTPUT->confirm($message, $yesurl, $PAGE->url);
-//                            echo $OUTPUT->footer();
-//                            die();
-//                        }
-//                    }
-//                    $plugin->delete_instance($instance);
-//                    redirect($PAGE->url);
-//                }
-//
-//                echo $OUTPUT->header();
-//                $yesurl = new moodle_url('/enrol/instances.php',
-//                                         array('id' => $course->id,
-//                                               'action' => 'delete',
-//                                               'instance' => $instance->id,
-//                                               'confirm' => 1,
-//                                               'sesskey' => sesskey()));
-//                $displayname = $plugin->get_instance_name($instance);
-//                $users = $DB->count_records('user_enrolments', array('enrolid' => $instance->id));
-//                if ($users) {
-//                    $message = markdown_to_html(get_string('deleteinstanceconfirm', 'enrol',
-//                                                           array('name' => $displayname,
-//                                                                 'users' => $users)));
-//                } else {
-//                    $message = markdown_to_html(get_string('deleteinstancenousersconfirm', 'enrol',
-//                                                           array('name' => $displayname)));
-//                }
-//                echo $OUTPUT->confirm($message, $yesurl, $PAGE->url);
-//                echo $OUTPUT->footer();
-//                die();
-//            }
-//
-//        } else if ($action === 'disable') {
-//            $instance = $instances[$instanceid];
-//            $plugin = $plugins[$instance->enrol];
-//            if ($plugin->can_hide_show_instance($instance)) {
-//                if ($instance->status != ENROL_INSTANCE_DISABLED) {
-//                    if (enrol_accessing_via_instance($instance)) {
-//                        if (!$confirm2) {
-//                            $yesurl = new moodle_url('/enrol/instances.php',
-//                                                     array('id' => $course->id,
-//                                                           'action' => 'disable',
-//                                                           'instance' => $instance->id,
-//                                                           'confirm2' => 1,
-//                                                           'sesskey' => sesskey()));
-//                            $displayname = $plugin->get_instance_name($instance);
-//                            $message = markdown_to_html(get_string('disableinstanceconfirmself',
-//                                                        'enrol',
-//                                                        array('name' => $displayname)));
-//                            echo $OUTPUT->header();
-//                            echo $OUTPUT->confirm($message, $yesurl, $PAGE->url);
-//                            echo $OUTPUT->footer();
-//                            die();
-//                        }
-//                    }
-//                    $plugin->update_status($instance, ENROL_INSTANCE_DISABLED);
-//                    redirect($PAGE->url);
-//                }
-//            }
-//
-//        } else if ($action === 'enable') {
-//            $instance = $instances[$instanceid];
-//            $plugin = $plugins[$instance->enrol];
-//            if ($plugin->can_hide_show_instance($instance)) {
-//                if ($instance->status != ENROL_INSTANCE_ENABLED) {
-//                    $plugin->update_status($instance, ENROL_INSTANCE_ENABLED);
-//                    redirect($PAGE->url);
-//                }
-//            }
-//        }
-//    }
-//}
-
 echo $OUTPUT->header();
 echo $OUTPUT->heading('Inscription par VET');
-
-//echo $OUTPUT->box_start('generalbox boxaligncenter boxwidthnormal');
-//
-//// display strings
-//$strup      = get_string('up');
-//$strdown    = get_string('down');
-//$strdelete  = get_string('delete');
-//$strenable  = get_string('enable');
-//$strdisable = get_string('disable');
-//$strmanage  = get_string('manageinstance', 'enrol');
-//
-//$table = new html_table();
-//$table->head  = array(get_string('name'), get_string('users'), $strup.'/'.$strdown, get_string('edit'));
-//$table->align = array('left', 'center', 'center', 'center');
-//$table->width = '100%';
-//$table->data  = array();
-//
-//// iterate through enrol plugins and add to the display table
-//$updowncount = 1;
-//$icount = count($instances);
-//$url = new moodle_url('/enrol/instances.php', array('sesskey'=>sesskey(), 'id'=>$course->id));
-//foreach ($instances as $instance) {
-//    if (!isset($plugins[$instance->enrol])) {
-//        continue;
-//    }
-//    $plugin = $plugins[$instance->enrol];
-//
-//    $displayname = $plugin->get_instance_name($instance);
-//    if (!enrol_is_enabled($instance->enrol) or $instance->status != ENROL_INSTANCE_ENABLED) {
-//        $displayname = html_writer::tag('span', $displayname, array('class'=>'dimmed_text'));
-//    }
-//
-//    $users = $DB->count_records('user_enrolments', array('enrolid'=>$instance->id));
-//
-//    $updown = array();
-//    $edit = array();
-//
-//    if ($canconfig) {
-//        // up/down link
-//        $updown = '';
-//        if ($updowncount > 1) {
-//            $aurl = new moodle_url($url, array('action'=>'up', 'instance'=>$instance->id));
-//            $updown[] = $OUTPUT->action_icon($aurl, new pix_icon('t/up', $strup, 'core', array('class' => 'iconsmall')));
-//        } else {
-//            $updown[] = html_writer::empty_tag('img', array('src'=>$OUTPUT->pix_url('spacer'), 'alt'=>'', 'class'=>'iconsmall'));
-//        }
-//        if ($updowncount < $icount) {
-//            $aurl = new moodle_url($url, array('action'=>'down', 'instance'=>$instance->id));
-//            $updown[] = $OUTPUT->action_icon($aurl, new pix_icon('t/down', $strdown, 'core', array('class' => 'iconsmall')));
-//        } else {
-//            $updown[] = html_writer::empty_tag('img', array('src'=>$OUTPUT->pix_url('spacer'), 'alt'=>'', 'class'=>'iconsmall'));
-//        }
-//        ++$updowncount;
-//
-//        if ($plugin->can_delete_instance($instance)) {
-//            $aurl = new moodle_url($url, array('action'=>'delete', 'instance'=>$instance->id));
-//            $edit[] = $OUTPUT->action_icon($aurl, new pix_icon('t/delete', $strdelete, 'core', array('class' => 'iconsmall')));
-//        }
-//
-//        if (enrol_is_enabled($instance->enrol) && $plugin->can_hide_show_instance($instance)) {
-//            if ($instance->status == ENROL_INSTANCE_ENABLED) {
-//                $aurl = new moodle_url($url, array('action'=>'disable', 'instance'=>$instance->id));
-//                $edit[] = $OUTPUT->action_icon($aurl, new pix_icon('t/hide', $strdisable, 'core', array('class' => 'iconsmall')));
-//            } else if ($instance->status == ENROL_INSTANCE_DISABLED) {
-//                $aurl = new moodle_url($url, array('action'=>'enable', 'instance'=>$instance->id));
-//                $edit[] = $OUTPUT->action_icon($aurl, new pix_icon('t/show', $strenable, 'core', array('class' => 'iconsmall')));
-//            } else {
-//                // plugin specific state - do not mess with it!
-//                $edit[] = html_writer::empty_tag('img', array('src'=>$OUTPUT->pix_url('t/show'), 'alt'=>'', 'class'=>'iconsmall'));
-//            }
-//
-//        }
-//    }
-//
-//    // link to instance management
-//    if (enrol_is_enabled($instance->enrol) && $canconfig) {
-//        if ($icons = $plugin->get_action_icons($instance)) {
-//            $edit = array_merge($edit, $icons);
-//        }
-//    }
-//
-//    // Add a row to the table.
-//    $table->data[] = array($displayname, $users, implode('', $updown), implode('', $edit));
-//
-//}
-//echo html_writer::table($table);
-//
-//// access security is in each plugin
-//$candidates = array();
-//foreach (enrol_get_plugins(true) as $name=>$plugin) {
-//    if (!$link = $plugin->get_newinstance_link($course->id)) {
-//        continue;
-//    }
-//    $candidates[$link->out(false)] = get_string('pluginname', 'enrol_'.$name);
-//}
-//
-//if ($candidates) {
-//    $select = new url_select($candidates);
-//    $select->set_label(get_string('addinstance', 'enrol'));
-//    echo $OUTPUT->render($select);
-//}
-//
-//echo $OUTPUT->box_end();
-//
-////SALMA Inscription massive
-//echo '<br><p style="text-align:center"><a href="../local/mass_enroll/mass_enroll.php?id='.$COURSE->id.'"><button>Inscription massive avec un fichier CSV</button></a></p><br>';
 
 //BRICE Inscrire toute une promotion d'après son code VET
 echo "<h3>Inscrire TOUS les étudiants d'une certaine VET</h3>";
@@ -311,7 +75,7 @@ echo "<h3>Inscrire TOUS les étudiants d'une certaine VET</h3>";
 //BRICE Inscription de toute la promotion courante
 if ($allpromo) {
     //Promotion à inscrire
-    $sql = "SELECT name, id FROM mdl_course_categories WHERE idnumber = '$allpromo'";    
+    $sql = "SELECT name, id FROM mdl_course_categories WHERE idnumber = '$allpromo'";
     $enroledpromo = $DB->get_record_sql($sql);
     $newvet = 0;
         
@@ -323,7 +87,7 @@ if ($allpromo) {
         $xmldoc = new DOMDocument();
         $xmldoc->load('/home/referentiel/dokeos_offre_pedagogique.xml');
         $xpathvar = new Domxpath($xmldoc);            
-        $queryvet = $xpathvar->query("//Etape[@Code_etape='$allpromo']");
+        $queryvet = $xpathvar->query("//Etape[@Code_etape='$codevet']");
         
         foreach ($queryvet as $vetdata) {            
             $nomvet = $vetdata->getAttribute('Lib_etape');            
@@ -341,7 +105,7 @@ if ($allpromo) {
             $newvet = 1;
             echo "<span style='font:weight:bold;color:green'>Création réussie.</span><br><br>";
 
-            echo "<span style='font:weight:bold;color:green'>Les étudiants de la nouvelle VET ($allpromo) $nomvet seront inscrits à votre cours d'ici quelques heures puis au fur et à mesure de leur inscription dans CELCAT.</span><br><br>";
+            echo "<span style='font:weight:bold;color:green'>Les étudiants de la nouvelle VET ($allpromo) $nomvet seront inscrits à votre cours d'ici quelques heures puis au fur et à mesure de leur inscription dans APOGEE/CELCAT.</span><br><br>";
         } else {
             echo "<p style='color:red;font-weight:bold'>ERREUR : ce code VET n'existe pas.</p>";
             exit;
@@ -350,28 +114,26 @@ if ($allpromo) {
     
     
     //Y a-t-il déjà, dans ce cours, un groupe portant l'idnumber de la promotion ?
-    $sql = "SELECT id AS groupid FROM mdl_groups WHERE idnumber = '$allpromo' AND courseid = $course->id";    
-    $groupid = $DB->get_record_sql($sql)->groupid;        
+    $sql = "SELECT id AS groupid FROM mdl_groups WHERE idnumber = '$allpromo' AND courseid = $course->id";
+    $groupid = $DB->get_record_sql($sql)->groupid;
     //Si non, on le crée
-    if (!$groupid) {        
+    if (!$groupid) {
         $newgroupdata = new stdClass();
         $newgroupdata->courseid = $course->id;
         $newgroupdata->idnumber = $allpromo;
         $newgroupdata->name = $enroledpromo->name;        
-        $newgroupdata->description = 'Toute la VET';        
+        $newgroupdata->description = 'Toute la VET';
         $groupid = groups_create_group($newgroupdata);
         
         //$groupid = $DB->insert_record('groups',array('courseid'=>$course->id,'idnumber'=>"$enroledpromo->idnumber",'name'=>$enroledpromo->name,'description'=>'Tous les étudiants de la VET', 'descriptionformat'=>1, 'timecreated'=>time(),'timemodified'=>time()));
     }
     
     //Pour chaque étudiant de cette promotion
-    $sql = "SELECT studentid FROM mdl_student_vet WHERE categoryid = $enroledpromo->id";    
-    $vetstudents = $DB->get_recordset_sql($sql);    
-    $now = time();
-    
+    $sql = "SELECT studentid FROM mdl_student_vet WHERE categoryid = $enroledpromo->id";
+    $vetstudents = $DB->get_recordset_sql($sql);
+    $now = time();    
     $nbenroledstudents = 0;
-    
-    
+
     foreach ($vetstudents as $vetstudent) {
         //S'il n'est pas encore inscrit au cours, on l'y inscrit
         $sql = "SELECT ue.id "
@@ -397,7 +159,7 @@ if ($allpromo) {
             $gmid = $DB->insert_record('groups_members', $inserted);
         }
     }
-    
+
     if (!$newvet) {
         echo "<p style='font-weight:bold;color:red'>$nbenroledstudents étudiants inscrits.</p>";
     }
@@ -406,14 +168,6 @@ if ($allpromo) {
         
 }
 //FIN
-
-
-
-
-
-
-
-
 
 $sql = "SELECT idnumber FROM mdl_course_categories WHERE id = $COURSE->category";
 $currentvetcode = $DB->get_record_sql($sql)->idnumber;

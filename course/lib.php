@@ -58,7 +58,7 @@ define('MOD_CLASS_RESOURCE', 1);
 
 //BRICE S'il n'y a pas encore de catégorie "VET" avec ce code dans Moodle, on la crée
 //Renvoie l'id, dans la table "mdl_course_categories", de la VET créée ou de celle qui porte déjà ce code
-function createvetifnew($ufr, $level, $codevet, $nomvet) {
+function createvetifnew($codevet, $nomvet, $ufr = null, $level = null) {
 
     global $DB;
     $yearlycodevet = "Y2017-$codevet";
@@ -73,14 +73,19 @@ function createvetifnew($ufr, $level, $codevet, $nomvet) {
 		$vetid = $vetresult->id;
 	} else {
 		echo "Cette catégorie-vet n'existe pas encore<br>";
-		//~ $ufr = substr($codevet, 0, 1);
+		if (!$ufr) {
+		    $ufr = substr($codevet, 0, 1);
+		}
 
 		if (substr($nomvet, 0, 1) == "(") {
 			$nomvet = trim(substr(strrchr($nomvet, ")"), 1));
 		}
 
-		$level = substr($level, 1, 2);
-		//~ $level = substr($nomvet, 0, 2);
+		if ($level) {
+		    $level = substr($level, 1, 2);
+		} else {
+			$level = substr($nomvet, 0, 2);
+		}		
 		$testlicence = substr($nomvet, 0, 7);
 		$testmaster = substr($nomvet, 0, 6);
 		$vetlastchar = substr($nomvet, -1);
